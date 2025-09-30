@@ -22,8 +22,8 @@ const (
 
 var fixedText = `#profile-title: base64:8J+GkyBHaXRodWIgfCBEYW5pYWwgU2FtYWRpIPCfkI0=
 #profile-update-interval: 1
-#support-url: https://github.com/giromo/Xrey-collector
-#profile-web-page-url: https://github.com/giromo/Xrey-collector
+#support-url: https://github.com/giromo/Collector
+#profile-web-page-url: https://github.com/giromo/Collector
 `
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "hysteria2", "tuic", "tuic5", "wireguard", "warp"}
@@ -347,8 +347,8 @@ func splitIntoFiles(base64Folder string, configs []string) error {
         encodedTitle := base64.StdEncoding.EncodeToString([]byte(profileTitle))
         customFixedText := fmt.Sprintf(`#profile-title: base64:%s
 #profile-update-interval: 1
-#support-url: https://github.com/giromo/Xrey-collector
-#profile-web-page-url: https://github.com/giromo/Xrey-collector
+#support-url: https://github.com/giromo/Collector
+#profile-web-page-url: https://github.com/giromo/Collector
 `, encodedTitle)
 
         start := i * maxLinesPerFile
