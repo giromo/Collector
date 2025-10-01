@@ -1,4 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA-176.103.53.105-1427
+wireguard://TeFgef2LCVSP9fwWwdywWFqJMwAv7SDagRjN6VFxjNw%3D@162.159.192.1:4500?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8e0a%3A2aac%3A5127%3A5c81%3Ad882%2F128&reserved=134%2C198%2C163&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
+wireguard://vlGGmJkXE%2BTIvEoKUZJrr5%2FoWd4OnCQFC6cFHvXHimo%3D@162.159.192.1:1701?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A84b9%3Aaf08%3Aa54b%3A5674%3A51f3%2F128&reserved=127%2C12%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
+wireguard://wjl6Tzb75SXrjDZfjVBYL5cbW2oJdNX1T0CV%2BSNq8r8%3D@162.159.195.1:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8002%3Ad322%3Ab4ba%3A82e%3Adea0%2F128&reserved=176%2C148%2C193&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
 trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦 Ukraine 3
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#🇺🇦 | @External_Net
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA-176.103.53.105-1427
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.70:9097#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20Melbikomas%20UAB%20-%2020
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@217.30.10.70:9008#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20Melbikomas%20UAB%20-%2021
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@217.30.10.70:9000#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20Melbikomas%20UAB%20-%2022
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.70:9037#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20Melbikomas%20UAB%20-%2023
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20Melbikomas%20UAB%20-%206
