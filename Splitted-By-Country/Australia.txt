@@ -1,21 +1,10 @@
-trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
 vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPOU5QRks5MDYzWVp5ck4xdm05YkZM@45.79.238.56:443#Australia%20Akamai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇦🇺 - @FREEV2RNG 19
 vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=dde50f55d81116#🇦🇺[Telegram:NetifyVPN]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v1.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v1.vetrkot.com#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40vmess_vless_v2rayng%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40ultrasurf_12%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=%2FTELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayNG_Matsuri%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40shadowproxy66%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v6.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
+vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessorg%20%5B5%5D
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AUS
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v4.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AUS
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@170.106.152.78:443?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&host=saas.cfliu.filegear-sg.me&type=ws&sni=saas.cfliu.filegear-sg.me#%3E%3E%40DailyV2RY%3A%3AUS
+trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
