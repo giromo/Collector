@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=S5eW9e55Sx.SoLeNtRaA.iNfO&amp;fp=chrome&amp;type=ws&amp;sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%40V2RAY_VMESS_free
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=I78nThHk0Q.sOlEnTrAa.InFo&amp;fp=chrome&amp;type=ws&amp;sni=I78nThHk0Q.sOlEnTrAa.InFo#%40V2RAY_VMESS_free
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@92.243.75.49:2087?path=%2Fsnippets&amp;security=tls&amp;encryption=none&amp;host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&amp;fp=chrome&amp;type=ws&amp;sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#%40V2RAY_VMESS_free
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@92.118.228.154:443?path=%2FYnqGMcAt%2F&amp;security=tls&amp;encryption=none&amp;host=abc.vpneee.top&amp;fp=chrome&amp;type=ws&amp;sni=abc.vpneee.top#%40V2RAY_VMESS_free
@@ -501,4 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948737459748775.ahvaz-prx-dnraac
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#telegram
 vless://48d022ad-f831-48e0-9730-df4dadbbc684@18.183.60.11:27775?type=tcp&amp;encryption=none&amp;security=none#telegram
 vless://026d1208-bffb-42fe-d625-28f282f11410@142.93.161.118:443?type=xhttp&amp;encryption=none&amp;path=%2F25s&amp;host=&amp;mode=auto&amp;security=reality&amp;pbk=N0LlwsjuE-SqTo_M4w1E7CQvTs73JNbzRzDgDpHCMm8&amp;fp=chrome&amp;sni=store.steampowered.com&amp;sid=&amp;spx=%2F#telegram
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129812987.dezful-drc-tusaas.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram
