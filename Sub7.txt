@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?&security=tls&fp=chrome&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&type=ws&headerType=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=%2F%3Fed%3D2560#%5B%F0%9F%87%B1%F0%9F%87%BB%5D%20%5Bvl-tl-ws%5D%20%5B251005-102003.463%5D
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B1%F0%9F%87%BB%5D%20%5Bvl-no-ws%5D%20%5B251005-101927.237%5D
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%5B%F0%9F%87%B1%F0%9F%87%BB%5D%20%5Bvl-no-ws%5D%20%5B251005-101851.304%5D
-vless://48caa578-241e-43eb-817f-0854b84b0fb0@www.speedtest.net:443?&security=tls&fp=chrome&sni=conFiG-VOrteX55-AR5.pagES.deV&type=ws&headerType=none&host=conFiG-VOrteX55-AR5.pagES.deV&path=%2Fedrlz7qvRheKjll8%2FMTQ0LjI0LjkwLjEwNw%3D%3D%3Fed%3D2560fp%3Drandomized#%5B%F0%9F%87%B0%F0%9F%87%B7%5D%20%5Bvl-tl-ws%5D%20%5B251005-101906.777%5D
 vless://019984df-e8d5-10ee-435f-9143d7beb674@103.115.64.38:6006?&security=tls&fp=chrome&sni=getsub.saas.classelivre.eu.org&type=ws&headerType=none&host=getsub.saas.classelivre.eu.org&path=%2Fsnippets%3Fip%3Dproxyip.oracle.cmliussss.net#%5B%F0%9F%87%B0%F0%9F%87%B7%5D%20%5Bvl-tl-ws%5D%20%5B251005-101755.400%5D
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh67wn4ezXSBbdm0tbm8td3NdIFsyNTEwMDUtMTAyNDMzLjg1OV0iLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh67wn4ezXSBbdm0tbm8td3NdIFsyNTEwMDUtMTAyNDIwLjM2Ml0iLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZ29vZ2xlLmNvbSIsInRscyI6IiJ9
@@ -502,3 +498,7 @@ vless://12345678-1234-1234-1234-123456789123@195.13.44.50:2096?&security=tls&fp=
 vless://12345678-1234-1234-1234-123456789123@213.241.198.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E4%BF%84%E7%BD%97%E6%96%AF_16
 vless://12345678-1234-1234-1234-123456789123@188.164.158.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_4
 vless://12345678-1234-1234-1234-123456789123@193.9.49.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E4%BF%84%E7%BD%97%E6%96%AF_15
+vless://12345678-1234-1234-1234-123456789123@164.38.155.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E8%8B%B1%E5%9B%BD_17
+vless://12345678-1234-1234-1234-123456789123@185.251.82.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E8%A5%BF%E7%8F%AD%E7%89%99_10
+vless://12345678-1234-1234-1234-123456789123@216.24.57.52:2096?&security=tls&fp=chrome&sni=saas.git.cloudns.org&type=ws&headerType=none&host=saas.git.cloudns.org&path=%2Fsnippets%26freecodes%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F%3Fed%3D2560#_%E7%BE%8E%E5%9B%BD_80
+vless://12345678-1234-1234-1234-123456789123@188.164.248.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E8%8D%B7%E5%85%B0_19
