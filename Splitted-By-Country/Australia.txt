@@ -1,16 +1,15 @@
+trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
+vmess://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkY2IyMTEzMC04ODBmLTRjNzYtODRjOC01YWExNzZkOGZkYjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNjUzNyIsInBzIjoi4pqh77iPIEBWaVBWcG5fdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇦🇺 - @FREEV2RNG 19
-vless://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto&path=/&security=reality&encryption=none&pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=ea5b1f87#r♡ya
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&authority=/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#r♡ya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%201.9MB%2Fs
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40shadowproxy66%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856775.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378511390.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
-hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8hysteria://62.210.127.217:40099/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AB%F0%9F%87%B7
-vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%202.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40shadowproxy66%3A%3AUS
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@148.135.110.150:48503?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40configV2rayNG%3A%3AUS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2FVrChX4o5oasIm4In%3Fed%3D2560&security=tls&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#%3E%3E%40configV2rayNG%3A%3AUS
+vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMTkiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
