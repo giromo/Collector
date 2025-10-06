@@ -33,6 +33,15 @@ MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
 TIMEOUT = 1
 
+# الگوهای regex برای پروتکل‌ها (پیشنهادی شما)
+PROTOCOL_PATTERNS = {
+    "vmess": [r"vmess://[^ \n\r<\"']+"],
+    "vless": [r"vless://[^ \n\r<\"']+"],
+    "trojan": [r"trojan://[^ \n\r<\"']+"],
+    "ss": [r"ss://[^ \n\r<\"']+", r"shadowsocks://[^ \n\r<\"']+"],
+    "hysteria2": [r"hy2://[^ \n\r<\"']+", r"hysteria2://[^ \n\r<\"']+"]
+}
+
 # ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
@@ -44,13 +53,27 @@ if os.path.exists(OUTPUT_DIR):
         if os.path.isfile(file_path):
             os.remove(file_path)
 
+# تابع برای بررسی اعتبار لینک با استفاده از الگوهای regex
+def is_valid_config(config):
+    for protocol, patterns in PROTOCOL_PATTERNS.items():
+        for pattern in patterns:
+            if re.match(pattern, config):
+                # برای تروجان، بررسی پارامترهای ضروری
+                if protocol == "trojan":
+                    if not re.search(r"(security|type|sni)=[^&]+", config):
+                        print(f"هشدار: لینک تروجان ناقص است (پارامترهای ضروری غایب): {config[:50]}...")
+                        return False
+                return True
+    print(f"خطا: لینک نامعتبر یا پروتکل پشتیبانی‌نشده: {config[:50]}...")
+    return False
+
 # تابع برای پاکسازی لینک کانفیگ (حذف توضیحات اضافی)
 def clean_config_link(config):
     # استخراج نوع پروتکل
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     if not protocol_match:
         print(f"خطا: پروتکل نامعتبر در لینک: {config[:50]}...")
-        return config  # اگر پروتکل معتبر نبود، لینک بدون تغییر برگردانده شود
+        return config
     
     protocol = protocol_match.group(1)
     
@@ -72,14 +95,14 @@ def clean_config_link(config):
                 return f"vmess://{cleaned_encoded}"
         except (binascii.Error, json.JSONDecodeError, ValueError):
             print(f"خطا در رمزگشایی VMess: {config[:50]}...")
-            return config.split("#")[0]  # در صورت خطا، فقط بخش قبل از # برگردانده شود
+            return config.split("#")[0]
     else:
         # برای پروتکل‌های دیگر، بخش قبل از # را نگه می‌داریم
         cleaned = config.split("#")[0]
-        # بررسی اینکه لینک تروجان پارامترهای ضروری را دارد
+        # بررسی لینک تروجان برای پارامترهای ضروری
         if protocol == "trojan":
             if not re.search(r"(security|type|sni)=[^&]+", cleaned):
-                print(f"هشدار: لینک تروجان ناقص است: {cleaned[:50]}...")
+                print(f"هشدار: لینک تروجان ناقص است (پارامترهای ضروری غایب): {cleaned[:50]}...")
         return cleaned
 
 # تابع برای استخراج نوع پروتکل از لینک
@@ -169,7 +192,7 @@ for protocol_file in PROTOCOL_FILES:
     config_links = []
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
-            config_links = [line.strip() for line in f if line.strip()]
+            config_links = [line.strip() for line in f if line.strip() and is_valid_config(line.strip())]
     
     # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
