@@ -46,11 +46,42 @@ if os.path.exists(OUTPUT_DIR):
 
 # تابع برای پاکسازی لینک کانفیگ (حذف توضیحات اضافی)
 def clean_config_link(config):
-    # جدا کردن بخش اصلی لینک تا قبل از توضیحات اضافی (قبل از # یا متن اضافی)
-    match = re.match(r"^(vless|trojan|ss|hysteria2|vmess://[^#]+)", config)
-    if match:
-        return match.group(1)
-    return config  # اگر الگو پیدا نشد، لینک اصلی برگردانده شود
+    # استخراج نوع پروتکل از لینک
+    protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
+    if not protocol_match:
+        return config  # اگر پروتکل معتبر نبود، لینک بدون تغییر برگردانده شود
+    
+    protocol = protocol_match.group(1)
+    
+    if protocol == "vmess":
+        try:
+            # Decode base64 برای VMess
+            vmess_match = re.match(r"vmess://([A-Za-z0-9+/=]+)", config)
+            if vmess_match:
+                encoded_data = vmess_match.group(1)
+                padding_needed = len(encoded_data) % 4
+                if padding_needed:
+                    encoded_data += '=' * (4 - padding_needed)
+                decoded_json = base64.b64decode(encoded_data).decode('utf-8')
+                vmess_obj = json.loads(decoded_json)
+                # حذف توضیحات اضافی از ps (نام مستعار)
+                vmess_obj['ps'] = f"server-{random.randint(1, 1000)}"  # نام ساده برای جلوگیری از توضیحات اضافی
+                cleaned_json = json.dumps(vmess_obj)
+                cleaned_encoded = base64.b64encode(cleaned_json.encode('utf-8')).decode('utf-8')
+                return f"vmess://{cleaned_encoded}"
+        except (binascii.Error, json.JSONDecodeError, ValueError):
+            return config  # اگر خطایی رخ داد، لینک اصلی برگردانده شود
+    else:
+        # برای پروتکل‌های دیگر، لینک تا قبل از توضیحات اضافی (# غیرضروری) جدا شود
+        match = re.match(r"^(vless|trojan|ss|hysteria2://[^#]+)", config)
+        if match:
+            return match.group(1)
+        return config  # اگر الگو پیدا نشد، لینک اصلی برگردانده شود
+
+# تابع برای استخراج نوع پروتکل از لینک
+def get_protocol(config):
+    protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
+    return protocol_match.group(1).lower() if protocol_match else "unknown"
 
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
@@ -73,12 +104,10 @@ def extract_host_port(config):
         try:
             # Decode base64
             encoded_data = vmess_match.group(1)
-            # بررسی طول رشته و پر کردن padding اگر لازم باشد
             padding_needed = len(encoded_data) % 4
             if padding_needed:
                 encoded_data += '=' * (4 - padding_needed)
             decoded_json = base64.b64decode(encoded_data).decode('utf-8')
-            # Parse JSON
             vmess_obj = json.loads(decoded_json)
             host = vmess_obj.get('add', '')  # host/address
             port = int(vmess_obj.get('port', 0))
@@ -110,7 +139,8 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
                 "config": config,
                 "host": host,
                 "port": port,
-                "ping": ping_time
+                "ping": ping_time,
+                "protocol": get_protocol(config)  # پروتکل از لینک استخراج شود
             }
         return None
     except (socket.gaierror, socket.timeout):
@@ -130,7 +160,6 @@ all_successful_configs = []
 # پردازش هر فایل پروتکل
 for protocol_file in PROTOCOL_FILES:
     file_path = os.path.join(PROTOCOL_DIR, protocol_file)
-    protocol_name = protocol_file.replace(".txt", "").lower()
     
     # خواندن لینک‌های پروتکل از فایل
     config_links = []
@@ -149,7 +178,6 @@ for protocol_file in PROTOCOL_FILES:
         for future in as_completed(future_to_config):
             result = future.result()
             if result and len(configs_with_ping) < MAX_SUCCESSFUL_CONFIGS:
-                result["protocol"] = protocol_name
                 configs_with_ping.append(result)
     
     # مرتب‌سازی بر اساس پینگ و انتخاب حداکثر 20 کانفیگ
