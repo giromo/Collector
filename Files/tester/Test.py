@@ -46,7 +46,7 @@ if os.path.exists(OUTPUT_DIR):
 
 # تابع برای پاکسازی لینک کانفیگ (حذف توضیحات اضافی)
 def clean_config_link(config):
-    # استخراج نوع پروتکل از لینک
+    # استخراج نوع پروتکل
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     if not protocol_match:
         return config  # اگر پروتکل معتبر نبود، لینک بدون تغییر برگردانده شود
@@ -65,18 +65,15 @@ def clean_config_link(config):
                 decoded_json = base64.b64decode(encoded_data).decode('utf-8')
                 vmess_obj = json.loads(decoded_json)
                 # حذف توضیحات اضافی از ps (نام مستعار)
-                vmess_obj['ps'] = f"server-{random.randint(1, 1000)}"  # نام ساده برای جلوگیری از توضیحات اضافی
+                vmess_obj['ps'] = f"server-{random.randint(1, 1000)}"
                 cleaned_json = json.dumps(vmess_obj)
                 cleaned_encoded = base64.b64encode(cleaned_json.encode('utf-8')).decode('utf-8')
                 return f"vmess://{cleaned_encoded}"
         except (binascii.Error, json.JSONDecodeError, ValueError):
-            return config  # اگر خطایی رخ داد، لینک اصلی برگردانده شود
+            return config.split("#")[0]  # در صورت خطا، فقط بخش قبل از # برگردانده شود
     else:
-        # برای پروتکل‌های دیگر، لینک تا قبل از توضیحات اضافی (# غیرضروری) جدا شود
-        match = re.match(r"^(vless|trojan|ss|hysteria2://[^#]+)", config)
-        if match:
-            return match.group(1)
-        return config  # اگر الگو پیدا نشد، لینک اصلی برگردانده شود
+        # برای پروتکل‌های دیگر، بخش قبل از # را نگه می‌داریم
+        return config.split("#")[0]
 
 # تابع برای استخراج نوع پروتکل از لینک
 def get_protocol(config):
