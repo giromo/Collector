@@ -8,15 +8,31 @@ on:
     - cron: "*/45 * * * *"
   workflow_dispatch:
 
+env:
+  ACTIONS_STEP_DEBUG: true  # فعال کردن debug logging برای بررسی زمان‌بندی دقیق
+
 jobs:
   update-configs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+    - name: Cache Git objects
+      uses: actions/cache@v3
+      with:
+        path: .git
+        key: ${{ runner.os }}-git-${{ github.sha }}
+        restore-keys: |
+          ${{ runner.os }}-git-
+
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 
+        fetch-depth: 1  # فقط commit آخر رو دانلود کن
+        sparse-checkout: |  # فقط پوشه‌های مورد نیاز
+          Files/
+          Splitted-By-Protocol/
+          Splitted-By-Country/
+          Base64/
 
     - name: Set up Git
       run: |
