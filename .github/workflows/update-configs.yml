@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  ACTIONS_STEP_DEBUG: true  # فعال کردن debug logging برای بررسی زمان‌بندی دقیق
+  ACTIONS_STEP_DEBUG: true  # فعال کردن debug logging برای بررسی دقیق
 
 jobs:
   update-configs:
@@ -27,8 +27,8 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        fetch-depth: 1  # فقط commit آخر رو دانلود کن
-        sparse-checkout: |  # فقط پوشه‌های مورد نیاز
+        fetch-depth: 1
+        sparse-checkout: |
           Files/
           Splitted-By-Protocol/
           Splitted-By-Country/
@@ -41,7 +41,10 @@ jobs:
 
     - name: Pull latest changes
       run: |
-        git pull origin main --rebase
+        echo "Pulling latest changes from origin main..."
+        git fetch origin main
+        git rebase origin/main || { echo "Rebase failed, attempting merge..."; git rebase --abort; git merge origin/main || { echo "Merge failed, resetting to origin/main..."; git reset --hard origin/main; }; }
+        echo "Branch is up-to-date with origin/main"
 
     - name: Set up Go
       uses: actions/setup-go@v4
