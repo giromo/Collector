@@ -8,8 +8,9 @@ import jdatetime
 import time
 import random
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import base64  # اضافه شده برای VMess
-import json    # اضافه شده برای VMess
+import base64
+import binascii  # اضافه شده برای مدیریت خطای Base64
+import json
 
 # مسیر پوشه پروتکل‌ها
 PROTOCOL_DIR = "Splitted-By-Protocol"
@@ -43,7 +44,7 @@ if os.path.exists(OUTPUT_DIR):
         if os.path.isfile(file_path):
             os.remove(file_path)
 
-# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل (به‌روز شده برای VMess)
+# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل (اصلاح‌شده)
 def extract_host_port(config):
     # الگوهای قبلی برای بقیه پروتکل‌ها (بدون vmess)
     patterns = [
@@ -64,6 +65,10 @@ def extract_host_port(config):
         try:
             # Decode base64
             encoded_data = vmess_match.group(1)
+            # بررسی طول رشته و پر کردن padding اگر لازم باشد
+            padding_needed = len(encoded_data) % 4
+            if padding_needed:
+                encoded_data += '=' * (4 - padding_needed)
             decoded_json = base64.b64decode(encoded_data).decode('utf-8')
             # Parse JSON
             vmess_obj = json.loads(decoded_json)
@@ -71,9 +76,13 @@ def extract_host_port(config):
             port = int(vmess_obj.get('port', 0))
             if host and port:
                 return host, port
-        except (base64.b64decodeError, json.JSONDecodeError, ValueError):
-            pass  # اگر parse نشد، None برگردون
+            else:
+                print(f"خطا: هاست یا پورت در لینک VMess یافت نشد: {config[:50]}...")
+        except (binascii.Error, json.JSONDecodeError, ValueError) as e:
+            print(f"خطا در رمزگشایی لینک VMess: {e} - لینک: {config[:50]}...")
+            return None, None
     
+    print(f"خطا: لینک نامعتبر یا پروتکل پشتیبانی‌نشده: {config[:50]}...")
     return None, None
 
 # تابع تست TCP connection و محاسبه پینگ
