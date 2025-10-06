@@ -49,6 +49,7 @@ def clean_config_link(config):
     # استخراج نوع پروتکل
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     if not protocol_match:
+        print(f"خطا: پروتکل نامعتبر در لینک: {config[:50]}...")
         return config  # اگر پروتکل معتبر نبود، لینک بدون تغییر برگردانده شود
     
     protocol = protocol_match.group(1)
@@ -70,10 +71,16 @@ def clean_config_link(config):
                 cleaned_encoded = base64.b64encode(cleaned_json.encode('utf-8')).decode('utf-8')
                 return f"vmess://{cleaned_encoded}"
         except (binascii.Error, json.JSONDecodeError, ValueError):
+            print(f"خطا در رمزگشایی VMess: {config[:50]}...")
             return config.split("#")[0]  # در صورت خطا، فقط بخش قبل از # برگردانده شود
     else:
         # برای پروتکل‌های دیگر، بخش قبل از # را نگه می‌داریم
-        return config.split("#")[0]
+        cleaned = config.split("#")[0]
+        # بررسی اینکه لینک تروجان پارامترهای ضروری را دارد
+        if protocol == "trojan":
+            if not re.search(r"(security|type|sni)=[^&]+", cleaned):
+                print(f"هشدار: لینک تروجان ناقص است: {cleaned[:50]}...")
+        return cleaned
 
 # تابع برای استخراج نوع پروتکل از لینک
 def get_protocol(config):
