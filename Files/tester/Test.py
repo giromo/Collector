@@ -9,7 +9,7 @@ import time
 import random
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import base64
-import binascii  # اضافه شده برای مدیریت خطای Base64
+import binascii
 import json
 
 # مسیر پوشه پروتکل‌ها
@@ -31,7 +31,7 @@ MAX_SUCCESSFUL_CONFIGS = 20
 # حداکثر تعداد کانفیگ برای تست (برای کاهش زمان)
 MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
-TIMEOUT = 1  # کاهش از 5 به 1 ثانیه
+TIMEOUT = 1
 
 # ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
@@ -44,7 +44,15 @@ if os.path.exists(OUTPUT_DIR):
         if os.path.isfile(file_path):
             os.remove(file_path)
 
-# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل (اصلاح‌شده)
+# تابع برای پاکسازی لینک کانفیگ (حذف توضیحات اضافی)
+def clean_config_link(config):
+    # جدا کردن بخش اصلی لینک تا قبل از توضیحات اضافی (قبل از # یا متن اضافی)
+    match = re.match(r"^(vless|trojan|ss|hysteria2|vmess://[^#]+)", config)
+    if match:
+        return match.group(1)
+    return config  # اگر الگو پیدا نشد، لینک اصلی برگردانده شود
+
+# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
     # الگوهای قبلی برای بقیه پروتکل‌ها (بدون vmess)
     patterns = [
@@ -156,8 +164,10 @@ if all_successful_configs:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
         for i, result in enumerate(all_successful_configs, 1):
+            # پاکسازی لینک کانفیگ
+            cleaned_config = clean_config_link(result['config'])
             config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
-            file.write(f"{result['config']}{config_string}\n")
+            file.write(f"{cleaned_config}{config_string}\n")
     print(f"All results saved to {OUTPUT_FILE}")
 else:
     print("No successful configs found for any protocol")
