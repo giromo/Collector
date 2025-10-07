@@ -1,3 +1,6 @@
+wireguard://5To4f1YPEQnOxx5iMMI2mvjr5a%2F5mHvafmaCTfi2gQw%3D@162.159.193.3:500?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8c29%3A21f6%3A3a73%3A87bb%3A7f5a%2F128&reserved=41%2C227%2C79&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
+wireguard://c3l4IZml764YxSRYkoaLjKj%2FWvSYoGnja%2BxZ2N9KfOI%3D@162.159.195.1:1701?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A89f7%3A94e0%3A7155%3Aecce%3A487d%2F128&reserved=62%2C164%2C216&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
 trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦 Ukraine 3
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#🇺🇦 | @External_Net
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
+vmess://eyJhZGQiOiIxNzYuOTcuMjEwLjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiQEdlZWtfU3BvdCIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEdlZWtfU3BvdCIsInBvcnQiOiI0NTE0MyIsInBzIjoi8J+HuvCfh6YgVWtyYWluZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
