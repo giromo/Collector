@@ -1,25 +1,32 @@
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
-vless://f4d8b865-a620-4e1d-802a-6bcf5a48c49e@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
-vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMSIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMjA1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40`
+vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjUiLCJhaWQiOiIwIiwiaG9zdCI6ImthcGVsbGVuZy5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxOTkiLCJzY3kiOiJhdXRvIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4R0JOeGhVZEFQRTJUYlBmb2FVUDZr@188.166.214.51:13394#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ==@ca1.ssocks.wiki:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@95.164.36.59:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@sto4.g.edgeservers.org:63418#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRHBVMmVDRzZuQW44MktUQWx4TFVS@h110vpnus.outlinekeys.net:9483#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZmF1aUZ5RjUzbnh6UFFna3l5VHJ4@146.190.86.183:31352#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 wireguard://YITZuwr5mNre35n6zFqjdpmjLDH%2FCTqcpLfVBkcoZU4%3D@85.12.5.80:51820?address=100.64.15.28%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#🇹🇭Bangkok🇹🇭.conf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH-119.59.98.58-1404
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Netherlands%20STF
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@31.133.0.55:2053?&security=tls&fp=chrome&sni=01.91md.fun&type=ws&headerType=none&host=01.91md.fun&path=%2F%3Fed%3D2048#%E6%B3%A2%E5%85%B0%20001
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#| The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#| The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#| The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#| The Netherlands
-trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🇹🇭TM (@AZARBAYJAB1)
-vless://6bbe1d1f-8f92-4b80-b947-767be682034b@armania.vtuix.ir:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#@𝑺𝑲𝒀𝑷𝑹𝑶_𝑽𝑷𝑵 | 𝑳𝑶𝑪𝑨𝑻𝑰𝑶𝑵 : 𝑨𝑹𝑴𝑨𝑵𝑰𝑨
-vless://7318ab2b-ae6e-469d-be65-de95190f274a@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@i10VPN 🚀| با ما متصل بمون⚡
-vless://7c689907-8a79-4299-9162-c817624ad352@switerxaqiri.vtuix.ir:8080?mode=gun&security=reality&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&pbk=yjKkm6CofGtrJW9uOyu-2E1MfkJ6JAmgPPS-ocL1mSo&fp=chrome&spx=/@khodee_alireza&type=grpc&serviceName=yourServiceName&sni=refersion.com&sid=9b25240418971ddd#𝗔𝗟𝗟 𝗡𝗘𝗧 | @𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=/?BIA_V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#r♡ya
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vmess://eyJhZGQiOiJkYXNoYmlhLmJlZG9uZW1hcnouc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2Vya2F0Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6InQubWVcL2VudHJ5TkVUIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==/config=1845803096012269
-ss://ELiV2-RAY---ELiV2-RAY@104.18.25.112:2052?type=ws&amp;encryption=none&amp;path=/CHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2…
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ex8J+HuyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ== vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng
+ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#India%20Depipath
+ss://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH-119.59.98.58-1404
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2Ftelegram%20%40freecodes%20%2F%3Fed%3D2560#_%E8%8D%B7%E5%85%B0_2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@wwwopensignalcom-goodspeed-8xx.pages.dev.:443?&security=tls&fp=chrome&sni=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&type=ws&headerType=none&host=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&path=%2F%2F#github.com%2FRuk1ng001_6437656165313730
+hysteria2://06c625ea-5902-11ee-9e87-f23c9313b177@c01db724-t3dk00-t3ss2y-4mce.la.shifen.uk:1743?insecure=0#github.com%2FRuk1ng001_6239383266353465
+trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🇹🇭TM (@AZARBAYJAB1)
+vless://31689245-b22f-410f-83f8-a9a6e62907ac@www.speedtest.net:2095?path=/&security=none&encryption=none&host=vswite.srjofood.ir&type=httpupgrade#@i10VPN 🚀| با ما متصل بمون⚡
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@sss43827.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://Parsashonam-Bot-20@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#@Hddify
+vless://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?type=httpupgrade&host=v2ngnet.nanvrfood.ir&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#
+vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?path=/httpupgrade&security=&encryption=none&host=ee1.xvless.online&type=httpupgrade#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=/tjkqcpws&security=tls&encryption=none&host=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706477448.amsterdam-prx-dnraaal.info#کانال+
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&mode=stream-one&path=/xhttp&security=none#
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=/&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#rt
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=/?BIA_V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#r♡ya
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B2%5D
+vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
