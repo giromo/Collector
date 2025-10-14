@@ -1,9 +1,7 @@
-trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
 vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
+ss://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfjJAwNEBDb25maWdWMlJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6ImM3LjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlLTEuc3R1bm5lbC5jYyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇦🇺 - @FREEV2RNG 19
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@backus1.dh03.shop:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#%3E%3E%40configV2rayNG%3A%3AUS
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%3E%3E%40hope_net%3A%3AUS
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@104.21.14.123:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%3E%3E%40free4allVPN%3A%3AUS
-vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
+vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Fproxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=random&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#%3E%3E%40v2rayngvpn%3A%3AUS
+trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
