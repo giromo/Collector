@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://249909f4-3ce8-4956-aa2b-9f8bbdd5c2b8@188.245.234.107:443?path=%2Flinkws%3Fed%3D2560&security=none&encryption=none&host=188.245.234.107&type=ws#%3E%3E%40FreakConfig%3A%3ADE
+vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#%3E%3E%40FreakConfig%3A%3AXX
+vless://4480f0c9-eff4-4d4d-b39e-bd9d8bfd5c23@91.98.115.180:8443?security=reality&encryption=none&pbk=rtcH2u-H1qHNhD0oS7V7uKvr_rbtTGMoN62la9YiAE4&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d218705bf32269d4#%3E%3E%40FreakConfig%3A%3ADE
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@188.114.96.3:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&type=ws&sni=net2026cd.zanddynastyofpersia.org#%3E%3E%40FreakConfig%3A%3ADE
+vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@vinted.fr:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&encryption=none&host=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&sni=hdfynpv2c1.farvaharforever.com#%3E%3E%40FreakConfig%3A%3ADE
 vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?path=%2FCPI&security=tls&encryption=none&host=fraG2.MAhSAAmINI.cC&fp=chrome&type=ws&sni=fraG2.MAhSAAmINI.cC#%3E%3E%40FreakConfig%3A%3ADE
 vless://1a834111-ded2-4078-f4a6-6dfd32b346c5@rplcehdfy3.makingirangreatagain.com:2053?security=reality&encryption=none&pbk=bJGeXtIQr6IAeu46GXZZZR2UWcewi0MLa09Wp82PBD8&headerType=none&type=tcp&sni=rplcehdfy3.makingirangreatagain.com#%3E%3E%40FreakConfig%3A%3ADE
 vless://7f5c3ff3-c113-4379-812b-c5733f47d4e1@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=b3#%3E%3E%40FreakConfig%3A%3ADE
@@ -497,8 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%3E%3E%40v2ray1_ng%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%3E%3E%40v2ray1_ng%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&authority=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#%3E%3E%40v2rayngvpn%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%3E%3E%40free4allVPN%3A%3AIN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40V2rayNG3%3A%3AXX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%3E%3E%40V2rayNG3%3A%3AXX
