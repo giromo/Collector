@@ -1,9 +1,7 @@
-vmess://eyJhZGQiOiIxNS4yMDQuNjQuMjExIiwiYWlkIjoiMCIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMTgzIiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://9c8b8aec-7a20-4271-8a4f-a87bb029dae9@ktff.tencentapp.cn:443?allowInsecure=0&sni=sp5.sutu.eu.org&type=ws&host=sp5.sutu.eu.org&path=/security=tls#UA_speednode_0037
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?encryption=none&security=none&fp=chrome&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%F0%9F%8D%93%20%40xixv2ray
-wireguard://3oqHGGl6%2BXcs0SJ1j%2Bn%2FMH4vH0cMQPnqSW0vfAjf7gs%3D@162.159.192.1:500?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8deb%3Aac6e%3Ab5e%3A8ae1%3Ad889%2F128&reserved=231%2C70%2C208&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
-ss://eyJhZGQiOiI1Ny4xMjkuNTkuMTk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+wireguard://FeOlGCGVHULlKvI8cXq0vNFktg3jgBAy7e%2BX2x4BVP0%3D@162.159.193.3:1701?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A8870%3A873c%3A5cb9%3Abab8%3A2ccc%2F128&reserved=228%2C209%2C83&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1420#Peyman_WG@WireVpnGuard
 trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦 Ukraine 3
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#🇺🇦 | @External_Net
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@uaeemaray.vtuix.ir:7035?security=none&encryption=none&host=filimo.com&type=ws#𝗔𝗟𝗟 𝗡𝗘𝗧 | @𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦 Ukraine 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%3E%3E%40free4allVPN%3A%3AUA
