@@ -1,8 +1,6 @@
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#r♡ya
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#%3E%3E%40ShadowsocksM%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#%3E%3E%40ShadowsocksM%3A%3ANL
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OkRFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#%3E%3E%40ShadowsocksM%3A%3ANL
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3AIN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%3E%3E%40ShadowsocksM%3A%3AFI
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AMD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#%3E%3E%40ShadowsocksM%3A%3ANL
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AMD
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3ALT
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3ALT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%3E%3E%40ShadowsocksM%3A%3ANL
