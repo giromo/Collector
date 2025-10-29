@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@vpnserverrr
 vless://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@Selinc
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v2.hiddendom.shop#telegram 🎯 v2ray_configs_pools
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#All-@V2rayAlpha--16
@@ -501,4 +502,3 @@ vless://2e48cc0c-284d-49b0-b7ad-b2f47be3650e@172.66.156.81:80?encryption=none&ty
 vless://2e46bac5-e1c6-4c29-ef94-53c9a08040d4@65.109.205.191:2096?mode=gun&security=reality&encryption=none&pbk=JYM1VewhKS7O9ivfLfhrknchEbRIy90VQk9nJeQuiQE&fp=chrome&type=grpc&sni=zula.ir#🇫🇮@FreakConfig
 vless://2e1ed3b2-b431-4480-c1eb-076731360266@speed.sarazirsina.site:43890?type=tcp&security=tls&fp=&alpn=h2,http/1.1&sni=speed.sarazirsina.site#MKH 2--Free 20GB-@cconfig_v2ray
 vless://2e199883-3f52-49c3-b271-e8e9de0ba89b@84.201.4.247:15348?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=AO_n0YhLhYvzAmDRudYDRZJ_J4WQFgAkDT3j2SDhMkI&sid=162efe24c2fa24d5#@EXPRESSVPN_420
-vless://2e199883-3f52-49c3-b271-e8e9de0ba89b@84.201.4.247:15343?security=none&type=grpc&headerType=&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&authority=&mode=gun#@EXPRESSVPN_420
