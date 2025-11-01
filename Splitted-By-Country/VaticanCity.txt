@@ -1,6 +1,2 @@
 vmess://eyJhZGQiOiI4Ni4xMDcuNTAuMjM1IiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6Ijk2MzEwOTZkLTMwMzItNDk0Mi05NDQ2LWJkZjEyNjY1NjgyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoyMjI3MCwicHMiOiJZZXJldmFuLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
-vless://8c5e476d-d52b-4206-9df7-55a5f18a78f1@62.60.178.27:43434?type=tcp&security=none#Hamrah.aval
-vless://37c92a49-20a4-4d21-80ba-498700270d99@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B2%5D
-vless://83d8f105-1c48-4bde-baf5-4aa8900c81fe@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B3%5D
-vless://0f6ef451-4fe5-490b-9264-6d63b21fb771@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B4%5D
-vmess://eyJhZGQiOiI4Ni4xMDcuNTAuMjM1IiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6ImUxY2MyNmIzLWRmMGItNDc3Yi1hZmIwLTUzNjU5YTI1ZTk3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoyMjI3MCwicHMiOiJZZXJldmFuLUdldEFGcmVlTm9kZS5jb20iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+trojan://telegram-id-privatevpns@35.181.212.41:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
