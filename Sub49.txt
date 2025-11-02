@@ -2,6 +2,19 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&type=http&path=%2F&host=Telewebion.com&sni=Telewebion.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E4%BC%8A%E6%9C%97%2001
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001
+hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2002
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2001
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.238:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%B6%8A%E5%8D%97%2001
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5py65Zy65o6o6I2QOmRhZmVpLmRlIOe+juWbvSAwOSIsImFkZCI6InYyOS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MjkiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9vb29vIiwiaG9zdCI6Im9jYmMuY29tIn0=
+vless://0f4f3a75-ae36-4992-8cb5-6638f45afcb2@216.133.148.215:36987?security=none&type=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2007
+vless://6bab29a5-8c22-499c-eb45-996aa68cc9fc@216.133.148.232:51497?security=none&type=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2006
+trojan://BxceQaOe@36.156.102.74:43567?sni=36.156.102.74&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.107.37:2381?sni=www.nintendogames.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2002
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.107.37:2467?sni=www.nintendogames.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2001
+vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@wangcai253.cloudflare.182682.xyz:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=vless.pengjiajin.sbs&sni=vless.pengjiajin.sbs&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2009
+vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@wangcai255.cloudflare.182682.xyz:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=vless.pengjiajin.sbs&sni=vless.pengjiajin.sbs&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2008
 vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@wangcai254.cloudflare.182682.xyz:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=vless.pengjiajin.sbs&sni=vless.pengjiajin.sbs&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2007
 vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@wangcai252.cloudflare.182682.xyz:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=vless.pengjiajin.sbs&sni=vless.pengjiajin.sbs&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2006
 vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@wangcai245.cloudflare.182682.xyz:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=vless.pengjiajin.sbs&sni=vless.pengjiajin.sbs&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
@@ -489,16 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#CO-181.119.30.20-0270
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN-103.111.114.29-0269
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#VN-103.163.218.2-0268
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#AT-95.163.176.37-0267
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#LT-45.87.175.166-0263
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#CA-142.4.216.225-0262
-vmess://eyJ2IjoiMiIsInBzIjoiSEstNDUuMTM2LjEyLjM3LTAyNjEiLCJhZGQiOiI0NS4xMzYuMTIuMzciLCJwb3J0IjoiMjA1MjEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDkwZDBiZDktZjljNC00YzNiLThhYWUtZmZhNjc4NzY1OTM1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#LV-46.183.217.204-0260
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#KZ-109.61.39.28-0259
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#RO-185.126.237.38-0257
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#ZA-156.38.168.58-0256
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#CA-142.4.216.225-0255
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#US-107.151.182.253-0254
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#GB-141.98.101.178-0253
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#LT-45.87.175.154-0252
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@197.140.29.76:990#DZ-197.140.29.76-0251
