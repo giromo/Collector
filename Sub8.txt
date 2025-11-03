@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
@@ -502,3 +499,6 @@ vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@reloadserver-fin.parsgit.com:4220?p
 vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&type=ws#@Daily_Configs
 vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&host=refreshcloud-ger.parsgit.com.&type=ws#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡 کانال تلگرامی
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=&encryption=none&type=ws#@FAST78_CHANNEL
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/admin?ed=1024&security=none&encryption=none&type=ws#🇩🇪[Telegram:NetifyVpn]
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-fin.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&host=refreshcloud-fin.parsgit.com.&type=ws#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡 کانال تلگرامی
