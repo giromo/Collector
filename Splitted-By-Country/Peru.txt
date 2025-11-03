@@ -1,15 +1,11 @@
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.ru:8080?insecure=1&alpn=h3&sni=sinavm.ru&obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Bia__SiNAVM#2%7C%F0%9F%8C%805-LI%20%7C%20%202.0MB/s%7C0%25%7COpenai
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4ev8J+HtTEgfCAgMS44TUIvc3w1NCV8WW91dHViZXxPcGUuLi4iLCAiYWRkIjogInNzbHZwbi41MWpvYi5jb20iLCAicG9ydCI6IDE0NDMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJhNmEwZDkwMS02N2U5LTQ2MGEtOTBiNS02MzRjNWM0Zjk3ODIiLCAiaG9zdCI6ICJjZW50b3M3IiwgInBhdGgiOiAiLzYzNGM1YzRmOTc4MiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xNy4xNDcuMjIiLCAicG9ydCI6IDg4ODAsICJpZCI6ICJiMmY5NzNjNy05MjRhLTQ2NmMtYmIwYi1lZTdlMDJkMThlYTIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIyaWcuaXJ2bi5kZWJpYW4uNi42LjFiMS44LmZ4cC5kZWJpYW4ub3JnLnNwZWVkdGVzdC5uZXQuXHU1MjE3XHU1MjE3XHU3NTM3XHU0ZThiXHU3Njg0XHU0ZThiXHU1MjE3XHU0ZTBhXHU4ZDViLmFia29uLmN5b3UuIn0=
-trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sni=www.nintendogames.net#CN_speednode_0004
-vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443?allowInsecure=0&sni=st.ozone.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#LB_speednode_0022
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#%40Hope_Net%203
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B863%20%7C%20%202.1MB/s%7C46%25%7COpenai%7CGem...
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#%40Hope_Net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#%40Hope_Net
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#%40Hope_N...
-ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&amp;encryption=none#45.88.183.158
-trojan://Aimer@162.120.94.232:8443/?type=tcp&amp;security=tls&amp;sni=ngepy.ambercc.filegear-sg.me&amp;allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-vless://0f15f267-afc5-4e80-a915-9df8a5189f9a@www.speedtest.net:2053?type=ws&path=/&host=&security=tls&fp=chrome&alpn=h2,h3&sni=vip.infinitespd.com#L1-مینی پروکسی
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=#@Selinc?ed=512&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@Selinc
-vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTkzIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcmthdC5vcmcvP0pvaW4tLS0tSktWUE4tLS1Kb2luLS0tLUpLVlBOLS0tLUpvaW4tLS0tSktWUE4tLS0tSm9pbi0tLS1KS1ZQTiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdm1lc3NraG9kYW0g8J+NgiDZhdmG2KjYuSDZvtix2Yjaqdiz24wg2Ygg2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.196:443?security=tls&sni=lm.ylks01.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B18%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B16%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B15%5D
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.112:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?path=/linkws?ed&security=none&encryption=none&host=91.99.177.36&type=ws#@Hddify
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.131:443?security=tls&sni=lm.ylks01.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hope_net%20%5B18%5D
+vless://7b60db8f-df60-447c-f376-46dabea2b6b3@persian8585.iran.persianmemberiranmember.shop:2221?mode=gun&security=reality&encryption=none&pbk=j7RS3lXc-9GX5hjqtLwm866rVtEBtlN4n8j6BI3xIxA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=tuyaus.com&sid=e2#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40persian_proxy6%20%5B5%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B19%5D
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#%40Hope_Net
