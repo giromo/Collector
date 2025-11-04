@@ -6,6 +6,11 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@us1.oomz.ru:30000?insecure=1&sni=bing.com#%40FreakConfig%20%232
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@us2.oomz.ru:30000?insecure=1&sni=bing.com#%40FreakConfig%20%233
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@us3.oomz.ru:30000?insecure=1&sni=bing.com#%40FreakConfig%20%234
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%202
+hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%204
+hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%B9%F0%9F%87%BC%20%E2%9A%A1%20%7C
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%235
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
 hysteria2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com:443?sni=97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
@@ -124,13 +129,6 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2318
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2320
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2322
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#%F0%9F%98%8D%F0%9F%98%8D%F0%9F%98%8D5
-hysteria2://8f7cb770-1305-11ee-b107-f23c91cfbbc9@96052821-t53wg0-t51bp0-1nyy5.hk1.hyhuawei.com:443?security=tls&insecure=0&mport=30000-60000&sni=96052821-t53wg0-t51bp0-1nyy5.hk1.hyhuawei.com#%E2%9E%B0%F0%9F%8D%85%E2%9E%BF6
-hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%B9%F0%9F%87%BC%20%E2%9A%A1%20%7C
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%202
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%204
 hysteria2://22308988-8548-11ea-a22e-f23c91cfbbc9@4368a887-t59gg0-tiaexf-ufc0.hk1.hyhuawei.com:443?sni=4368a887-t59gg0-tiaexf-ufc0.hk1.hyhuawei.com&mport=30000-60000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2038
 hysteria2://d095ecc6-7b69-11eb-b77b-f23c913c8d2b@4bc7dd37-t57ls0-tcmken-19les.hk2.hyhuawei.com:443?sni=4bc7dd37-t57ls0-tcmken-19les.hk2.hyhuawei.com&mport=30000-60000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2040
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2006
