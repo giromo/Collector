@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1Iiwi…
@@ -501,4 +502,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%4
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=vless.hubp.de#%40V2RAY_VMESS_free
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=random&amp;type=ws&amp;sni=vless.hubp.de#%40V2RAY_VMESS_free
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=vless.muzheng.top#%40V2RAY_VMESS_free
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=gaosir.unfeeling.sbs#%40V2RAY_VMESS_free
