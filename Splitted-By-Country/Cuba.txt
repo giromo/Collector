@@ -1,33 +1,29 @@
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9B%A4%F0%9F%8C%89%F0%9F%8C%845
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc&sni=pqh27v7.ipforvetra.shop#%F0%9F%90%8C%F0%9F%90%8C%F0%9F%90%8C4
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.194:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A08
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICMxIiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMzY3MDMiLCJwcyI6IvCfh63wn4ewSEstNDcuMjQ0LjEyMC4xOTctNTY1OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
-vmess://ewogICAgImFkZCI6ICI4LjIxNy4yMDkuODIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImQzMWExZjJmLWI1NTItNDRmYy04OTNhLTZjZjU1ZmEyZDRlMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzNjAwLAogICAgInBzIjogIvCfh63wn4ewSEstOC4yMTcuMjA5LjgyLTU2ODkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Dr-Anv%20%F0%9F%87%AB%F0%9F%87%B7
+vless://a4833963-f4b7-48e4-9572-5c83261eea82@77.83.245.50:45365?security=reality&encryption=none&pbk=M2uESRDALzI6uyXoBSjp2pb7fC47a5wBB85y9FhEMWA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=212c006f8004d93f#%F0%9F%AA%B6%F0%9F%AA%B6%F0%9F%AA%B65
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%A0%F0%9F%8C%A0%F0%9F%8C%A07
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#HK-58.152.53.42-0003
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2Ffreecodes%2F#147.75.225.105%3A443
+ss://eyJhZGQiOiI1Ny4xMjkuNjQuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+ss://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
+ss://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vip_vpn_2022
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&amp;type=grpc&amp;encryption=none#
+vmess://ewogICAgImFkZCI6ICJ2MTAuaGVkdWlhbi5saW5rIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAidjEwLmhlZHVpYW4ubGluayIsCiAgICAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL29vb28iLAogICAgInBvcnQiOiAzMDgwNywKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43OS4xODcuMTg4LTUwNTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJiYWlkdS5jb20iCn0=
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.53:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
+vless://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?mode=gun&security=&encryption=none&type=grpc#r♡ya
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/2IBbZjAugSH41qc5?ed&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#@Hddify
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@v2ray_configs_pools&security=tls&v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=none&encryption=none&type=grpc#@Hddify
-vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#→ @Hddify 🧩
+vless://38e35756-f704-4eed-a325-225e95ed789c@212.134.84.115:443?security=reality&encryption=none&pbk=cjDD6AA5RawGxEhDEz0vTKwzzMXaDjwMDZcDK6eAFRI&headerType=none&fp=chrome&spx=/&type=tcp&sni=pcmag.com&sid=0a1247#@Hddify |~| چنل هدیفای
 vless://5b19ed1d-2df6-4d64-90aa-b8bbfaa445d1@vip.ezrael.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hddify
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip=tp50000.kr.proxyip.fgfw.eu.org:50000#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@MARAMBASHI 🐺
-vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@www.speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.wEb.tr.&security=none#BinexTiFy🔥-ozcutym9k
-vless://c333a898-d76e-479a-8e32-c4e8d17d6080@vip.ezrael.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify |^| چنل هدیفای
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.67:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@V2rayBaaz&type=grpc#r♡ya
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://Parsashonam-Bot-34@104.17.147.22:8080?type=ws&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&host=Fi.Parsashonam.CfD.&security=none#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.142:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.210:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#→@Hddify 🍥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?mode=gun&security=none&encryption=none&type=grpc#→@Hddify 🍥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?security=&encryption=none&type=grpc#📢+سرورای+بیشتر+هر+روز+
-vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&fp=chrome&type=ws&sni=om4.omidsuccess.uk#@MARAMBASHI 🧡
-vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=/fp=chrome#@Selinc?ed=512&security=tls&encryption=none&host=baomei.pages.dev&type=ws&sni=baomei.pages.dev#@Selinc
-vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.183:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
