@@ -1,8 +1,10 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
+wireguard://qCclRuwOFcE%2BGq5r6E1VXfZPO1J2Nr4AwiyikvzTO3Y%3D@85.12.5.80:51820?address=100.64.34.120%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D&privatekey=qCclRuwOFcE%2BGq5r6E1VXfZPO1J2Nr4AwiyikvzTO3Y%3D#🇹🇭Bangkok🇹🇭.conf
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@119.59.98.58:989#TH-119.59.98.58-1701
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#TH-119.59.127.129-2085
-vless://82f86700-f8cc-4cd7-8d3f-dbc27301bc58@paloma.hidencloud.com:24714?security=none&amp;type=ws&amp;path=/
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA==@45.140.167.94:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-wireguard://qCclRuwOFcE%2BGq5r6E1VXfZPO1J2Nr4AwiyikvzTO3Y%3D@85.12.5.80:51820?address=100.64.34.120%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D&privatekey=qCclRuwOFcE%2BGq5r6E1VXfZPO1J2Nr4AwiyikvzTO3Y%3D#🇹🇭Bangkok🇹🇭.conf
-vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?mode=auto&path=/vaime?ed=2560&security=none&encryption=none&host=birenmon766.com&type=xhttp#@Hddify
+vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
+vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=#%F0%9F%87%A9%F0%9F%87%AA
+vless://7aee7a7f-cad4-4433-8467-9a1a2d0e3a05@5.75.193.216:1888?security=none&amp;type=ws&amp;path=/
+ss://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encryption=auto&amp;security=none&amp;fp=&amp;type=ws&amp;path=/
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+vless://63b9685c-4eb4-4ff8-9746-57fffad31cad@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#r♡ya
+vless://bf36173f-dbdb-4a2d-bc54-8140c352e013@159.89.98.13:443/?type=tcp&path=/&host=playstation.com&headerType=http&security=none#SecreTVPS-Testhaji
