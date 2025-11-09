@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-trojan://telegram-id-privatevpns@3.75.78.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848327856300652
 trojan://telegram-id-privatevpns@3.65.217.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848331631112962
 trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1848293882767252
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
@@ -502,3 +501,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEYWlKZllNNldvQ1htQmJGNjlRRlIw@195.66.27.81:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUnJ5cjVVdU5sc0lwUkVRclNKUVNR@46.62.214.228:1080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpENUh5dHZYNW1QMzBhNlJpYVR3Ykdp@138.124.184.70:34868?note=--Telegram--@NetifyVPN--#🇬🇧[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpENUh5dHZYNW1QMzBhNlJpYVR3Ykdp@138.124.184.70:34868#🇺🇸[Telegram:@tik7net_vpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#All-@V2ray_Alpha--6
