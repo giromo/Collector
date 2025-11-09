@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-ss://eyJhZGQiOiIxNTEuMTAxLjIuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnZXJNQW55SVN2UC5pUiIsImlkIjoiYTg4OGI4OWEtMDhhYy00MGU2LThhZDctY2ZjZTk1NjlmOTY3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JhY2V2cG4iLCJwb3J0IjoiODAiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.33:2375#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiIxNzIuNjQuMTY2LjMzIiwicG9ydCI6MjA5NSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiaG9zdCI6ImlwMTIuNjAxNjcyNS54eXoiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
 ss://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9LT7wn4er8J+Ht19GUl/ms5Xlm70iLCJhZGQiOiIxMjAuMjM3Ljc5LjE1NyIsInBvcnQiOiI0NjY2NSIsInR5cGUiOiJub25lIiwiaWQiOiIzYWM4MjBhZi1iZWNiLTQ1ZDctOWU3YS1lMzNkMDI5NjFiYjMiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InRyb2phbi5idXJnZXJpcC5jby51ayIsInRscyI6IiJ9
 ss://dbe38302-2e48-4de8-b1f5-933dcb3bde61@104.21.94.168:8080?security=none&amp;type=ws&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.www.zula.ir.svgspeedtest.net&amp;path=%2F@XvProxy----
 ss://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTcyLjY0LjE2Ni4yMCIsInBvcnQiOjIwODIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImhvc3QiOiJpcDE2LjY5MjkxOTgueHl6IiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
@@ -502,3 +498,7 @@ ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality&am
 ss://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=157.180.123.25&amp;type=ws#@V2rayNG3
 ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&amp;encryption=none&amp;pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=store.steampowered.com#@V2rayNG3
 ss://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&amp;encryption=none&amp;pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=89dbda1a1c9369#@V2rayNG3
+ss://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&amp;security=tls&amp;encryption=none&amp;host=psto.fullmargintraders.com&amp;type=ws&amp;sni=psto.fullmargintraders.com#@V2rayNG3
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
