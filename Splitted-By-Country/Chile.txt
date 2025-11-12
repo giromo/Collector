@@ -1,9 +1,8 @@
-vless://5661d93b-d932-4afa-97d1-c2ac455644d3@139.59.58.120:31855?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20DO%203
-vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=Amsterdam.nezhasu.com#%F0%9F%8E%8D2%40oneclickvpnkeys
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun3.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=lundun3.nezhasu.com#%F0%9F%8D%A523%40oneclickvpnkeys
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@phoenix-3.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=phoenix-3.nezhasu.com#%F0%9F%8F%8549%40oneclickvpnkeys
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;host=fast01.0860852.xyz&amp;type=ws&amp;sni=fast01.0860852.xyz#Singapore%20Cloudflare
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=t.me%2Fv2line&amp;type=ws#France%200VHcloud
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=t.me%2Fv2line&amp;type=ws#France%200VHcloud
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://22367c45-f6c4-4ca8-1d52-d9787d7bbe91@dogechain.info:2087/?type=ws&encryption=none&flow=&host=cm2-bpg.ggff.net&path=%2Fproxyip%3Dtw.ttzxw.cf%3A443&security=tls&sni=cm2-bpg.ggff.net#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6eef4a01-455b-472f-a337-9983956cad92@13.204.17.137:443/?type=ws&encryption=none&flow=&path=%2Fnews#%3E%3E%40oneclickvpnkeys%3A%3AIN
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#%F0%9F%8D%A55%40oneclickvpnkeys
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443/?mport=50000-65535&insecure=1&sni=Valparaiso-1.nezhasu.cn#%F0%9F%8F%8571%40oneclickvpnkeys
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-2.nezhasu.cn:443/?mport=50000-65535&insecure=1&sni=Valparaiso-2.nezhasu.cn#%F0%9F%8F%8573%40oneclickvpnkeys
