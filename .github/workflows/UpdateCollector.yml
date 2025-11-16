@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Checkout code (sparse only)
+      - name: Checkout code (sparse with root access)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -26,6 +26,7 @@ jobs:
             Splitted-By-Protocol/
             Splitted-By-Country/
             Base64/
+            aggregator  # اجازه برای فایل باینری در ریشه
           sparse-checkout-cone-mode: false
 
       - name: Set up Git
@@ -56,23 +57,24 @@ jobs:
 
       - name: Build and run Go aggregator
         run: |
-          cd Files
           echo "Building Go application..."
+          cd Files
           go mod tidy
-          go build -ldflags="-s -w" -o aggregator *.go
-          echo "Starting config aggregation and sorting..."
+          go build -ldflags="-s -w" -o ../aggregator *.go  # بیلد به ریشه
+          cd ..  # برگشت به ریشه
+          echo "Starting config aggregation and sorting in root..."
           start_time=$(date +%s)
           ./aggregator || { echo "Aggregator failed"; exit 1; }
           end_time=$(date +%s)
           processing_time=$((end_time - start_time))
           echo "Config processing completed successfully in $processing_time seconds!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
-          rm -f aggregator  # پاک کردن باینری
+          # پاک کردن باینری (اختیاری، چون در sparse-checkout هست)
+          rm -f aggregator
 
       - name: Verify output files
         run: |
-          cd ..  # برگشت به ریشه
-          echo "Verifying generated files..."
+          echo "Verifying generated files in root..."
           echo "Sub files in root directory:"
           ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No Sub files or All_Configs_Sub.txt found"
 
@@ -116,17 +118,17 @@ jobs:
 
           if [ -f "Splitted-By-Protocol/unknown.txt" ]; then
             echo "\nUnknown protocol configurations:"
-            grep -v '^#' Splitted-By-Protocol/unknown.txt || echo "No unknown protocol configs found"
+            head -10 Splitted-By-Protocol/unknown.txt  # فقط 10 خط اول برای لاگ
           fi
 
           if [ -f "Splitted-By-Country/unknown.txt" ]; then
             echo "\nUnknown country configurations:"
-            grep -v '^#' Splitted-By-Country/unknown.txt || echo "No unknown protocol configs found"
+            head -10 Splitted-By-Country/unknown.txt  # فقط 10 خط اول
           fi
 
       - name: Handle large files and prepare for commit
         run: |
-          echo "Checking file sizes and handling large files..."
+          echo "Checking file sizes and handling large files in root..."
 
           handle_large_file() {
             local file="$1"
@@ -158,22 +160,24 @@ jobs:
 
       - name: Clean up temporary files
         run: |
-          echo "Cleaning up temporary files..."
+          echo "Cleaning up temporary files in root..."
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
 
       - name: Debug - List changes before commit
         run: |
-          echo "=== GIT STATUS (changes) ==="
+          echo "=== GIT STATUS (changes in root) ==="
           git status --porcelain | head -20 || echo "No changes detected"
           echo "=== SPLIT PARTS ==="
           ls *_part_* 2>/dev/null || echo "No split parts found"
+          echo "=== ROOT FILES ==="
+          ls -la *.txt 2>/dev/null | head -10
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: "GitHub Actions"
           author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "Fresh Update [$(date +'%H:%M')]"
-          add: "."
+          message: "Fresh Update [$(date +'%H:%M')] - Outputs in root"
+          add: "."  # همه تغییرات در ریشه
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
