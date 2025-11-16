@@ -175,7 +175,7 @@ jobs:
         with:
           author_name: "GitHub Actions"
           author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "🏴‍☠️ Fresh Update [$(date')] - Force Sub/All in root"
+          message: "🏴‍☠️ Fresh Update "
           add: "."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
