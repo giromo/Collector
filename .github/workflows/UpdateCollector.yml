@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */2 * * *"  # هر 2 ساعت — منطقی و بهینه
+    - cron: "0 */2 * * *"  # هر 2 ساعت — بهینه و پایدار
   workflow_dispatch:
 
 env:
@@ -14,10 +14,10 @@ env:
 
 jobs:
   update-configs:
-    runs-on: ubuntu-latest  # حتماً GitHub-hosted
+    runs-on: ubuntu-latest  # فقط GitHub-hosted
     timeout-minutes: 30
     steps:
-      - name: Checkout code (sparse, no .git cache)
+      - name: Checkout code (sparse, no full .git)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -132,7 +132,7 @@ jobs:
             local prefix="$2"
 
             if [ -f "$file" ]; then
-              size=$(stat Ü-s "$file" 2>/dev/null || echo 0)
+              size=$(stat -c%s "$file" 2>/dev/null || echo 0)
               size_mb=$((size / 1024 / 1024))
               echo "File $file size: ${size_mb}MB"
 
@@ -145,13 +145,13 @@ jobs:
             fi
           }
 
-          # Handle root files
+          # Root files
           for sub_file in Sub*.txt; do
             [ -f "$sub_file" ] && handle_large_file "$sub_file" "$(basename "$sub_file" .txt)"
           done
           [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
 
-          # Handle directories
+          # Directories
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f 2>/dev/null | while read file; do
             prefix=$(echo "$file" | sed 's/\.txt$//')
             handle_large_file "$file" "$prefix"
