@@ -1,30 +1,23 @@
 name: Update Collector
 permissions:
-  contents: write 
-
+  contents: write
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   schedule:
     - cron: "*/43 * * * *"
   workflow_dispatch:
 
 env:
-  ACTIONS_STEP_DEBUG: true
+  ACTIONS_STEP_DEBUG: true  
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Cache Git objects
-        uses: actions/cache@v3
-        with:
-          path: .git
-          key: ${{ runner.os }}-git-${{ github.sha }}
-          restore-keys: ${{ runner.os }}-git-
-
-      - name: Checkout code (optimized sparse)
+      - name: Checkout code (sparse with all txt)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -44,17 +37,17 @@ jobs:
 
       - name: Pull latest changes
         run: |
-          echo "Syncing with origin/main..."
+          echo "Pulling latest changes from origin main..."
           git fetch origin main
           git rebase origin/main || { 
-            echo "Rebase failed, trying merge..."; 
+            echo "Rebase failed, attempting merge..."; 
             git rebase --abort; 
             git merge origin/main || { 
-              echo "Merge failed, forcing reset..."; 
+              echo "Merge failed, resetting to origin/main..."; 
               git reset --hard origin/main; 
             }; 
           }
-          echo "Synced successfully."
+          echo "Branch is up-to-date with origin/main"
 
       - name: Set up Go
         uses: actions/setup-go@v4
@@ -63,88 +56,126 @@ jobs:
           cache: true
           cache-dependency-path: Files/go.mod
 
-      - name: Build and run aggregator
+      - name: Debug - Files before aggregator
         run: |
-          echo "Building aggregator..."
+          echo "=== BEFORE AGGREGATOR ==="
+          echo "Root TXT: $(ls -la *.txt 2>/dev/null || echo 'None')"
+          echo "Files/ TXT: $(ls -la Files/*.txt 2>/dev/null || echo 'None')"
+          echo "Directories: $(ls -la | grep '^d' | head -5)"
+
+      - name: Build and run Go aggregator
+        run: |
+          echo "Building in Files/, running in ROOT..."
           cd Files
           go mod tidy
           go build -ldflags="-s -w" -o ../aggregator *.go
-          cd ..
-          echo "Running aggregator from $(pwd)..."
+          cd ..  # ریشه
+          pwd  # تأیید ریشه
+          echo "Running aggregator in $(pwd)..."
           start_time=$(date +%s)
-          ./aggregator || { echo "Aggregator failed!"; exit 1; }
+          ./aggregator || { echo "Aggregator failed"; exit 1; }
           end_time=$(date +%s)
           processing_time=$((end_time - start_time))
-          echo "Aggregation completed in ${processing_time}s"
+          echo "Aggregator done in $processing_times!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
           rm -f aggregator
 
-      - name: Move outputs from Files/ if needed
+      - name: Debug - Files after aggregator + Move if in Files/
         run: |
-          if ls Files/Sub*.txt Files/All_Configs_Sub.txt >/dev/null 2>&1; then
-            echo "Moving outputs from Files/ to root..."
+          echo "=== AFTER AGGREGATOR ==="
+          echo "Root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None in root!')"
+          echo "All root TXT: $(ls -la *.txt 2>/dev/null || echo 'No TXT in root')"
+          echo "Files/ TXT: $(ls -la Files/Sub*.txt Files/All_Configs_Sub.txt 2>/dev/null || echo 'None in Files/')"
+          
+          # اگر در Files/ باشن، به ریشه منتقل کن
+          if [ -f "Files/Sub*.txt" ] || [ -f "Files/All_Configs_Sub.txt" ]; then
+            echo "Moving Sub/All from Files/ to root..."
             mv Files/Sub*.txt . 2>/dev/null || true
             mv Files/All_Configs_Sub.txt . 2>/dev/null || true
+            echo "Moved! Now root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'Still none')"
           fi
+          
+          echo "Final root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'CRITICAL: Still missing! Check aggregator code')"
 
-      - name: Verify outputs + statistics
+      - name: Verify output files
         run: |
-          echo "=== OUTPUT VERIFICATION ==="
-          echo "Root files:"
-          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No root outputs!"
+          echo "Verifying in root..."
+          echo "Sub files:"
+          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "CRITICAL: No Sub/All in root - aggregator issue?"
 
-          for dir in Splitted-By-Protocol Splitted-By-Country Base64; do
-            if [ -d "$dir" ]; then
-              echo "\n$dir:"
-              for f in "$dir"/*.txt; do
-                [ -f "$f" ] || continue
-                count=$(grep -v '^#' "$f" | wc -l)
-                size=$(du -h "$f" | cut -f1)
-                echo "  $(basename "$f"): $count configs ($size)"
-              done
-            fi
-          done
+          echo "\nProtocol:"
+          ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol dir"
+
+          echo "\nCountry:"
+          ls -la Splitted-By-Country/ 2>/dev/null || echo "No country dir"
+
+          echo "\nBase64:"
+          ls -la Base64/ 2>/dev/null || echo "No base64 dir"
 
           if [ -f "All_Configs_Sub.txt" ]; then
-            count=$(grep -v '^#' All_Configs_Sub.txt | wc -l)
-            size=$(du -h All_Configs_Sub.txt | cut -f1)
-            echo "\nAll_Configs_Sub.txt: $count configs ($size)"
+            count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
+            size=$(du -h "All_Configs_Sub.txt" | cut -f1)
+            echo "All_Configs_Sub: $count configs ($size)"
+          else
+            echo "ERROR: All_Configs_Sub.txt MISSING!"
           fi
 
-      - name: Handle large files (>90MB)
+          # آمار فولدرها (که درست کار می‌کنن)
+          if [ -d "Splitted-By-Protocol" ]; then
+            echo "\nProtocol stats:"
+            for f in Splitted-By-Protocol/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
+          fi
+
+          if [ -d "Splitted-By-Country" ]; then
+            echo "\nCountry stats:"
+            for f in Splitted-By-Country/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
+          fi
+
+      - name: Handle large files and prepare for commit
         run: |
-          handle_large() {
-            local file="$1" prefix="$2"
-            [ -f "$file" ] || return
-            size_mb=$(du -m "$file" | cut -f1)
-            echo "$file: ${size_mb}MB"
-            if [ $size_mb -gt 90 ]; then
-              echo "Splitting $file..."
-              split -b 90M "$file" "${prefix}_part_"
-              rm -f "$file"
+          echo "Handling large files in root..."
+
+          handle_large_file() {
+            local file="$1"
+            local prefix="$2"
+            if [ -f "$file" ]; then
+              size=$(stat -c%s "$file" 2>/dev/null || echo 0)
+              size_mb=$((size / 1024 / 1024))
+              echo "File $file: ${size_mb}MB"
+              if [ $size_mb -gt 85 ]; then
+                echo "Splitting $file..."
+                split -b 85M "$file" "${prefix}_part_"
+                rm "$file"
+              fi
             fi
           }
 
-          # Root files
-          for f in Sub*.txt; do [ -f "$f" ] && handle_large "$f" "$(basename "$f" .txt)"; done
-          [ -f "All_Configs_Sub.txt" ] && handle_large "All_Configs_Sub.txt" "All_Configs_Sub"
+          # Explicit for Sub and All
+          for sub in Sub*.txt; do [ -f "$sub" ] && handle_large_file "$sub" "${sub%.txt}"; done
+          [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
 
-          # Directories
+          # Folders
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f | while read f; do
-            prefix="$(basename "$f" .txt)"
-            handle_large "$f" "$(dirname "$f")/$prefix"
+            prefix=$(basename "$f" .txt)
+            handle_large_file "$f" "$f"
           done
 
-      - name: Clean up
+      - name: Clean up temporary files
         run: |
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
 
-      - name: Commit and push
+      - name: Debug - Before commit
+        run: |
+          echo "=== GIT STATUS ==="
+          git status --porcelain | head -15 || echo "No changes"
+          echo "Sub/All for commit: $(ls Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None!')"
+
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: GitHub Actions
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: "Fresh Update"
-          add: "Base64/ Splitted-By-*/*.txt All_Configs_Sub.txt Sub*.txt"
+          author_name: "GitHub Actions"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "🏴‍☠️ Fresh Update "
+          add: "."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
