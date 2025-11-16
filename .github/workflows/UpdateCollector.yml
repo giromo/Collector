@@ -59,7 +59,7 @@ jobs:
           cd Files
           echo "Building Go application..."
           go mod tidy
-          go build -ldflags="-s -w" -o aggregator *.go  # داخل Files/
+          go build -ldflags="-s -w" -o aggregator *.go
           echo "Starting config aggregation and sorting..."
           start_time=$(date +%s)
           ./aggregator || { echo "Aggregator failed"; exit 1; }
@@ -67,34 +67,34 @@ jobs:
           processing_time=$((end_time - start_time))
           echo "Config processing completed successfully in $processing_time seconds!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
-          # پاک کردن باینری (تا در کامیت نیاد)
-          rm -f aggregator
+          rm -f aggregator  # پاک کردن باینری
 
       - name: Verify output files
         run: |
+          cd ..  # برگشت به ریشه
           echo "Verifying generated files..."
           echo "Sub files in root directory:"
-          ls -la ../Sub*.txt ../All_Configs_Sub.txt 2>/dev/null || echo "No Sub files or All_Configs_Sub.txt found"
+          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No Sub files or All_Configs_Sub.txt found"
 
           echo "\nProtocol-based sorted configs (Splitted-By-Protocol):"
-          ls -la ../Splitted-By-Protocol/ 2>/dev/null || echo "No protocol directory found"
+          ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol directory found"
 
           echo "\nCountry-based sorted configs (Splitted-By-Country):"
-          ls -la ../Splitted-By-Country/ 2>/dev/null || echo "No country directory found"
+          ls -la Splitted-By-Country/ 2>/dev/null || echo "No country directory found"
 
           echo "\nBase64 directory:"
-          ls -la ../Base64/ 2>/dev/null || echo "No Base64 directory found"
+          ls -la Base64/ 2>/dev/null || echo "No Base64 directory found"
 
-          if [ -f "../All_Configs_Sub.txt" ]; then
+          if [ -f "All_Configs_Sub.txt" ]; then
             echo "\nAll_Configs_Sub.txt statistics:"
-            count=$(grep -v '^#' "../All_Configs_Sub.txt" | wc -l)
-            size=$(du -h "../All_Configs_Sub.txt" | cut -f1)
+            count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
+            size=$(du -h "All_Configs_Sub.txt" | cut -f1)
             echo "  All_Configs_Sub.txt: $count configs ($size)"
           fi
 
-          if [ -d "../Splitted-By-Protocol" ]; then
+          if [ -d "Splitted-By-Protocol" ]; then
             echo "\nProtocol file statistics:"
-            for file in ../Splitted-By-Protocol/*.txt; do
+            for file in Splitted-By-Protocol/*.txt; do
               [ -f "$file" ] || continue
               count=$(grep -v '^#' "$file" | wc -l)
               size=$(du -h "$file" | cut -f1)
@@ -103,20 +103,29 @@ jobs:
             done
           fi
 
-          if [ -d "../Splitted-By-Country" ]; then
+          if [ -d "Splitted-By-Country" ]; then
             echo "\nCountry file statistics:"
-            for file in ../Splitted-By-Country/*.txt; doignee
+            for file in Splitted-By-Country/*.txt; do
               [ -f "$file" ] || continue
               count=$(grep -v '^#' "$file" | wc -l)
               size=$(du -h "$file" | cut -f1)
               basename=$(basename "$file")
               echo "  $basename: $count configs ($size)"
             done
+          fi
+
+          if [ -f "Splitted-By-Protocol/unknown.txt" ]; then
+            echo "\nUnknown protocol configurations:"
+            grep -v '^#' Splitted-By-Protocol/unknown.txt || echo "No unknown protocol configs found"
+          fi
+
+          if [ -f "Splitted-By-Country/unknown.txt" ]; then
+            echo "\nUnknown country configurations:"
+            grep -v '^#' Splitted-By-Country/unknown.txt || echo "No unknown protocol configs found"
           fi
 
       - name: Handle large files and prepare for commit
         run: |
-          cd ..
           echo "Checking file sizes and handling large files..."
 
           handle_large_file() {
@@ -149,13 +158,11 @@ jobs:
 
       - name: Clean up temporary files
         run: |
-          cd ..
           echo "Cleaning up temporary files..."
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
 
       - name: Debug - List changes before commit
         run: |
-          cd ..
           echo "=== GIT STATUS (changes) ==="
           git status --porcelain | head -20 || echo "No changes detected"
           echo "=== SPLIT PARTS ==="
