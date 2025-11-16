@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Checkout code (sparse with root access)
+      - name: Checkout code (sparse with root txt files)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -26,7 +26,8 @@ jobs:
             Splitted-By-Protocol/
             Splitted-By-Country/
             Base64/
-            aggregator  # اجازه برای فایل باینری در ریشه
+            *.txt  # اجازه برای Sub*.txt و All_Configs_Sub.txt در ریشه
+            aggregator
           sparse-checkout-cone-mode: false
 
       - name: Set up Git
@@ -55,22 +56,39 @@ jobs:
           cache: true
           cache-dependency-path: Files/go.mod
 
+      - name: Debug - Files before aggregator
+        run: |
+          echo "=== FILES BEFORE AGGREGATOR (in root) ==="
+          ls -la *.txt 2>/dev/null || echo "No .txt files in root yet"
+          echo "=== DIRECTORIES ==="
+          ls -la | grep "^d" | head -10
+
       - name: Build and run Go aggregator
         run: |
-          echo "Building Go application..."
+          echo "Building Go application in root..."
           cd Files
           go mod tidy
           go build -ldflags="-s -w" -o ../aggregator *.go  # بیلد به ریشه
-          cd ..  # برگشت به ریشه
-          echo "Starting config aggregation and sorting in root..."
+          cd ..  # همیشه در ریشه اجرا کن
+          echo "Running aggregator in ROOT directory (current: $(pwd))..."
           start_time=$(date +%s)
-          ./aggregator || { echo "Aggregator failed"; exit 1; }
+          ./aggregator || { echo "Aggregator failed - check Go code"; exit 1; }
           end_time=$(date +%s)
           processing_time=$((end_time - start_time))
-          echo "Config processing completed successfully in $processing_time seconds!"
+          echo "Aggregator completed in $processing_time seconds!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
-          # پاک کردن باینری (اختیاری، چون در sparse-checkout هست)
-          rm -f aggregator
+          rm -f aggregator  # پاک کردن باینری
+
+      - name: Debug - Files after aggregator
+        run: |
+          echo "=== FILES AFTER AGGREGATOR (in root) ==="
+          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "WARNING: No Sub*.txt or All_Configs_Sub.txt in root!"
+          echo "=== ALL .TXT IN ROOT ==="
+          ls -la *.txt 2>/dev/null || echo "No .txt files in root"
+          echo "=== DIRECTORIES AFTER ==="
+          ls -la | grep "^d" | head -10
+          echo "=== INSIDE FILES/ (check if outputs went there) ==="
+          ls -la Files/*.txt 2>/dev/null || echo "No .txt in Files/"
 
       - name: Verify output files
         run: |
@@ -92,6 +110,8 @@ jobs:
             count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
             size=$(du -h "All_Configs_Sub.txt" | cut -f1)
             echo "  All_Configs_Sub.txt: $count configs ($size)"
+          else
+            echo "ERROR: All_Configs_Sub.txt NOT FOUND in root!"
           fi
 
           if [ -d "Splitted-By-Protocol" ]; then
@@ -117,13 +137,13 @@ jobs:
           fi
 
           if [ -f "Splitted-By-Protocol/unknown.txt" ]; then
-            echo "\nUnknown protocol configurations:"
-            head -10 Splitted-By-Protocol/unknown.txt  # فقط 10 خط اول برای لاگ
+            echo "\nUnknown protocol configurations (first 10 lines):"
+            head -10 Splitted-By-Protocol/unknown.txt
           fi
 
           if [ -f "Splitted-By-Country/unknown.txt" ]; then
-            echo "\nUnknown country configurations:"
-            head -10 Splitted-By-Country/unknown.txt  # فقط 10 خط اول
+            echo "\nUnknown country configurations (first 10 lines):"
+            head -10 Splitted-By-Country/unknown.txt
           fi
 
       - name: Handle large files and prepare for commit
@@ -148,11 +168,13 @@ jobs:
             fi
           }
 
+          # Handle Sub*.txt and All_Configs_Sub.txt explicitly
           for sub_file in Sub*.txt; do
             [ -f "$sub_file" ] && handle_large_file "$sub_file" "$(basename "$sub_file" .txt)"
           done
           [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
 
+          # Handle other directories
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f 2>/dev/null | while read file; do
             prefix=$(echo "$file" | sed 's/\.txt$//')
             handle_large_file "$file" "$prefix"
@@ -169,15 +191,15 @@ jobs:
           git status --porcelain | head -20 || echo "No changes detected"
           echo "=== SPLIT PARTS ==="
           ls *_part_* 2>/dev/null || echo "No split parts found"
-          echo "=== ROOT FILES ==="
-          ls -la *.txt 2>/dev/null | head -10
+          echo "=== ROOT TXT FILES FOR COMMIT ==="
+          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No Sub/All files for commit!"
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: "GitHub Actions"
           author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "Fresh Update [$(date +'%H:%M')] - Outputs in root"
-          add: "."  # همه تغییرات در ریشه
+          message: "Fresh Update [$(date +'%H:%M')] - Root files: Sub* & All_Configs_Sub"
+          add: "."  # همه تغییرات در ریشه (شامل Sub*.txt)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
