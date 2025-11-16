@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */2 * * *"  # هر 2 ساعت — بهینه و پایدار
+    - cron: "*/43 * * * *"  # هر 43 دقیقه — طبق درخواست اولیه شما
   workflow_dispatch:
 
 env:
@@ -14,10 +14,10 @@ env:
 
 jobs:
   update-configs:
-    runs-on: ubuntu-latest  # فقط GitHub-hosted
+    runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Checkout code (sparse, no full .git)
+      - name: Checkout code (sparse only)
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -145,13 +145,11 @@ jobs:
             fi
           }
 
-          # Root files
           for sub_file in Sub*.txt; do
             [ -f "$sub_file" ] && handle_large_file "$sub_file" "$(basename "$sub_file" .txt)"
           done
           [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
 
-          # Directories
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f 2>/dev/null | while read file; do
             prefix=$(echo "$file" | sed 's/\.txt$//')
             handle_large_file "$file" "$prefix"
@@ -162,12 +160,12 @@ jobs:
           echo "Cleaning up temporary files..."
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
 
-      - name: Debug - List files before commit
+      - name: Debug - List changes before commit
         run: |
-          echo "=== FILES TO BE COMMITTED ==="
-          find . -type f \( -name "*.txt" -o -name "*_part_*" \) | sort | head -30
-          echo "=== LARGE FILES (>50MB) ==="
-          find . -type f -size +50M
+          echo "=== GIT STATUS (changes) ==="
+          git status --porcelain | head -20 || echo "No changes detected"
+          echo "=== SPLIT PARTS ==="
+          ls *_part_* 2>/dev/null || echo "No split parts found"
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
@@ -175,11 +173,6 @@ jobs:
           author_name: "GitHub Actions"
           author_email: "github-actions[bot]@users.noreply.github.com"
           message: "Fresh Update [$(date +'%H:%M')]"
-          add: |
-            Base64/
-            Splitted-By-Country/
-            Splitted-By-Protocol/
-            All_Configs_Sub.txt
-            *_part_*
+          add: "."  # همه تغییرات رو اضافه کن — بدون خطا
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
