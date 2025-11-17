@@ -1,4 +1,5 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Z
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@vmesskhodam
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#@vmesskhodam
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#@vmesskhodam
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
+vless://42c102ba-f4a6-4c9d-8d78-7e8f64bc5c3d@68.183.3.107:21790?path=/&security=none&encryption=none&type=ws#@vmesskhodam
+vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.7.237:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#@vmesskhodam
+vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@vmesskhodam
