@@ -1,1 +1,1 @@
-vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=/#telegram@V2ray_Alpha&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=de.gt-ov.com&fp=chrome&type=ws&sni=de.gt-ov.com#@V2rayNG3
+trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
