@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.168-0178
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGZ4aW9LMFZrS3hUZHBWUUo0cnY4SGdsQXUwdnp2Ng==@146.19.49.251:443#%F0%9F%87%BA%F0%9F%87%B8US-146.19.49.251-0184
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?&security=false&fp=chrome&type=ws&headerType=none&host=freedom.pusytroller.cf&path=%2F#%E7%BE%8E%E5%9B%BD%201136
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?&security=false&fp=chrome&type=ws&headerType=none&host=freedom.pusytroller.cf&path=%2F#%E7%BE%8E%E5%9B%BD%201135
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%8D%B7%E5%85%B0%20060
 vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?&security=tls&fp=chrome&sni=Xlz767V2Ray.PAGEs.DEv&type=ws&headerType=none&host=Xlz767V2Ray.PAGEs.DEv&path=%2Fbethzrzkz5ljs32v%3Fed%3D2560#%E5%B7%B4%E8%A5%BF%20026
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?&security=false&fp=chrome&type=ws&headerType=none&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD%20859
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?&security=tls&fp=chrome&sni=dabaius2.sylu.net&type=ws&headerType=none&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%E7%BE%8E%E5%9B%BD%20759
@@ -502,3 +496,9 @@ vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?&securi
 vless://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=638991995737738113.swift-amsib.info&type=ws&headerType=none&host=638991995737738113.swift-amsib.info&path=%2Fahkthyws#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%5Bvl-tl-ws%5D%20%5B251121-103122.725%5D
 vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=638991995737742135.swift-amsib.info&type=ws&headerType=none&host=638991995737742135.swift-amsib.info&path=%2Ffhujaiws#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%5Bvl-tl-ws%5D%20%5B251121-103021.208%5D
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@45.144.52.23:443?&security=tls&fp=chrome&sni=fl-3-direct.djarbnet.ru&type=ws&headerType=none&host=fl-3-direct.djarbnet.ru&path=%2Fgetupdates#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-tl-ws%5D%20%5B251121-103840.613%5D
+vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@104.25.123.80:2096?&security=tls&fp=chrome&sni=BAt.zuLAir.siTe.&type=ws&headerType=none&host=BAt.zuLAir.siTe.&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-104008.778%5D
+vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?&security=tls&fp=chrome&sni=GRouND-sloth.zulair.SIte.&type=ws&headerType=none&host=GRouND-sloth.zulair.SIte.&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-103927.000%5D
+vless://e2dcbe14-5930-41bd-b47a-90b34049b0c2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?&security=tls&fp=chrome&sni=seahorse.ZuLair.Site.&type=ws&headerType=none&host=seahorse.ZuLair.Site.&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-103921.661%5D
+vless://b4a81818-e8b6-4c04-ae98-a116e019dbb3@www.visaeurope.ch:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=%2Fws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-103745.474%5D
+vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?&security=tls&fp=chrome&sni=hIppOPOTamus.ZulaIr.siTE.&type=ws&headerType=none&host=hIppOPOTamus.ZulaIr.siTE.&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-103718.085%5D
+vless://a12b2959-1e85-472c-84fd-3aa12656efa9@104.24.195.174:2096?&security=tls&fp=chrome&sni=Jerboa.zulair.siTE.&type=ws&headerType=none&host=Jerboa.zulair.siTE.&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B251121-103659.628%5D
