@@ -1,3 +1,4 @@
-trojan://telegram-id-directvpn@15.188.237.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-ss://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjlkM2M0MTQtODljYy00NTVkLWI3MTctMTBjN2NhMTY2NWExIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODgzOCIsInBzIjoiQEdwX0NvbmZpZyDwn4ydINqv2LHZiNmHINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@15.188.170.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@3.76.172.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@3.127.91.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#4
