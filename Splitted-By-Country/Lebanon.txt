@@ -1,17 +1,2 @@
-trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%E6%9C%AA%E7%9F%A546
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel : @Mrsoulb 🏴🏳
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Channel : @Mrsoulb 🏴🏳
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Channel : @Mrsoulb 🏴🏳
-vless://2a30e90e-02be-4602-8c57-308eb4feff5b@tr.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#Channel : @Mrsoulb 🏴🏳
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@104.248.39.81:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://64bac080-e220-4ad2-eb97-56d5cf18b8c3@64.226.107.71:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.104.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#Channel : @Mrsoulb 🏴🏳
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#Channel : @Mrsoulb 🏴🏳
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=angor.mrconfigur.site#Channel : @Mrsoulb 🏴🏳
-vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=/&security=tls&encryption=none&type=ws&sni=GRouND-sloth.zulair.SIte.#Channel : @Mrsoulb 🏴🏳
-vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&fp=chrome&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Channel : @Mrsoulb 🏴🏳
-vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&type=ws&sni=638996506447943078.soul-amsih.info#Channel : @Mrsoulb 🏴🏳
-vmess://eyJhZGQiOiI5MS4xMDcuMTc2LjIwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiOTJhYzRmMWUtN2U5Zi00Yjk1LTkxY2UtYzRkNGJhOTNlNTMzIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn5SYIEBJUlBST1hZX09SRyDihKLvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9😉 @V2ray_Custom
-ss://eyJhZGQiOiJzaW5nYXBvcmUyLmhlbGxvc2h1YWkuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzaW5nYXBvcmUyLmhlbGxvc2h1YWkuY29tIiwiaWQiOiIxNGE3OTE0OC0zZDc1LTQxZDYtYTk5OC0yYmU5ZWRlZjg4Y2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMzljYjQvIiwicG9ydCI6IjQ0MyIsInBzIjoiQFZNRVNTSVI0TiDYrNmH2Kog2K7YsduM2K8g2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAiQHYycmF5TkdfVlBOTiIsCiAgICAiYWRkIjogIjE4NS4xNzQuMTM4LjM0IiwKICAgICJwb3J0IjogMjA4MiwKICAgICJpZCI6ICI2MDY2YWJmMS1jZGIxLTQ4MTgtZDM1YS03YzhlMGVlOTAzMjAiLAogICAgImFpZCI6IDAsCiAgICAibmV0IjogIndzIiwKICAgICJ0eXBlIjogIm5vbmUiLAogICAgImhvc3QiOiAiZWUudjJqZXkuZnVuIiwKICAgICJwYXRoIjogIi8iLAogICAgInRscyI6ICJub25lIgp9⚙ همراه اول
+vless://72239cbc-5a25-411c-b4f5-b9167a10f5e1@77.110.127.105:443?allowInsecure=0&sni=st.ozone.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#LB_speednode_0022
