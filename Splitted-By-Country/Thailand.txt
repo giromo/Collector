@@ -1,8 +1,15 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@119.59.98.58:989#TH-119.59.98.58-2096
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH-119.59.98.58-1270
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#TH-119.59.127.129-0104
-vless://08966ca9-496e-4864-bc6c-84d4d8ca5592@185.113.10.43:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#m15pz4lx
-vless://3c9c9708-abd6-2996-ce7b-1fccd88d0beb@151.101.3.8:80?mode=auto&path=/&security=&encryption=none&extra={'headers': {}, 'xPaddingBytes': '0', 'noGRPCHeader': False}&host=Bale.AI.&type=xhttp#.
-vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=/&security=none&encryption=none&type=ws#.
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?mode=gun&security=none&encryption=none&type=grpc#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B5%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#%F0%9F%87%B9%F0%9F%87%ADTH%20%20%40ConfigV2RayNG%E2%80%94224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990#South Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#a--92
+ss://YWVzLTI1Ni1nY206Y2Q4ODE2YzQtMzIwZi00MmFmLThmM2MtMGFlMTI1MzFlNjk2@84.200.91.158:443#--75
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.209.88.138:55605?encryption=none&amp;type=tcp#South%20Korea%2014%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.209.88.138:55605?encryption=none&amp;type=tcp#South%20Korea%2014%20dailyv2ry
+ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Cyprus%20Dedipath
+ss://af9fdedf-dca8-405d-9aa4-98ebcc99e84b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=ipe4.aligh…
+ss://f4e52226-7177-48be-be51-7e6091443fb9@104.21.94.168:8080?security=none&amp;type=ws&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&amp;path=%2F@XvProxy----
+vmess://eyJhZGQiOiAiNS43OS43MS4xODQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidGVsZXdlYmlvbi5jb20iLCAiaWQiOiAiNjI4MTcxZWUtMDQ4Yi00N2JlLTg1ZmUtN2E2NTkwMDZlOGEyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvNDAxNjkvTmV4dGxpZmUiLCAicG9ydCI6ICI4MDgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFcdTAwYWVcdWZlMGZUaGUgTmV0aGVybGFuZHNcdTAwYTlcdWZlMGZBbXN0ZXJkYW1cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE1N21zIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM4IiwgImFkZCI6ICIxNS4yMzUuODMuMjI3IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm1hbmthZG11LmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
+vless://5386150b-54ec-428e-db61-7dd87df4923b@v.abolfazlsafeti.top:49463?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87%202سرور پولیه برای ویپی ان nv بزنید✅
