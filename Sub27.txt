@@ -2,19 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.8.201:443?security=reality&amp;encryption=none&amp;pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=store.steampowered.com#@V2rayNG3
-ss://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&amp;encryption=none&amp;pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=89dbda1a1c9369#@V2rayNG3
-ss://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&amp;security=tls&amp;encryption=none&amp;host=psto.fullmargintraders.com&amp;type=ws&amp;sni=psto.fullmargintraders.com#@V2rayNG3
-ss://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&amp;path=%2F&amp;host=&amp;security=none#s565-229065
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:8880?type=tcp&amp;encryption=none&amp;security=none#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&amp;security=&amp;encryption=none&amp;fp=chrome&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
@@ -502,3 +489,16 @@ ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@161.35.191.120:443?flow=xtls-rprx-visi
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.98.168.173:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%2041%20dailyv2ry
 ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=yugnd.jet-nimejam.info&amp;type=ws&amp;alpn=&amp;host=yugnd.jet-nimejam.info&amp;path=/perform#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
 ss://6033ee9d-7c2a-4f37-a055-0c0d2d8487f0@155.138.128.143:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&amp;security=reality&amp;sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&amp;type=tcp#telegram%20%F0%9F%8C%BA%20dailyv2ry
+ss://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=ofgng.crystal-nimejam.info&amp;type=ws&amp;alpn=&amp;host=ofgng.crystal-nimejam.info&amp;path=/perform#telegram%20%F0%9F%8D%80%20dailyv2ry
+ss://fc78d2e0-f702-42d7-cbeb-30ff2d080508@159.89.110.247:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D3%2050%20dailyv2ry
+ss://fc78d2e0-f702-42d7-cbeb-30ff2d080508@159.223.30.237:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D7%2049%20dailyv2ry
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.39:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#telegram%20%F0%9F%8E%AF%20dailyv2ry
+ss://213765da-23d2-4aaf-b52e-77ecd06ec7c2@brenna.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=639000000258206810.cayenne-amsim.info&amp;type=ws&amp;host=639000000258206810.cayenne-amsim.info&amp;path=/igzvnjws#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
+ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@165.22.165.194:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram%20%F0%9F%9A%80%20dailyv2ry
+ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@159.89.36.16:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram%20%F0%9F%8C%9F%20dailyv2ry
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA%3D%3D@45.14.245.2:443#telegram%20%F0%9F%8D%8A%20dailyv2ry
+ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@146.190.39.24:443?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.gstatic.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.237.211.57:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram%20%F0%9F%8E%AF%20dailyv2ry
+ss://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
+ss://fc78d2e0-f702-42d7-cbeb-30ff2d080508@46.101.104.202:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D26%2081%20dailyv2ry
+ss://518c4fad-c3f7-467d-ade9-0921a046d9b8@PolIKkKZ.nicErEALLiFE.inFO:8443?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=firefox&amp;pbk=Rw-AKWWTJuqDWE1HMHVmfEhK49PaOviGIhJZXaYJwF4&amp;sid=3e1c2a12&amp;spx=%2Fapps&amp;type=grpc#telegram%20%F0%9F%8C%9F%20dailyv2ry
