@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#MCi--%40IRAN_V2RAY1
-hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#All-%40V2ray_Alpha--3%20%231
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?insecure=1&sni=hshl.huasuan666.top#%40V2rayNG3%20%233
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?insecure=1&sni=hsdg.huasuan666.top#%40Hddify%20%231
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?insecure=1&sni=hsdg.huasuan666.top#%40Hddify
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?insecure=0&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%F0%9F%94%B8%40V2ray1_Ng%F0%9F%92%98%20%232
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?insecure=1#All-%40V2rayAlpha--3
@@ -502,3 +498,7 @@ trojan://2cf6d686799e6fa95316394064f26c0a@160.16.57.238:3169?security=tls&sni=ww
 trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1512%20%7C%20free-nodes
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-1511%20%7C%20free-nodes
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1510%20%7C%20free-nodes
+trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1509%20%7C%20free-nodes
+trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1508%20%7C%20free-nodes
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1507%20%7C%20free-nodes
+trojan://BxceQaOe@13.115.187.38:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1506%20%7C%20free-nodes

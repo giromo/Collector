@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1509%20%7C%20free-nodes
-trojan://BxceQaOe@153.121.67.215:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1508%20%7C%20free-nodes
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A5%20TROJAN-1507%20%7C%20free-nodes
-trojan://BxceQaOe@13.115.187.38:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1506%20%7C%20free-nodes
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1505%20%7C%20free-nodes
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1504%20%7C%20free-nodes
 trojan://BxceQaOe@52.193.233.149:26378?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1503%20%7C%20free-nodes
@@ -502,3 +498,7 @@ trojan://79314e99f0a473fe86efc7827942ad00@58.152.18.192:443?allowInsecure=0&sni=
 trojan://BxceQaOe@112.118.116.66:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1012%20%7C%20free-nodes
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#%E6%9C%AA%E7%9F%A5%20TROJAN-1011%20%7C%20free-nodes
 trojan://253bc477d4e43c209f2d427272968280@182.237.0.26:2200?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5%20TROJAN-1010%20%7C%20free-nodes
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.179.67:40005?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1009%20%7C%20free-nodes
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#US%20TROJAN-1008%20%7C%20free-nodes
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@in01.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-1007%20%7C%20free-nodes
+trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5%20TROJAN-1006%20%7C%20free-nodes
