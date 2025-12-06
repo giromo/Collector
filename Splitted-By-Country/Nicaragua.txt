@@ -1,52 +1,18 @@
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://7e281f58-63b0-4e9a-a3fe-537e33e374b9@node1.svoy.run:443?security=reality&encryption=none&pbk=0_FWbcTe6tvBuSZ7_7PrMaNmg44a8VxYRXPKjZuERwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=a150dff4#%F0%9F%87%B5%F0%9F%87%B1`
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:2760?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A536
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48461?security=tls&sni=$$$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A590
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5108
-trojan://telegram-id-privatevpns@3.127.91.148:22222?security=tls&sni=3.127.91.148#%E6%9C%AA%E7%9F%A5124
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5154
-hysteria2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#%40Hddify%20%233
-vmess://eyJhZGQiOiAiMTk4LjIzLjE3NC4xNjgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiMmIzNjMwNGItNGY4OC00ZmY1LTkwMzMtZjRkNTdkYmI1NDkwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.93.224.67:55605?encryption=none&amp;type=tcp#United%20States%2063%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@44.249.32.135:55605?encryption=none&amp;type=tcp#United%20States%2055%20dailyv2ry
-ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@18.220.29.111:55605?encryption=none&amp;type=tcp#United%20States%2096%20dailyv2ry
-ss://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkBWTUVTU0lSNE4g2KzZh9iqINiu2LHbjNivINqp2KfZhtmB24zaryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-trojan://telegram-id-privatevpns@63.176.115.216:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@63.181.113.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@52.47.134.169:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-vless://e258977b-e413-4718-a3af-02d75492c349@172.66.45.120:443?&security=tls&fp=chrome&sni=www.x-aniu-h-k.netlib.re&type=ws&headerType=none&host=www.x-aniu-h-k.netlib.re&path=%2F%3Fed%3D2560#%E6%97%A5%E6%9C%9F%EF%BC%9A12-06
-vless://e258977b-e413-4718-a3af-02d75492c349@116.206.93.131:443?&security=tls&fp=chrome&sni=www.x-aniu-h-k.netlib.re&type=ws&headerType=none&host=www.x-aniu-h-k.netlib.re&path=%2F%3Fed%3D2560#_%E6%97%A5%E6%9C%AC%202
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A533
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18835?security=tls&sni=$$feilvbin.xiaohouzi.club#%E6%9C%AA%E7%9F%A5130
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5180
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5186%202.0MB%2Fs
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054?sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5188%20605.0KB%2Fs
-trojan://9ccc3e1d-3df5-4348-aa05-738310149cc3@45.86.229.28:443?security=tls&sni=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A5195
-trojan://3c4e10af98c30972@23.247.137.64:443?security=tls&sni=n2.gladns.com&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=db&mode=gun#t.me/v2Line | Free | 3094 | United States
+vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&allowInsecure=1&type=tcp&headerType=none#United%20States%F0%9F%87%BA%F0%9F%87%B8
+trojan://telegram-id-privatevpns@13.36.44.112:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+hy2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?sni=
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#%E6%9C%AA%E7%9F%A539%2029.9KB%2Fs
+trojan://BxceQaOe@112.118.116.66:443?sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5105
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48464?security=tls&sni=$$vuus04.xiaohouzi.club#%E6%9C%AA%E7%9F%A5139
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#@Hddify
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 vless://086cf79c-589a-4726-a57f-ca32a2f52c9b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#znih19l0
 vless://086cf79c-589a-4726-a57f-ca32a2f52c9b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#znih19l0  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
-vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@dubai.torprospeed.ir:6630?security=reality&encryption=none&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=e0c8f8e163c60a4f#r♡ya
-vless://36d05a32-d2aa-439d-968f-9ede2a4aa018@finland.torprospeed.ir:5890?mode=gun&security=reality&encryption=none&pbk=OFvAJ_DLwS-628oyg8UesadYl-a8hJljcSfd9Ri3Rmo&fp=chrome&spx=/&type=grpc&serviceName=xyz&sni=www.slideshare.net&sid=0506143c33da39f6#r♡ya
-vless://3a599664-61fc-4ca1-8cbc-f500da2bcdc5@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-vless://3aa3f0d8-ae20-4ead-8585-c3717c03ddd7@zula.ir:8443?type=grpc&encryption=none&serviceName=ahwaz.infinitespd.com&authority=&mode=multi&security=tls&fp=chrome&alpn=h2,h3&allowInsecure=1&sni=ahwaz.infinitespd.com#MININIGHT
-vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
-vless://5d5a343a-cfe2-45bc-b100-2e1df542be4a@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
-vless://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#n 18
-vless://669be00c-67b4-4b87-b08f-311c45abced2@us.atlanta-internet.ru:443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#@ShikaVPN
-vless://71326bf0-6353-4d47-9e4f-8b8559877274@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@cs2.film2serial.cloud:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&sni=cs2.film2serial.cloud#🇩
-vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#NIGHTLY CONFIG🌙  GOOD NIGHT🌙
-vless://be6cd872-b474-48e3-bbcf-d1444db87b7a@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-vless://c9798bcb-59ca-4d2a-b858-d577405cdb8b@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#@ShikaVPN
-vless://cf024442-3f26-4224-8422-f4043ae0006f@MINIPROXY.NET:8443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#MININIGHT🌙
-vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#r♡ya
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=#/?Join------Join------Join------Join---?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e07f7d97-bc02-4313-9404-f2a7361596e9@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-vless://f447d2e7-b486-49fc-967d-5b505bba27ac@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#@Hddify
-vless://9ddf54a6-7f12-4a42-88f2-03257c760d8f@146.75.119.82:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&type=ws&allowInsecure=0&sni=azizoarjmand.info#بیاین تو چنل ❤️
+vless://9360485d-4151-4e0a-8fef-51b2cd41d0a6@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
+vless://b5c04d3f-9eff-4939-a1f8-7b045854fd68@shadowshaman.fonixapp.org:39321?security=reality&encryption=none&pbk=IIdE2p3vqHDjHfLrvJXkrLoYpYMJH0R1tacCkHiDtAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=ecc1c4#@ShikaVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=/#t.me/v2Line | Free | 3105 | United States
+vless://89c03558-a2fb-48a8-90da-be4a03faeee1@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#%3E%3E%40lightning6%3A%3ADE
+trojan://BxceQaOe@160.16.82.24:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5115
