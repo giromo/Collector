@@ -1,81 +1,37 @@
-vless://96b84d8a-6355-4422-8e65-42d3ccdb17c4@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
-vless://c05bb475-64d2-447b-92c0-143aa6b71d1c@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@supsig.xiaohouzi.club:10102?security=tls#%E6%9C%AA%E7%9F%A531
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A542
-trojan://BxceQaOe@36.156.102.115:26876?security=tls#%E6%9C%AA%E7%9F%A547
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A549
-trojan://origin@51.77.71.134:443?security=tls#%E6%9C%AA%E7%9F%A550
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#%E6%9C%AA%E7%9F%A576
-trojan://BxceQaOe@160.16.242.183:2145?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A582
-trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?security=tls&type=ws&sni=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5#%E6%9C%AA%E7%9F%A587
-trojan://ffec9f6ea19e1dd1@5.44.249.43:3389?security=tls#%E6%9C%AA%E7%9F%A591
-trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A596
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10824?security=tls#%E6%9C%AA%E7%9F%A5109
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10823?security=tls#%E6%9C%AA%E7%9F%A5115
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.132.158:2467?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5119
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%E6%9C%AA%E7%9F%A5124
-trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@uk-full.privateip.net:443?security=tls#%E6%9C%AA%E7%9F%A5126
-trojan://BxceQaOe@219.79.186.107:443?security=tls&sni=t.me/ripaojiedian#HK4
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5141
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5179
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5188
-trojan://BxceQaOe@43.206.220.221:3579?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5192
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#IT-212.102.54.45-0252
-vmess://eyJ2IjoiMiIsInBzIjoiSEstMTE2LjQ5LjYxLjI0Mi03Mjc1IiwiYWRkIjoiMjQ2NzFjNWEtc3Y0bjQwLXN3amJnci0xa2NwZS5oazMucDVwdi5jb20iLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiM2Y1MTRlYTItNDY2Mi0xMWVkLWE4YmYtZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMjQ2NzFjNWEtc3Y0bjQwLXN3amJnci0xa2NwZS5oazMucDVwdi5jb20iLCJ0bHMiOiIifQ==
+vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0240
+vless://c05bb475-64d2-447b-92c0-143aa6b71d1c@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#IT-212.102.54.45-0252
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&allowInsecure=1&type=tcp&headerType=none#United%20States%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4R0JOeGhVZEFQRTJUYlBmb2FVUDZr@188.166.214.51:13394#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@107.181.151.147:43669#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ285enBtSk45UFhQdVBDVUZWdFVL@146.190.105.227:2596#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-vmess://eyJhZGQiOiIxNTkuNjkuMjQuMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDg0OTFhZjYtYmQxOC00NzNlLWFlMjItNzQzYjk1OTNhZDczIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoi4pqg77iPINqp2KfZhtin2YQg2KzZiNuM2YYg2LTbjNivINmC2LfYuSDZhti024zYryB8IPCfhpQgQExJVEVWMlJBWSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vless://386b42f4-2e24-48ed-b3b9-9dc92b5a7568@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=t.me/entryNET&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
-vless://386b42f4-2e24-48ed-b3b9-9dc92b5a7568@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
-vless://80fff33c-9cda-488e-aba4-3b2657969847@xtls32backend.vigilante.ir:6842?encryption=none&security=reality&sni=slack.com&fp=firefox&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&sid=934e93fea74aeefe&type=grpc&authority=&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&mode=gun#[🇮🇹]t.me/ConfigsHub
-vless://cfe44c6d-f198-4ac8-a3a0-b61bc68a62c9@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
-vless://df0af1c8-b758-9acd-6e70-aa85b66cbe62@Itw.sefrtasad.com:3159?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=translation.steampowered.com&fp=firefox&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&sid=21432a79954b#[🇮🇹]t.me/ConfigsHub
-trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%E6%9C%AA%E7%9F%A54
-trojan://BxceQaOe@13.115.187.38:5156?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A57
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A520
-trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A529
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:26295?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A539
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%E6%9C%AA%E7%9F%A561
-trojan://redfree8@104.17.148.22:443?security=tls&type=ws&sni=redfree8-p1.pooriashop.ir&path=/trTelegram#%E6%9C%AA%E7%9F%A568
-trojan://bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?security=tls#%E6%9C%AA%E7%9F%A580
-trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A585
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:3160?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A595
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#%E6%9C%AA%E7%9F%A5104
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com#%E6%9C%AA%E7%9F%A5129
-trojan://telegram-id-privatevpns@51.45.12.251:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5133
-trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls#%E6%9C%AA%E7%9F%A5137
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1806?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5138
-trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5144
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10823?security=tls#%E6%9C%AA%E7%9F%A5167
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua#%E6%9C%AA%E7%9F%A5170
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:27482?security=tls&sni=$$$hnm.xiaohouzi.club#%E6%9C%AA%E7%9F%A5175
-trojan://6b4ced5e-835a-4a7a-9d03-6a46e94668cb@103.195.236.24:443?security=tls#%E6%9C%AA%E7%9F%A5180
-trojan://ffec9f6ea19e1dd1@5.44.249.43:3389?security=tls#%E6%9C%AA%E7%9F%A5196
+trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443?security=tls&sni=hezijiasuqi.com#HK
+trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1572?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A528
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20037?security=tls&sni=$$$$iplc.xiaohouzi.club#%E6%9C%AA%E7%9F%A560
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10822?security=tls#%E6%9C%AA%E7%9F%A575
+trojan://telegram-id-privatevpns@3.64.168.175:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A584
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A595
+trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A596
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%E6%9C%AA%E7%9F%A5111
+trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#%E6%9C%AA%E7%9F%A5122
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@iplc.xiaohouzi.club:20032?security=tls&sni=$$hk-azure02.xiaohouzi.club#%E6%9C%AA%E7%9F%A5132
+trojan://76d630f2af6619c4a5de0ef953df3c6a@203.198.122.217:443?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5176
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%E6%9C%AA%E7%9F%A5178
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1NTZmZFx1OTY0NVx1ODIyYVx1N2E3YVx1NzUzNVx1OGJhZlx1OTZjNlx1NTZlMlx1NTE2Y1x1NTNmOChTSVRBKSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#@MARAMBASHI 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990?note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#https://t.me/v2raynplus |🇮🇹
 ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ=@185.103.110.67:18282#@MARAMBASHI 🇮🇹
 ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ@185.103.110.67:18282#@MARAMBASHI 🇮🇹
-trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.53:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.39:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
+trojan://BxceQaOe@58.152.25.242:443?security=tls&headerType=none&type=tcp&sni=t.me%2Fripaojiedian#r♡ya
+trojan://RBjgSOjBvC@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-hdrit7zr
 vless://154d4189-3dc3-4cf7-8ace-6034fae2ee08@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#@ShikaVPN
 vless://386b42f4-2e24-48ed-b3b9-9dc92b5a7568@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
-vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://3bfbd5e8-6904-4404-a05e-cbcfd77d6588@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3102 | United States
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3081 | United States
 vless://59107040-c8e7-453c-b135-68ccdd488d29@xtlsresponse2026.vigilante.ir:3626?encryption=none&security=reality&sni=fafait.net&fp=chrome&pbk=hWXoAaqccxA7bP1In2Tv6NRh4BaqOg0tQaqVE0JqOCk&sid=ef3e32d4218cfc11&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2056&mode=gun#Telegram: @Daily_Configs 🇮🇹
-vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?mode=auto&path=/vaime?ed=2560&security=none&encryption=none&host=birenmon766.com&type=xhttp#@Hddify
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5@italy.pocomacho.ru:443?security=reality&encryption=none&pbk=w8fmqaWzMuOLi9qoV5ueSdrVel8xgr2R2Z1ayUE48EI&headerType=none&fp=chrome&spx=/D2j6eFVa56guYTK&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=40b4681581dae8#🇮🇹@vpnserverrrکانال تلگرام
 vless://6b7f1162-130f-41bb-b84f-2cf1277cb2a0@italy-dailyconfigs.vigilante.ir:2053?mode=multi&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs&sni=tgju.org&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
-vless://7c8bd23f-3f6b-41f2-a7d1-7b6a262d71d9@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB
 vless://80fff33c-9cda-488e-aba4-3b2657969847@xtls32backend.vigilante.ir:6842?encryption=none&security=reality&sni=slack.com&fp=chrome&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&sid=934e93fea74aeefe&type=grpc&authority=&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&mode=gun#Telegram: @Daily_Configs 🇮🇹
 vless://97b5a003-e9cd-4688-bc9b-888b136e1e36@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
 vless://98fd0467-113e-406f-bbb2-7b7e10bfaa2d@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
@@ -87,11 +43,20 @@ vless://c1a46bb0-029b-4a4e-bdc0-26ee9993f750@hitrafa.top:6013?security=reality&e
 vless://cb0700b3-3b70-48ad-ba35-320aa2b49121@107.189.22.79:28461?security=reality&encryption=none&pbk=-0a7IavpBDDeUTJIgz19dVIXk9lkaeKbUzTdciJo-BQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&fp=chrome&spx=/&type=tcp&sni=www.google.com&sid=ab76769db1#@MARAMBASHI 🇮🇹
 vless://cd25cc00-2e00-4faa-a850-7b94190d7999@usaa.fastlynew.hosting-ip.com:80?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#@MARAMBASHI 🇮🇹
 vless://cfe44c6d-f198-4ac8-a3a0-b61bc68a62c9@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=chrome&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs?ed=2048&sni=slack.com&sid=934e93fea74aeefe#Telegram: @Daily_Configs 🇮🇹
+vless://d002299a-418f-4d76-a04a-50837b44227e@172.66.40.99:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#qvdyfs4z
 vless://d016da91-83a9-42dc-a246-b27c192e40af@141.227.140.217:23991?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇮🇹@FreakConfig
-vless://dc771cf0-ecb8-4284-bf0e-0969aeacc3c0@104.16.11.133:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?path=/?ed=2560&proxyip=ts.hpc.tw#/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=chrome&type=ws&sni=edgb.aimercc.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d655f9da-9868-443d-ae51-d222a84b1316@91.107.179.149:443?type=grpc&encryption=none&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&authority=&security=reality&pbk=D740dncPgMjq8-2aIVGQTDxWn-1h-fCKlzAfPZ9EUiw&fp=chrome&sni=preview.redd.it&sid=c8a77028&spx=/#Reality27 | @SpringHQ
+vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#@MARAMBASHI 🇮🇹
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=gaosir.unfeeling.sbs&type=ws&allowInsecure=0&sni=gaosir.unfeeling.sbs#@MARAMBASHI 🇮🇹
-vless://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=/admin#?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=tls&alpn=h2,http/1.1&encryption=none&host=shalana.onhit.xyz&fp=chrome&type=ws&sni=shalana.onhit.xyz#@HiByeVPNNBot🔥⚡❤️‍🔥
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&amp;path=%2F&amp;host=&amp;security=none#s565-229065
+vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzA5NiB8IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOiI0NDMiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDkuMTI2Ljg0LjE4OSIsInBhdGgiOiIvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://386b42f4-2e24-48ed-b3b9-9dc92b5a7568@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=t.me/entryNET&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
+vless://386b42f4-2e24-48ed-b3b9-9dc92b5a7568@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
+vless://80fff33c-9cda-488e-aba4-3b2657969847@xtls32backend.vigilante.ir:6842?encryption=none&security=reality&sni=slack.com&fp=firefox&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&sid=934e93fea74aeefe&type=grpc&authority=&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&mode=gun#[🇮🇹]t.me/ConfigsHub
+vless://cfe44c6d-f198-4ac8-a3a0-b61bc68a62c9@xtls32backend.vigilante.ir:6842?mode=gun&security=reality&encryption=none&pbk=VhtP5s6yTV3jLOC0i-W_mXT8-H-sJJyo9BmGo6F6dW4&fp=firefox&type=grpc&serviceName=DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&sni=slack.com&sid=934e93fea74aeefe#[🇮🇹]t.me/ConfigsHub
+vless://df0af1c8-b758-9acd-6e70-aa85b66cbe62@Itw.sefrtasad.com:3159?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=translation.steampowered.com&fp=firefox&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&sid=21432a79954b#[🇮🇹]t.me/ConfigsHub
+vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&amp;sid=91fbf6164cb2bc53&amp;type=grpc&amp;serviceName=dcfc23920fc8a07991dda30d#Switzerland%2083%20dailyv2ry
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#4
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#United%20State%20Hivelocity
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
+hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#@ShikaVPN
