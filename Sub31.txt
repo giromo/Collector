@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@104.145.210.155:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇺🇸@vpnserverrrکانال تلگرامی
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@104.145.210.155:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&spx=/sinavm#🇺🇸@SiNAVM کانال تلگرامی
+vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443?path=/mucowsws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus |🇬🇧
+vless://a0dee25f-56f6-4709-972c-8cfdf938c66d@68.183.47.127:443/?type=ws&encryption=none&flow=&path=/mucowsws&security=tls&sni=ozon.ru&allowInsecure=1#🔶59@oneclickvpnkeys
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇨🇦 | @External_Net
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN ➪@FILTERK0SH
@@ -498,7 +502,3 @@ vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#All_30--@V2rayAlpha
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--5
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=&encryption=none&type=grpc#🇩🇪@FreakConfig
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443/?type=grpc&encryption=none&flow=#📡40@oneclickvpnkeys
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--15
