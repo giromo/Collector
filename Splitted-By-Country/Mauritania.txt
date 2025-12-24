@@ -1,7 +1,6 @@
-vless://2ec01a64-4c04-4b66-ad4d-860d6916b76b@lavenderblush.qzz.io:443?path=/43.218.77.16:443&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=lavenderblush.qzz.io#Channel : @Mrsoulb 🏴🏳
-vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@95.179.242.172:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://3593236e-9a5b-4f3b-aa7e-a40b3238e15b@91.107.243.172:15700?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=/&security=&encryption=none&host=soft98.ir&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://a650d3e6-550b-4ae8-b7bc-f7223abba5e4@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#Channel : @Mrsoulb 🏴🏳
-vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@mrvpn1403.rightel001.chaghooosazi.shop:443?path=%2F9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&security=tls&encryption=none&alpn=http%2F1.1&host=rightel1.chaghooosazi.shop&fp=chrome&type=ws&sni=rightel1.chaghooosazi.shop#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40mrvpn1403%20%5B4%5D
+vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
