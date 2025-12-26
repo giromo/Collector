@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@lomia1lopmaliz1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
-vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://0c6fc388-2d1b-450b-a232-9df7dd56cd6b@91.98.46.169:10100?security=&encryption=none&headerType=&type=tcp#[⚡] ➠ @V2ray_official
 vless://0c607c80-e9e0-482b-8ff8-571edbb9b712@TUNNEL2.TORPROSPEED.IR:211?security=none&encryption=none&headerType=http&type=tcp#@Daily_Configs
 vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?encryption=none&security=none&type=tcp&headerType=none#@CaV2ray ⚡️
@@ -502,3 +500,5 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&hea
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#All_10--@V2rayAlpha
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#WiFi-@V2rayAlpha--2
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&fp=chrome&type=tcp&sni=api.avito.ru#All_12--@V2rayAlpha
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&fp=chrome&type=tcp&sni=api.avito.ru#@Broz_time+>+کانفیگ+رایگان
