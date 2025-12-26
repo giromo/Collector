@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=pq-2.access.name.ng&type=ws&sni=pq-2.access.name.ng#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-20.access.name.ng&fp=chrome&type=ws&sni=lease-20.access.name.ng#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&type=ws&sni=lease-14.access.name.ng#@v2ray_configs_pools👈⚡❤️‍🔥
@@ -501,4 +502,3 @@ vless://ba8112db-293a-4e8c-bd10-a93c502a92ee@172.66.40.99:8080?path=/telegram-CO
 vless://ba2d81c4-7df2-e2b2-1d8c-fc28406641aa@213.159.76.99:443?security=reality&encryption=none&pbk=BsewEHy1ico5q_NPVe-kAn-cCNBtrGjMLtlU9rI6qzg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.who.int&sid=a6087510424627c3#@Daily_Configs
 vless://ba03a8fc-ac5a-4f80-b480-0effdeb6af7c@zeusolympus.fonixapp.org:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#@IRAN_V2RAY1--All
 vless://ba03a8fc-ac5a-4f80-b480-0effdeb6af7c@152.53.133.115:20558?security=reality&encryption=none&pbk=VZ4lK5AZMihPtshVNW2nJtWxD4JO80hhCK2EwY4KqRs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=03e60665#All-@IRAN_V2RAY1
-vless://b9fa2f61-f23b-4c36-8de0-0e01564e0232@beast-masters.fonixapp.org:2083?security=reality&encryption=none&pbk=Gvzti1T8UgummE332M75TH0q0UXqUFEiddX_QeZwlQo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#All--@V2rayAlpha-10
