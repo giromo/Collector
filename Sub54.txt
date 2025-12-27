@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://f2045695-8c88-44f3-a26e-f41ea43f7255@m33a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40V2RAY_VMESS_free
-vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40V2RAY_VMESS_free
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com#%40V2RAY_VMESS_free
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2RAY_VMESS_free
 vless://7d9223e9-9ab1-4a8c-b8ec-3bc4fb937cd8@m90a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40V2RAY_VMESS_free
 vless://7d3bb6bd-8122-4cce-ba4a-2f8df0bcd816@m95a.vip784.com:33801?security=none&amp;encryption=none&amp;host=varzesh3.ir&amp;headerType=http&amp;type=tcp#%40V2RAY_VMESS_free
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=cloudflare.com&amp;type=ws#%40V2RAY_VMESS_free
@@ -502,3 +498,7 @@ vless://700fd68f-7c32-479e-88a3-7bac4140f98d@185.113.10.193:21246?security=&amp;
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&amp;security=reality&amp;sni=www.ok.ru&amp;fp=chrome&amp;pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&amp;sid=fdc8125ea6f61323&amp;type=tcp&amp;headerType=none#telegram%20%F0%9F%8E%AF%20dailyv2ry
 vless://58e0673e-44c9-48f0-82e5-885585074d47@hlb.tunnelguard.ru:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&amp;fp=chrome&amp;type=xhttp&amp;sni=hlb.tunnelguard.ru#telegram%20%E2%9A%A1%EF%B8%8F%20dailyv2ry
 vless://700fd68f-7c32-479e-88a3-7bac4140f98d@185.113.10.193:21246?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=divergent.com#telegram%20%F0%9F%9A%80%20dailyv2ry
+vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&amp;security=none&amp;fp=chrome&amp;type=ws&amp;host=index.harmony610.workers.dev&amp;path=%2Fvgn80ag4q5o0oxj5#telegram%20%F0%9F%8C%9F%20dailyv2ry
+vless://c99262ae-ee77-4dac-8437-2d7f68fd3938@m39a.vip784.com:33801?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=varzesh3.ir#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@sue.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=hkkfg.app-baranch.info&amp;type=ws&amp;alpn=&amp;host=hkkfg.app-baranch.info&amp;path=/hormoz#telegram%20%E2%98%82%EF%B8%8F%20dailyv2ry
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.250.96.29:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram%20%F0%9F%8C%BA%20dailyv2ry
