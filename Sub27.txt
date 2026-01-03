@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#All-@V2rayAlpha--12
 vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=seashell.qzz.io#Channel : @vpnserverrr
 vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=seashell.qzz.io#Channel : @Mrsoulb 🏴🏳
 vless://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&security=tls&encryption=none&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#WiFi-@V2rayAlpha--23
@@ -502,3 +501,4 @@ vless://01f4cee2-a293-4a31-9a3f-c5dd4038bcea@lavenderblush.qzz.io:443?path=/156.
 vless://01f4cee2-a293-4a31-9a3f-c5dd4038bcea@lavenderblush.qzz.io:443?path=/156.244.1.250:8443&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=lavenderblush.qzz.io#@Daily_Configs
 vless://01f4cee2-a293-4a31-9a3f-c5dd4038bcea@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=/156.244.1.250:8443#Tel:@Daily_Configs 🫆
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?security=none&encryption=none&type=tcp&note=@freeOnlineVPN#🇫🇷 - FR - @freeOnlineVPN
