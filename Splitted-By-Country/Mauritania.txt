@@ -1,4 +1,4 @@
-vless://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#Hamrah%20aval
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://c4515430-9faf-499f-a3d9-d6fcaf617123@198.105.123.197:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
+ss://4ad217a5-5a96-4095-a96c-837ffc73f97c@vpn.zorixvpn.site:8443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#Hamrah%20aval
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#Channel : @Mrsoulb 🏴🏳
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vmess://eyJhZGQiOiJ0aWdlci5qYWhhbmJsdS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGIxYjM1YTQtNzY5Yi00YmQwLWE4NWItYjdkMmNiOWE5NjZiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL1JhaXYybW1yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
