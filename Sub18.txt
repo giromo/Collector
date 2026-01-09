@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFhQDQ1Ljg3LjE3NS4xODE6ODA4MA==#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80?allowInsecure=0&amp;sni=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;type=ws&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;path=/
-ss://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9LT7wn4e68J+HuF9VU1/nvo7lm70iLCJhZGQiOiIxMjAuMjMyLjE1My4yNyIsInBvcnQiOiI1ODgzMSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://cd81d75a-f80e-4641-b5b4-97aad3a4c446@104.21.94.168:8080?security=none&amp;type=ws&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.www.zula.ir.svgspeedtest.net&amp;path=%2F@XvProxy----
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.244.21.125:443#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 ss://2a1ccd5b-6683-4504-9c8b-7d3c3ab243c4@151.101.3.8:80?security=none&amp;type=ws&amp;host=tehran5.ir&amp;path=%2FTelegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS-Telegram-ConfigMS%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -502,3 +496,9 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&amp;securi
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2rayNG3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2rayNG3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2rayNG3
+ss://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&amp;encryption=none&amp;security=none#@V2rayNG3
+ss://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&amp;encryption=none&amp;path=%2F&amp;host=&amp;security=none#@V2rayNG3
+ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&amp;encryption=none&amp;pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=store.steampowered.com#%40V2rayNG3
+ss://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=f79448a30d#%40V2rayNG3
+ss://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&amp;encryption=none&amp;pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.amazon.com&amp;sid=53ba1e37#%40V2rayNG3
+ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=crazy-identity.oneeat.co&amp;type=ws#%40V2rayNG3
