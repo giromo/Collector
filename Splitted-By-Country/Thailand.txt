@@ -1,16 +1,9 @@
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?path=%2F%3Fed&security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be#%DA%A9%D8%B1%D9%87
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%F0%9F%87%B9%F0%9F%87%ADTH-119.59.98.58-0393
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#%F0%9F%87%B9%F0%9F%87%ADTH-103.253.74.94-0376
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4R0JOeGhVZEFQRTJUYlBmb2FVUDZr@188.166.214.51:13394#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
+vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMS0wOSAwMDo1MCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ285enBtSk45UFhQdVBDVUZWdFVL@146.190.105.227:2596#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1V3Tw==@nl2.ssocks.wiki:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@154.205.147.24:8080#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'noGRPCHeader': True, 'xmux': {'maxConnections': '8'}}&insecure=0&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#⚡️ 𝐈𝐑𝐂𝐏 | @Ln2Ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%F0%9F%87%B9%F0%9F%87%ADTH-119.59.98.58-0348
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#%F0%9F%87%B9%F0%9F%87%ADTH-103.253.74.94-0392
-ss://eyJhZGQiOiIxNTEuMTAxLjIuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnZXJNQW55SVN2UC5pUiIsImlkIjoiYTg4OGI4OWEtMDhhYy00MGU2LThhZDctY2ZjZTk1NjlmOTY3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JhY2V2cG4iLCJwb3J0IjoiODAiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04@103.253.74.94:31348#TH-103.253.74.94-0354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH-119.59.98.58-0396
-vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@188.114.96.2:443?&security=tls&fp=chrome&sni=private.digikala.lat&type=ws&headerType=none&host=private.digikala.lat&path=%2F#_%E8%8D%B7%E5%85%B0%2014
-vless://cbadfd29-8352-46e5-8baa-0010b43d1059@DEADSEECtelegram.blackandwhiteshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-vless://99bfccdb-c4ac-4add-e42c-cc7172970dab@91.107.129.24:2052?path=%2F%40hashmakvpn+%F0%9F%87%A9%F0%9F%87%AA&security=none&encryption=none&type=ws#[79533]
