@@ -1,6 +1,5 @@
-trojan://telegram-id-directvpn@35.180.16.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@63.179.77.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@3.67.156.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@15.236.169.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+vless://@natvpn1@chatgpt.com:2087?type=ws&encryption=none&path=/Ws&host=chfree.mchmodiso.shop&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=chfree.mchmodiso.shop#@NATVPN
+vless://@natvpn_bot@8.6.112.0:2087?path=/Ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=chfree.mchmodiso.shop&fp=chrome&type=ws&allowInsecure=1&sni=chfree.mchmodiso.shop#@NATVPN/ویتوری رایگان
+vless://@natvpn_bot@chatgpt.com:2087?type=ws&encryption=none&path=/Ws&host=chfree.mchmodiso.shop&security=tls&fp=chrome&alpn=h3,h2,http/1.1&sni=chfree.mchmodiso.shop#@NATVPN
 vless://e9d6e362-120d-4328-8cbf-c611bdaca27b@46.224.198.130:54663?type=tcp&encryption=none&path=/@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20@napsternetv20&host=www.speedtest.net&headerType=http&security=none#A --@napsternetv20 کانال تلگرام   W
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=3k.pureboy.eu.org&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=3k.pureboy.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40renetvpn
