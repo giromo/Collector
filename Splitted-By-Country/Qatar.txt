@@ -1,1 +1,2 @@
-trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A519
+vless://turboo-server@dns.turboo-server.space:443?path=/turboo-server&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=serverpro.turbooo-server.com&fp=chrome&type=ws&allowInsecure=0&sni=serverpro.turbooo-server.com#VpnQavi
+vless://turboo-server@dns1.turboo-server.space:8880?path=/turboo&security=none&encryption=none&host=turboo.turbooo-server.com&type=ws#VpnQavi
