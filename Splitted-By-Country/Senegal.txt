@@ -1,4 +1,2 @@
-vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;host=delta090.qzz.io&amp;allowinsecure=0&amp;type=ws&amp;sni=delta090.qzz.io#%25E2%259C%2585
-vless://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
-trojan://telegram-id-privatevpns@3.65.79.146:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@13.39.200.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@51.44.195.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@35.157.181.130:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
