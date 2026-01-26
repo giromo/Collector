@@ -1,2 +1,4 @@
-vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
-hysteria2://e1cc26b3-df0b-477b-afb0-53659a25e978@5.83.150.108:59751/?sni=imafake.locker&fp=chrome#%E2%9D%8CD%C3%BCsseldorf-GetAFreeNode
+hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@5.83.150.108:50023/?sni=imafake.locker&fp=chrome#%E2%9D%8CD%C3%BCsseldorf-GetAFreeNode
+hysteria2://3b475934-cb2a-4d96-b260-5e50cca5d430@5.83.150.108:50023/?sni=imafake.locker&fp=chrome#%E2%9D%8CD%C3%BCsseldorf-GetAFreeNode
+vless://bf8109aa-80cd-4382-bbba-878883fb817f@atm.tarik-dark.com:443?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#
+vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
