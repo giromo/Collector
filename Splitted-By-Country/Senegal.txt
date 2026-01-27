@@ -1,1 +1,5 @@
-vless://nasnet@104.17.134.117:2053?encryption=none&security=tls&sni=nasnet-571299667.rahavard365.co&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=nasnet-571299667.rahavard365.co&path=%2FNASNET%2Fcdn%3Fed%3D2560#NASNET%20%7C%20OV1-VlHuTl1```
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
+trojan://telegram-id-privatevpns@13.39.197.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.237.206.122:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
+trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@185.18.250.252:443?security=tls&sni=gzjx.dpdns.org&fp=chrome&type=ws&path=/51.91.253.83=8443#@HedwigV2ray
