@@ -1,6 +1,5 @@
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?allowInsecure=0&encryption=none&host=delta090.qzz.io&insecure=0&path=%2F138.2.48.109%3A26412&security=tls&sni=delta090.qzz.io&type=ws#%40Filter_breaker
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@167.234.251.78:443?insecure=1&sni=www.apple.com#BR2%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
-hysteria2://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@150.230.89.61:443?insecure=1&sni=www.apple.com#BR3%EF%BD%9C%E6%9C%BA%E6%88%BF%EF%BD%9C%E4%BD%8E%E9%A3%8E%E9%99%A9
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#BR-38.54.57.90-0352
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#BR-154.90.60.117-4794
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#BR-157.185.173.60-1405
@@ -8,9 +7,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18426#B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#BR-154.90.60.117-0782
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#BR-5.188.4.103-0172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#BR-154.90.60.117-4794%202
-hy2://4dd859b3-c9f6-477e-95f5-283abb3129e5@los.zuomomo.top:16667/?sni=los.zuomomo.top#%40Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjNmZGYxYTljZTExNjUy@154.90.60.117:11201#%F0%9F%87%A7%F0%9F%87%B7BR-154.90.60.117-4794
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0352
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#@VIProxystrojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@VIProxys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@YamYamProxy 🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@ghalagyann 🇧🇷
 vless://0e66ad91-9ec5-4264-bc27-fb1d0baa45b8@108.162.196.70:443/?type=ws&encryption=none&path=/AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---&host=abriabri.abriabri.ir&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=abriabri.abriabri.ir#@AbriVPN-2🩵
@@ -30,6 +29,8 @@ vless://88755a0e-2561-4fb3-aa23-d01028d97b87@104.18.4.130:443/?type=ws&encryptio
 vless://8a042ea3-b7dd-4798-ab57-38a5162b3b2e@190.93.244.3:8080/?type=httpupgrade&encryption=none&path=/AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN&host=abrinew.abriabri.ir&security=none#@AbriVPN-7🩵
 vless://9dea7a75-a46c-4be8-8849-33d3daa66229@104.17.74.206:8080?type=httpupgrade&host=abrinew.abriabri.ir&path=/AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN&security=none#@AbriVPN-💖
 vless://9f518c0d-00c3-4644-b882-a919b33b77e7@103.31.4.178:8080/?type=httpupgrade&encryption=none&path=/AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN-AbriVPN&host=abrinew.abriabri.ir&security=none#@AbriVPN-6🩵
+vless://9fd8a119-f8e5-4eb2-abc7-11d5557b2b7b@pl1b.ir:8443?encryption=none&type=tcp&headerType=http&host=ripe.net&path=/shop&security=none#تلگرام: AbriVPNbot@
+vless://9fd8a119-f8e5-4eb2-abc7-11d5557b2b7b@pl1b.ir:8443?encryption=none&type=tcp&headerType=http&host=ripe.net&path=/shop&security=none#تلگرام: AbriVPNbot@  @AbriVPNbot
 vless://b7da7c0f-39cf-405c-a47f-9003f62ae276@please-am1.mimkiscx.ir:2095?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=beh1.salonemojallal.ir.&type=httpupgrade#@ghalagyann 🇧🇷
 vless://b7da7c0f-39cf-405c-a47f-9003f62ae276@please-am1.mimkiscx.ir:2095?path=/?ed=#TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=2048&security=none&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#@YamYamProxy 🇧🇷
 vless://b996c508-7bfb-4332-8555-0bfb6ad2c6aa@142.54.178.212:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.DYCBs8-gxBjc8Ebjfs13zEQE35-Mh2inZvKBaZfztE8&insecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=secret.domainhamrah80.ir&fp=chrome&type=ws&allowInsecure=0&sni=secret.domainhamrah80.ir#@ghalagyann 🇧🇷
