@@ -1,19 +1,13 @@
-trojan://telegram-id-privatevpns@63.177.190.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram=@SOSkeyNET
-trojan://telegram-id-privatevpns@51.44.32.14:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram=@SOSkeyNET
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&type=ws#⚡Telegram=@SOSkeyNET
-trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.creationlong.org&insecure=0&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#⚡Telegram=@SOSkeyNET
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#⚡Telegram = @SOSkeyNET
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#⚡Telegram = @SOSkeyNET
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@63.177.190.223:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-vless://022af852-49c7-4b5e-a13b-6877bcfe30a3@usa26.clearorbitllc.com:443?security=reality&encryption=none&pbk=uG51OJ4QHrSFthqOCL3Ctqxy4plPkeUyRGDmF4V7dFo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=usa26.clearorbitllc.com&sid=c6de8980#⚡Telegram = @SOSkeyNET
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=pages.dev#⚡Telegram = @SOSkeyNET
-vless://3f92efc3-9efb-47d1-a9d4-07ae5eef2b75@s2.cdnfile.sbs:1080?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram = @SOSkeyNET
-vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&host=pandura.lat&fp=chrome&type=ws&sni=pandura.lat#⚡Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@63.177.190.223:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram=@SOSkeyNET
+trojan://telegram-id-directvpn@3.67.73.0:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram=@SOSkeyNET
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=1&sni=web.max.ru#⚡Telegram=@SOSkeyNET
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?path=/?ed=2048&security=none&encryption=none&host=long-forest-ac72.salari1382m.workers.dev&type=ws#⚡Telegram = @SOSkeyNET
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
 vless://acbca706-8110-4107-949a-feb2fa84a04f@63.141.128.13:2083?path=/&security=tls&encryption=none&insecure=0&host=vless.nimatiem.de&type=ws&allowInsecure=0&sni=vless.nimatiem.de#⚡Telegram = @SOSkeyNET
-vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=/&security=&encryption=none&type=ws#⚡Telegram = @SOSkeyNET
-vless://e563e69c-484d-4c43-84f6-19de620ad74e@kj.v-sub.site:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#⚡Telegram = @SOSkeyNET
-vless://nasnet@57.129.64.102:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#⚡Telegram = @SOSkeyNET
+vless://e563e69c-484d-4c43-84f6-19de620ad74e@ip.hamrahto.com:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#⚡Telegram = @SOSkeyNET
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2NXNrZzJsOCIsCiAgImFkZCI6ICI3Ny40Mi43Ny42NiIsCiAgInBvcnQiOiA0MDEwMCwKICAiaWQiOiAiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
-trojan://telegram-id-directvpn@3.67.73.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET👈 آموزش اتصال 👉⚡️Telegram = @SOSkeyNET عضو شو
+vmess://eyJhZGQiOiAiMTA0LjE4LjMyLjQ3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInZtZXNzLmxpb25hbmRzdW5mbGFnLmNvbSIsICJpZCI6ICIyNTAyZGU0OS05ZjUxLTQwYTQtOGIxYS1hNDFhYTllOGQxOWQiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvMy9kZXZpY2UvIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ2bWVzcy5saW9uYW5kc3VuZmxhZy5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAi4pqh77iPVGVsZWdyYW0gPSBAU09Ta2V5TkVUIn0=
+vless://437e28a3-22b5-1684-c608-36461660c988@104.18.32.47:443?security=tls&amp%3Btype=xhttp&amp%3Bpath=/leech/upload&amp%3Bhost=kings.watch110.de5.net&amp%3Bmode=stream-up&amp%3Bextra=%7B%27headers%27%3A+%7B%7D%2C+%27noGRPCHeader%27%3A+False%2C+%27xmux%27%3A+%7B%7D%7D&amp%3Bsni=kings.watch110.de5.net&amp%3Bfp=firefox&amp%3BallowInsecure=1#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
+trojan://humanity@172.64.152.23:443?allowInsecure=0&host=www.calmlunch.com&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#⚡Telegram = @SOSkeyNET
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
