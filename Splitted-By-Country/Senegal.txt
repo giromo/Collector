@@ -1,5 +1,2 @@
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443?allowInsecure=0&sni=hkip5.686911.xyz#HK-103.102.6.96-0386
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A56%2081.9KB%2Fs
-ss://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&amp;encryption=none&amp;pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&amp;host=divarcdn.com&amp;headerType=http&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=ec01ceda#1
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=web.max.ru#@v2rays_ha 6639
-vless://f09dd92e-d441-4139-b1e4-a291463d9935@89.167.25.44:205?security=reality&encryption=none&pbk=huGtAltZpf011TYjX6b6-FNPxun34WNIp2paaOY1TG0&headerType=none&fp=chrome&type=tcp&sni=www.tgju.org&sid=76645510056dbfd1#@v2rays_ha 6670
+ss://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
+vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
