@@ -1,2 +1,1 @@
-trojan://humanity@104.18.32.37:443/?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2rays_ha 7538
-trojan://humanity@104.18.32.47:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7466
+vless://454b5a81-0059-4c34-91aa-6979133c44bb@cf.mahdi383ir.website:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2ub4exbwbpq51iohzjy4qm0ptab2h9ir3rdwg.mahdi383ir.website&path=%2Fmahdi_383ir&security=tls&sni=kh2p2brr97af0whs7sbbqqqkq50plzcuajrfz41.mahdi383ir.website&type=httpupgrade#Vless%20HttpUpgrade%20Tls-7cb5cd4j
