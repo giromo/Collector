@@ -1,23 +1,16 @@
-vmess://eyJhZGQiOiJ0dXJrMS5uZXQubmV0IiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20uIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGVcdTAwM2QyNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4e58J+Ht1RNIChAQVpBUkJBWUpBQjEpIHZtZXNzLXdzIiwic2N5IjoiYXV0byIsInNuaSI6IlRNX0FaQVJCQVlKQUIxLm5ldy45OS53b3JrZXJzLmRldiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7dAdjJfbW9kX3Nob3AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://7e2b2894-3b5c-4b65-acc5-e1784f4047f2@89.169.162.214:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#🇹🇷[openproxylist.com]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Ultra%20US%20II
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20Ultra%20US%20III
-ss://92d375ed-ffbf-4d71-be22-3b67d12fba75@151.101.194.219:80?security=none&amp;type=ws&amp;host=Lockey-VPN.com.tr&amp;path=/
-ss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=dev.twistsparrow.xyz&amp;path=/&amp;sni=dev.twistsparrow.xyz&amp;fp=chrome#Allnet telegram:@ultrasurf_12
-trojan://telegram-id-privatevpns@15.236.88.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@52.58.206.224:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#TR-154.205.148.202-1564
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#TR-154.205.148.202-1546
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#TR-154.205.148.202-1069
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#TR-154.205.148.202-1076
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#TR-154.205.148.202-1075
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%9F%EF%BC%9A02-08
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443?allowInsecure=0&sni=www.nintendogames.net#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Btr-tl-ra%5D%20%5B260208-132634.565%5D
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#%5B%F0%9F%87%B3%F0%9F%87%B4%5D%20%5Btr-tl-ra%5D%20%5B260208-132643.520%5D
+vmess://eyJhZGQiOiI0NS4xNDEuMTQ4LjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiJlNzIwZDJiNi04MGRkLTQ2NjQtYjY0ZS02Y2M3ODRiY2UzMjkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjUwNTkiLCJwcyI6IvCfh7nwn4e3QEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#Channel id: @v2ray_configs_pools 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#🇹🇷07@@shadowsockskeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSUxQVDhuOHA5WVZWbDBvSnp5dWM3@62.133.63.21:65262#🇹🇷@FreakConfig
-trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
-trojan://humanity@188.114.98.0:443/?sni=www.creationlong.org&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7509
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&allowInsecure=0&encryption=none&type=tcp&host=uptvs.com&path=/&headerType=http&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp&note=@freeOnlineVPN#🇹🇷 - TR - @freeOnlineVPN
@@ -27,6 +20,6 @@ vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?encrypti
 vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&allowInsecure=1&encryption=none&type=tcp&headerType=none&fp=chrome&sni=client.imesaagetext.ir&alpn=h2,http/1.1#🇹🇷[Telegram:NetifyVPN]
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?path=/--@V2rayAlpha--V2rayAlpha--V2rayAlpha--V2rayAlpha&security=none&encryption=none&host=mitivpn.global.ssl.fastly.net&type=ws#🇹🇷All☆AZARBAYJAB1
 vless://f353c66e-8537-4d2d-9682-e8979ad88af4@freeiran.lookanet.app:8880?path=/V2RayyNGvpn?ed=512&security=none&encryption=none&host=speak-teammates.rxpgain.top&type=httpupgrade#🇹🇷ایرانسل
+trojan://telegram-id-privatevpns@13.37.8.71:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=%2Fvpn_proxy_custom&security=none&encryption=none&type=ws#%40vpn_proxy_custom100Gig irancellLocation: Turkey 🇹🇷نیمه شب بکام
-vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#%3E%3E%40ultrasurf_12%3A%3AFR
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUiIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOiIzOTY1MSIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
