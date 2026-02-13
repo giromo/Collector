@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#IR-@V2rayAlpha--10
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#IR+@V2rayAlpha-10
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#@meliproxyy
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#@Spartan_YT
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&host=TELEGRAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#MCI-@V2rayAlpha--20
@@ -502,3 +500,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#Channel id: @ShadowProxy66 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#MCI-@V2rayAlpha--1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#IR--@V2rayAlpha-10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#@meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYmY5MTVlZGE1NGJkZmFj@141.95.107.129:11201#🕊 Tel : @ProxyVPN11 ⟵
