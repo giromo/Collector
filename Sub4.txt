@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#@milivpnn سرور های جدید و متصل رو از کانال بردارید
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&fp=chrome&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#🐦‍🔥-@SPEEDS_VPN
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&fp=chrome&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#@FarazV2ray
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&fp=chrome&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#@Black_Star_Vpn ²🇺🇸
@@ -502,3 +500,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#کانفیگ رایگان = t.me/arisping
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1#🇨🇦Canada -> 🇺🇸United States ⚡@DeamNet_Proxy (6)
 vless://e3f3c7dd-4707-4d70-a0f5-5e368010fd8a@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/59.22.45.226=50001#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night#hope of freedom - @anotherme_night
+vless://e3cb508f-4cd7-4f1b-8fd1-6d71cdb11429@shookhidasti.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=shookhidasti.global.ssl.fastly.net#horn_proxy 6
+vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@62.84.98.194:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=808e2d36726ee97e#Telegram:@config_v2rayy 🔥

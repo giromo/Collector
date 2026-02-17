@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@vpnbaz 🍇
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2raybaaz 🍇
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#azadiiivpn 🎀
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?path=/?ed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@Golestan_VPN 🆓 IRAN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?encryption=none&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&security=tls&sni=sni.111000.indevs.in#@FREE_VPN02 🍇
@@ -502,3 +500,5 @@ vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&
 vless://46a4f0cb-aeec-4566-a4a7-23e00d1796ab@Ip-tamiz.barcelonaav.ir:5183?security=reality&type=tcp&headerType=&path=&host=&sni=wwww.refersion.com&fp=chrome&pbk=hVFQpNhSU6uRXpnAIES-MIuye5PsS-jmiWMlgwTC4yA&sid=93ddf2d2c5d8c56b#Reality@iraniV2ray_config
 vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.primenet3.shop#Telegram:@meowvip1 *199*
 vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.primenet3.shop#Telegram:@meowvip1 *193*
+vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.primenet3.shop#@meowvip1 مخابرات
+vless://4603d1b6-160a-47f2-9472-9db538b3b96d@ir-joudian.aliacces.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ir-joudian.aliacces.ir#@NETMelliAnti

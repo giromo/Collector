@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://e3cb508f-4cd7-4f1b-8fd1-6d71cdb11429@shookhidasti.global.ssl.fastly.net:443?path=/site&security=tls&alpn=http/1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=shookhidasti.global.ssl.fastly.net#horn_proxy 6
-vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@62.84.98.194:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=808e2d36726ee97e#Telegram:@config_v2rayy 🔥
 vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@62.84.98.194:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=808e2d36726ee97e#Telegram:@Ki_Net 🔥
 vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#channel : @freedomofinfor
 vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va16.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🇬🇧@FreakConfig
@@ -502,3 +500,5 @@ vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?mode=auto&path=
 vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#@meliproxyy
 vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#@filembad
 vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#@appsooner کانال تلگرام 🕊️
+vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#@ConfigV2RayNG کانفینگ بیشتر در چنل 👈
+vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052/?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=none&encryption=none&host=nightping2.nightreseller.ir&type=xhttp&sni=api-at.cdnight.ir#@v2rays_ha 9307
