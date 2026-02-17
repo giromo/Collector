@@ -1,9 +1,4 @@
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSlAy772c5py65oi/772c5L2O6aOO6ZmpIiwgImFkZCI6ICJ2Ni5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgwNiIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQifQ==
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
-vless://570d1a03-6acf-40ca-819e-1049906235d9@38.207.130.145:48816?allowInsecure=1&sni=www.python.org&flow=xtls-rprx-vision-udp443&fp=random&security=tls#JP_speednode_0004
-vmess://ewogICAgImFkZCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00Ny4yNDUuNDIuOTItNDY3NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIKfQ==
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0262
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgVk1FU1Mt576O5Zu9PuaXpeacrC1ORuino+mUgeaXpeacrOWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVlvdVR1YmUtdDEuNjIwNzIwLnh5ejo4NDQzIiwiYWRkIjoidDEuNjIwNzIwLnh5eiIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP-149.22.87.204-0245
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#JP-172.105.199.111-0241
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-0258
@@ -27,6 +22,7 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.144.208-0846
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.236.32-2519
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.236.32-0042
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6/wn4e1XSBbdm0tdGwtd3NdIFsyNjAyMTctMDE1MDQyLjE2Ml0iLCJhZGQiOiJ0MS42MjA3MjAueHl6IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoidDEuNjIwNzIwLnh5eiIsInRscyI6InRscyJ9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP-149.22.87.204-0245%202
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#JP-172.105.199.111-0241%202
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.81.84-0255%202
@@ -53,8 +49,17 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#JP-3.112.130.53-0286%20%7C%200.351MB
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_2%202
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.197.83:28245?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&host=sni.111000.indevs.in#JP🇯🇵
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.111.31.182:59541/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram @WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#JP🇯🇵
+vmess://eyJhZGQiOiIxNDcuMTM1LjIxMS42MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZGMyNzg4MC1hYzJiLTU5MWYtYjY3Ny1mY2IwMmZjYjQyOGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IklSK0BWMnJheUFscGhhLTMyIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=vmess
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSlAy772c5py65oi/772c5L2O6aOO6ZmpIiwgImFkZCI6ICJ2Ni5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgwNiIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQifQ==
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0245
+vmess://ewogICAgImFkZCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00Ny4yNDUuNDIuOTItNDY3NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIKfQ==
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0259
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0261
+ss://eyJhZGQiOiIyMDdjMTNmYi04M2I2LTIwMjEtNzY2Yi02Yzk1ZTU2YTRhMzMuYnVndGlrLmx0ZCIsInYiOjIsInBzIjoi8J+HufCfh7wgVFcg5Y+w5rm+IDUiLCJwb3J0IjoiODAiLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
+ss://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjIwODYiLCJpZCI6IjdkOTNlOTkyLTQ4Y2YtNDJkNC04NGY4LTc1NzY4ZTgxNWE0YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImFkbWluLmFyem9uaG9zdC5pciIsInRscyI6IiIsInBhdGgiOiIvIn0=
+ss://eyJhZGQiOiIxMDQuMjEuNy4xNjIiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV80IiwicG9ydCI6IjIwODciLCJpZCI6IjUyMGE1ZjQ1LWQzNTQtNDJmNC1hNjU4LTE4ZGJjMzc1NDY0NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhY2tlbmQuYXBwLWJyb3dzZXIub3JnIiwidGxzIjoidGxzIiwicGF0aCI6Ii9md3MifQ==
+ss://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#🇯🇵@nekopingbot_821
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:254.96ms 14 dailyv2ry
@@ -77,5 +82,3 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.194:45703?security=none
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.f2zone.ir:45703?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&host=skyroom.online&path=/&headerType=http#🇯🇵[Telegram:NetifyVPN]
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇯🇵 @Hddify ~ Telegram
 vless://fa-397456379-1771064637182567@66.90.99.38:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇯🇵 @V2RAY_VMESS_free
-vmess://eyJhZGQiOiI5NS4yMTEuNTguNTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijk3NTZjN2QwLTRhODYtNDIxMC1mYWQxLTEzZDVjYmQ4NmIwMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nZGdIRzU1dGh0IiwicG9ydCI6IjE2NDE4IiwicHMiOiLwn4ez8J+HsSBAdjJyYXlOR19WUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=@v2rayNG_VPN
-vmess://eyJhZGQiOiJ4bi0tNWJ1dzg1ZS54bi0tZ2hxdzZqa3cwYS5saXZlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjljYTRlMWZjLWQ1NjQtNDEzYy1mYTE1LWYxODIxMDk5OTcwYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0MyIsInBzIjoiQFZQTkF6YWRpT2ZmaWNpYWxpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9[کانادا]@v2ray_new
