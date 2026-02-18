@@ -1,2 +1,1 @@
-trojan://humanity@188.114.96.3:443/?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=/assignment#@v2rays_ha 9627
-vless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#@
+vless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086/?security=none&allowInsecure=0&encryption=none&type=httpupgrade#@v2rays_ha 9615
