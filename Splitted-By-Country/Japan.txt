@@ -59,24 +59,41 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP-149.22.87.241-1053
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-1055
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_2%202
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.85.33:193?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%204.7MB%2Fs
+trojan://BxceQaOe@43.206.226.70:2595?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzMiLCJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwicG9ydCI6IjQ0MyIsImlkIjoiYWxpaWxhcHJvLXYycmF5bmctY29uZmlnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImdpdGh1Yi5jb20iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImdpdGh1Yi5jb20iLCJ0ZXN0X25hbWUiOiIzMyJ9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0218
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.70.134:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.70.134-0278
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.85.33:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0865
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.231.103:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.231.103-0866
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0277
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.38.213:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0870
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0281
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0279
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-0282
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0283
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-0288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5JP-3.112.130.53-4875
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.247-0330
 vmess://ewogICAgImFkZCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00Ny4yNDUuNDIuOTItMDI1NCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIKfQ==
-vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A254.21ms%2032%20dailyv2ry
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AF%F0%9F%87%B5%C2%AE%EF%B8%8FJapan%C2%A9%EF%B8%8FShibuya%20City%F0%9F%85%BF%EF%B8%8Fping%3A254.96ms%2014%20dailyv2ry
-ss://eyJhZGQiOiIxODUuMTA1LjIzOC42OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNWZhNmFiNC01MGRiLTRlMTEtZTU2My05ZDVmN2VlMzNlYWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjU0OTA4IiwicHMiOiLwn5S377iPINqp2KfZhtin2YQg2YXYpyA6IENvbmZpZ1YyUmF5TkdAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+ss://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.106.228.247:990#Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#🇯🇵 Tokyo, 13, Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#🇯🇵@nekopingbot_821
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:254.96ms 14 dailyv2ry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319?#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Shibuya City🅿️ping:254.21ms 32 dailyv2ry
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#🇯🇵⚡ConfigV2RayNG
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🇯🇵ConfigV2RayNG
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=cdn77.api.userway.org&sid=6ba85179e30d4fc2#🇯🇵@FreakConfig
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇮🇷+@shadowproxy66#🇯🇵 WS-TLS | @Express_alaki | src @DeamNet_proxy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇮🇷+@shadowproxy66#🇯🇵Japan+->+🇯🇵Japan+⚡@DeamNet_Proxy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.217:27446?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵 WS-TLS | @Express_alaki | src @DeamNet_proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.162.102.152:7002/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 15
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.179.87.9:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 07
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.142.230.253:587?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵Japan+->+🇯🇵Japan+⚡@DeamNet_Proxy
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.165.183.43:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 10
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.107.78:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 30
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.198.248:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#🇯🇵 机场推荐:dafei.de 日本 11
@@ -85,9 +102,7 @@ vless://81e596e2-09b2-4a5a-baac-6b3c8953bb23@tcp.ap-northeast-1.clawcloudrun.com
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.194:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇯🇵[Telegram:ConfigV2RayNG]
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇯🇵 @Hddify ~ Telegram
 vless://fa-397456379-1771064637182567@66.90.99.38:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇯🇵 @V2RAY_VMESS_free
-vmess://eyJhZGQiOiI0NS44NS4xMTkuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEzLmlyYW5pYW5jcC5mdW4iLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoiQGhvM2lubzAw8J+Rs/Cfj73igI3imYL…
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#🇯🇵⚡ConfigV2RayNG
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🇯🇵ConfigV2RayNG
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇮🇷+@shadowproxy66#🇯🇵 WS-TLS | @Express_alaki | src @DeamNet_proxy
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.149:45638?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇮🇷+@shadowproxy66#🇯🇵Japan+->+🇯🇵Japan+⚡@DeamNet_Proxy
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.10.217:27446?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵 WS-TLS | @Express_alaki | src @DeamNet_proxy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.142.230.253:587?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵Japan+->+🇯🇵Japan+⚡@DeamNet_Proxy
+vmess://eyJhZGQiOiJoYW1yYWguaGltYWJhbmsubWwiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVkYzViMmIzLTgzMDktNDQwYy05YmM3LTgzMDUwZGQzNjExMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiQHZfcF9sdiDYqtmE2q/Ysdin2YUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=همراه اول
+vmess://eyJhZGQiOiIxMy41MS4xMzYuMjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM1ZGNhYjBkLWVkZGMtNDcwMS1mNjM1LTYzYTVkMTljOGI4ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjEwMDEiLCJwcyI6IkBWUE5BemFkaU9mZmljaWFsaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=[سوعد]ری‌اکت فراموشی نشه🙂❤@v2ray_new
+vmess://eyJhZGQiOiAiYWhhZGtpdC5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImxlYWRlci5pci9mYSIsICJpZCI6ICJhZmJmYThkNS1hZmVmLTQ4ZGMtZWM4Yi03ZjQxNTc3ODgzYTMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NjYwMyIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9😉 @V2ray_Custom
