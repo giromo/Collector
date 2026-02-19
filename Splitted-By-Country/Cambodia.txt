@@ -1,7 +1,6 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjU0ZDk1N2M1ZjYxNjQw@38.54.93.107:11201#KH-38.54.93.107-1116
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGJjYzA4NzRkMzljMzkx@38.54.93.205:11201#KH-38.54.93.205-1119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjcyYWQ1NzAzNTgzNWM3@38.54.93.66:49696#KH-38.54.93.66-1117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#vmesskhodam
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=ipv4.yasharteam.com&fp=chrome&alpn=h2,http/1.1#@v2rays_ha 9848
-vless://b7c4e45e-ebf3-44b6-8cff-95e87a150adf@subzero.sarab.site:56001/?security=reality&encryption=none&pbk=YA6g3ufVJDzPJwCCbou4f6bFVs3RdYzrkkhaM08Jk0Q&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=6c61b7f6e821f3dd#@v2rays_ha 9940
+ss://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?path=/&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#@v2rays_ha 9825
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM=#vmesskhodam
+vless://3d2b28ec-e2f5-4edd-a95c-18d8ea828022@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#E005
