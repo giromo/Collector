@@ -1,2 +1,2 @@
-vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#@Hddify
-vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=/&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#@Hddify
+vless://9528078a-6ff0-403e-bc87-eb898c774a87@198.62.62.206:2087/?security=tls&encryption=none&insecure=0&host=a10x.vslbsh.pro&type=ws&allowInsecure=0&sni=a10x.vslbsh.pro#@v2rays_ha 10446
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80/?encryption=none&security=none&type=xhttp&host=barcodevpn.global.ssl.fastly.net&path=/&mode=auto#@v2rays_ha 10457
