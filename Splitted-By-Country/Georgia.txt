@@ -1,20 +1,14 @@
-vmess://eyJhZGQiOiI5NC4xNTYuMTgxLjE5MCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJlMWNjMjZiMy1kZjBiLTQ3N2ItYWZiMC01MzY1OWEyNWU5NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjgyNzMsInBzIjoi4p2MTW9zY293LUdldEFGcmVlTm9kZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
-vless://573c787d-d549-4171-b05f-29984bc0266c@104.16.139.160:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
-vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.233.175.171:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L386
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.233.179.40:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L792
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.192.9:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L258
-vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.1.105:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L389
+vmess://eyJhZGQiOiI5NC4xNTYuMTgxLjE5MCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJlMWNjMjZiMy1kZjBiLTQ3N2ItYWZiMC01MzY1OWEyNWU5NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MzI5MzQsInBzIjoi4p2MTW9zY293LUdldEFGcmVlTm9kZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
+vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L565
+vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
+vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?path=/@AmirGeekTech-@FNET00&security=tls&alpn=h2,http/1.1&encryption=none&host=ipv4.farazteams.ir&fp=chrome&type=ws&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
+vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L437
 vless://81662e2a-0bcb-4024-a787-c7e0552a5139@172.232.164.142:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L195
-vless://9bf99904-82f2-4b26-f962-32e787374403@18.185.248.149:18606?encryption=none&security=none&type=tcp#Germany
+vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L998
 vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.233.218.242:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L417
-vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.235.143.100:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L104
+vless://a544232b-b26e-4dee-a147-f77b2f66168e@172.233.173.124:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L395
 vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.202.79:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L136
+vless://bc310b8d-fbe8-4c55-970b-be77816fceea@69.164.192.203:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L116
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@3.79.185.9:18694?encryption=none&security=none&type=tcp#Germany
 vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L573
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.230.230:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L323
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.253.159:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
-vless://fe858a71-b4e2-4767-bd6b-f4616773f112@172.233.173.93:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L885
-vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzM4NyB8IEdlcm1hbnkiLCJhZGQiOiI1Ny4xMjkuMjguNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY4YzhmNDYyLTg0NjgtNDkzMS05MGE4LTY4MGMzZDZjYjNjMSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+MiiBUZWwgOiBAUHJveHlWUE4xMSDin7UiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&amp%3Bsecurity=tls&amp%3Balpn=h2&amp%3Bencryption=none&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&amp%3Bhost=ax.tan3.ir&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3Bsni=ax.tan3.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
-vmess://eyJhZGQiOiI1MS4xNTguMjM5LjgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwczpcL1wvc2hhZC5pclwvIiwiaWQiOiJlZGExM2M0OC1mMWZiLTRmOWMtZTgxMy1kYTU0MDEwYTQ0NzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNTk4IiwicHMiOiJAVlBOQXphZGlPZmZpY2lhbGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9[پاریس]با ری‌اکت نشون بدین کار میکنن یا نه 😍@v2ray_new
