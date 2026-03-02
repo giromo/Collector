@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
-hysteria2://e22d2366-ac58-47e0-8362-89df9aa6349f@152.70.176.68:1/?insecure=1&sni=www.bing.com#🐻1@oneclickvpnkeys
-hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@208.87.242.163:50000?sni=www.bing.com&insecure=1&allowInsecure=1&mport=50000-53000#🇺🇸/@en_vpn/کانفیگ های بیشتر
-hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@139.185.32.100:50000?sni=www.hoyoverse.com&insecure=1&allowInsecure=1&mport=50000-53000#@en_vpn/کانفیگ های بیشتر
-hysteria2://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@132.145.28.17:65535?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇬🇧/@en_vpn/کانفیگ های بیشتر
 vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9IENsb3VkRmxhcmXoioLngrkgNjgiLCJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoic3k0LjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ==
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian%206
 vmess://eyJ2IjoiMiIsInBzIjoiVFIy772c5ZWG5a69772c6Z2e5bi45a6J5YWoIDMiLCJhZGQiOiJ0dXJrMS5uZXQubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20uIiwidGxzIjoiIn0=
@@ -502,3 +497,8 @@ trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=1&sni
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#US_135%202
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.210.29.68:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#HK_1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.238.129.215:42734?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_1
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.205:2001?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.72.205-57
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.106.99-48
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#IS-37.235.49.209-31
+vmess://eyJ2IjoiMiIsInBzIjoiVVMtMjA5LjEyNi44NC4xODktMTUiLCJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzd3MiLCJob3N0IjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiVVMtMjA5LjEyNi44NC4xODktMjEiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwidGxzIjoiIn0=
