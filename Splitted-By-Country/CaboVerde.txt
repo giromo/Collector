@@ -32,3 +32,6 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality
 vless://f0a7fff1-632b-45f1-86e9-ef42015c231e@d2.armd.fun:5056?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://ffecd7fe-a020-4a99-a0d2-766dd341ed42@arvancloud.ir:2087?path=/salsaserver&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=arvan.omidrahnama.ir&fp=chrome&type=ws&allowInsecure=0&sni=arvan.omidrahnama.ir#@icv2ray
 vmess://eyJhZGQiOiJwYXlhMS5wbW9iaWxlMS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im11c2ljLmFwcGxlLmNvbSIsImlkIjoiNWZjZDdjZDAtZWJkMC00MGQ3LTk4MTktMTljZjBiYmI0NGMyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNjU1MzUiLCJwcyI6IkBpY3YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@15.188.31.240:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@icv2ray
+trojan://telegram-id-directvpn@15.236.135.208:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@icv2ray
+trojan://telegram-id-directvpn@63.182.77.216:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@icv2ray
