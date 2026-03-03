@@ -1,3 +1,4 @@
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#SA-154.205.134.155-0124
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#SA-154.205.134.155-0352
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24852#SA-154.205.134.155-1612
@@ -6,32 +7,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#S
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29463#SA-163.171.207.11-1253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29462#SA-163.171.207.11-1284
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29461#SA-163.171.207.11-1312
-vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20PlanB%20Proxy
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-ss://e8211fe8-059b-46e7-8f52-e5c61da5fee2@tak9.khabaronlinestar.site:8083?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#vpnsal
-ss://eb071647-72a6-46be-8e89-ff3d228d52f6@jp.cdn.stun.su:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=f189d91760bb6663#vpnsal
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=80bab3a2.gon-7ye.pages.dev&path=/&security=tls&sni=80bab3a2.gon-7ye.pages.dev&type=ws#@VPN_PASARGAD
-vless://17442c39-6fbf-423a-9f4c-67fe570d4f8d@denl1315.atlasf.ir:1315?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
-vless://17c45b20-9128-4eaf-a444-15a394f7e77c@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.#🚀 کانال تلگرام ما: @V2Safee
-vless://36d43050-a3bf-49e3-ae62-1c17fd902dca@81.12.33.100:7710?encryption=none&type=grpc&mode=gun&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#@VPN_PASARGAD
-vless://4c2a61d3-2b8d-e0a1-5195-53ac103c5396@porttt4.webchipro2.ir:3040?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@VPN_PASARGAD
-vless://4f21615d-d8c1-466a-88b0-4a86ac3907cf@91.231.144.169:6556?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#vpnsal
-vless://63ae782f-6ba2-44e5-93cc-a1b200fff564@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#@mehrosabora
-vless://79a698e0-0619-4169-8a54-9b73b9ffef27@5.10.248.106:2058?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#@VPN_PASARGAD
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20gRPC%F0%9F%9A%80%40%20AB2ray%20%DA%86%D9%86%D9%84```
+vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@neteoovpn12  @@V2rayng_Saz
+vless://45fdb236-47b4-404c-a330-c66270de172e@ic.imsoon.io:45219?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.206.124.158:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#@vpnsal
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.168.68.57:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#@VPN_PASARGAD
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb08.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#@mehrosaboran
 vless://93b82d85-6b29-4808-a7df-5ea150427a8a@ir3.yooznet.top:9001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#vpnsal
-vless://ab0d9568-1ad3-4af5-961c-d10ca9a634ad@185.231.113.237:7474?security=none&encryption=none&headerType=none&type=tcp#vpnsal
-vless://b0787a37-4259-4bf5-800c-da0d4ae881bc@81.12.92.125:5050?encryption=none&type=tcp&headerType=none&security=none#@VPN_PASARGAD
-vless://bddaee6c-3145-4817-acfc-ab028578989b@s5.laptopstock7.com:9976?encryption=none&type=tcp&headerType=http&security=none#@VPN_PASARGAD
+vless://9d5ee9e3-782a-4496-b1bd-038e4a45da49@ir-www-germani1.khabarkamkwww.fun:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@VPN_PASARGAD
+vless://a5de6d2b-6c79-46d1-b0c5-34ab23796111@h36.tiptop-1.top:33779?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#کانال+ما+در+تلگرام:+@V2rayng_Saz
+vless://ab0d9568-1ad3-4af5-961c-d10ca9a634ad@185.231.113.237:7474?security=none&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
+vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?security=none&encryption=none&headerType=http&type=tcp#@VPN_PASARGAD
 vless://cbf69c40-f872-4cfb-858e-dd143468b272@3.70.241.237:443?type=tcp&encryption=none&security=none#@vpnsal
-vless://d16bab5b-a68d-4280-c340-d3e865f2a858@3.67.95.76:17506?type=tcp&encryption=none&security=none#@vpnsal
-vless://d5ee5591-66ea-4f56-ac3c-e7991f727f5e@fs.cedriklorenz.ir:443?security=tls&encryption=none&host=looassboijji.global.ssl.fastly.net&fp=chrome&type=ws&sni=speedtest.net#@VPN_PASARGAD
-vless://d5ee5591-66ea-4f56-ac3c-e7991f727f5e@fs.cedriklorenz.ir:443?security=tls&encryption=none&host=looaxdfboijji.global.ssl.fastly.net&type=ws&sni=speedtest.net#@VPN_PASARGAD
-vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@3.127.221.58:18694?type=tcp&encryption=none&security=none#@vpnsal
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&type=tcp&sni=www.xbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&encryption=none#@VPN_PASARGAD
-vless://f2160837-ddd9-424e-8fb9-b08da44b39c7@jd1.deakhemashtiiirann.online:8090?security=&encryption=none&headerType=http&type=tcp#@VPN_PASARGAD
+vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80?path=/&security=none&encryption=none&type=ws#V2rayng_Saz
 vless://f740a3ca-4d39-4f17-b236-8837fb7cf8a3@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#vpnsal
-vless://f9c16a2a-2598-40dc-9aa0-8b5a2001396b@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#vpnsal
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiIxNS4yMzUuODMuMjI4IiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRlc3RfbmFtZSI6IjI3In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20SS%20%7C%20%40v_2rayng0%20%231
-vmess://eyJpZCI6ImNmMTNkNmVjLTAxZjAtNGI4YS1hYjczLTYxNmNlM2MxZTUxOSIsInBzIjoic3VzYW5vbyIsInBvcnQiOjQxMDIzLCJob3N0IjoiYWxpYmFiYS5pciIsInRscyI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImFkZCI6IjEwMi5hbGlyZXphYWxhbm4ub25saW5lIn0=vmess://eyJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsImFpZCI6IjAiLCJhZGQiOiI1Ljc1LjI1NC4xNDIiLCJob3N0IjoiIiwidGxzIjoiIiwicGF0aCI6IlwvIiwibmV0IjoidGNwIiwicHMiOiJzdXNhbm9vIiwidHlwZSI6Im5vbmUiLCJwb3J0Ijo0NDN9vmess://eyJob3N0IjoiYWxpYmFiYS5pciIsInBvcnQiOjQxMDIzLCJ0eXBlIjoibm9uZSIsImlkIjoiY2YxM2Q2ZWMtMDFmMC00YjhhLWFiNzMtNjE2Y2UzYzFlNTE5IiwiYWlkIjoiMCIsImFkZCI6IjEwMi5hbGlyZXphYWxhbm4ub25saW5lIiwicGF0aCI6IlwvIiwicHMiOiJzdXNhbm9vIiwibmV0IjoidGNwIiwidGxzIjoiIn0=trojan://cd27884b-c5af-34ec-b75f-8248077818fe@b.mg.us.cat77.cloud:5215#susanoovmess://eyJ0eXBlIjoibm9uZSIsImFpZCI6IjAiLCJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsInRscyI6IiIsInBzIjoic3VzYW5vbyIsImFkZCI6IjEwNC4xNi4yMDkuMTIiLCJob3N0IjoiYTcuaXJhbmlhbmNwLmZ1biIsInBvcnQiOjg4ODAsInBhdGgiOiJcLyIsIm5ldCI6IndzIn0=vmess://eyJpZCI6IjBjNjY0ZjQ0LTlmNjktNDU0Zi04NDFhLTQ2MTY3MTVkZjI2ZiIsInBvcnQiOjg4ODAsIm5ldCI6IndzIiwicHMiOiJzdXNhbm9vIiwicGF0aCI6IlwvIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYTcuaXJhbmlhbmNwLmZ1biIsInRscyI6IiIsImFkZCI6IjEwNC4xNi4yMDkuMTIiLCJhaWQiOiIwIn0=vmess://eyJwb3J0IjoxMTExMSwidHlwZSI6Im5vbmUiLCJhaWQiOiIwIiwiaWQiOiI3Y2I3Mjg4My05NjM1LTQ2ZWItODUzMS04ZDY5NzkyN2ZmMDQiLCJuZXQiOiJ0Y3AiLCJ0bHMiOiIiLCJwYXRoIjoiIiwiYWRkIjoiMTguMTcwLjI0OS4yNDQiLCJob3N0IjoiIiwicHMiOiJzdXNhbm9vIn0=vmess://eyJ0eXBlIjoibm9uZSIsIm5ldCI6IndzIiwiaWQiOiIwNjM3MWQ2Ny1kOTc2LTRjODQtZWNkZi1kN2M5ODllODAxNTUiLCJob3N0IjoiIiwicGF0aCI6IlwvNTQzMjEiLCJwcyI6InN1c2Fub28iLCJhaWQiOiIwIiwiYWRkIjoibWpqMzAxMS5oamRuLnRrIiwicG9ydCI6NDQzLCJ0bHMiOiJ0bHMifQ==کانفیگ جدید OneClick ✅️🚀(قابل استفاده در v2rayNG )بزنید روش همشون باهم کپی میشه✌🏻اگه که نحوه استفاده از برنامه رو نمیدونید یا برنامه رو ندارید،روی هرکدوم از گزینه های زیر بزنید مستقیم هدایت میشید به آموزش و یا خود برنامه👌🏻برنامه OneClick آموزش OneClick #Susanoo
+vmess://eyJhZGQiOiIxMy40Mi45NS4xIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdjYjcyODgzLTk2MzUtNDZlYi04NTMxLThkNjk3OTI3ZmYwNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTExMTEiLCJwcyI6IkBWUE5BemFkaU9mZmljaWFsaSIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9@v2ray_new
