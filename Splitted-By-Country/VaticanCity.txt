@@ -1,8 +1,13 @@
-trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.38.236.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.225.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.135.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.97.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#(S104)🇨🇵t.me/PrivateVPNs
 vless://3963f5d3-ed71-4a11-98d5-3154d65a9502@77.83.245.188:55169?security=reality&encryption=none&pbk=BXstOSOV6FnB-uBB_ITszxxjFu4nSzXrrVVdoHOLDGo&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=5bb854d009781a17#VayNora
 vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#VayNora
 vless://7eec20b0-c70a-4fd3-8eb2-98cbf3b2abc0@deu753.deuunlocker.org:444?mode=auto&path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=deu753.deuunlocker.org#VayNora
-vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=rus62.ruslucker.org#VayNora
-vless://c9fc0f4a-183b-4cea-dc30-dd46f998a019@arshia.parvane.top:33553?type=tcp&encryption=none&path=/&headerType=http&security=none#VayNora
 vless://d9438566-ecb5-47e8-8aa1-cf4ff68b3e66@index.sandis.space:8443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇻🇦@V2rayng_Fast جوین شید⚡
+vmess://eyJkZXZpY2VJRCI6IiIsImF1dGhvcml0eSI6IiIsImV4dHJhIjoiIiwicHMiOiLwn4e58J+HtyBAQXZhaWxhYmxlXzIxIiwidiI6IjIiLCJhbHBuIjoiIiwiYWRkIjoiMTg1LjIyMi4yMTAuNTQiLCJzZWVkIjoiIiwibmV0IjoidGNwIiwic2VydmljZU5hbWUiOiJub25lIiwibW9kZSI6IiIsInRscyI6Im5vbmUiLCJwb3J0IjoiODAiLCJpZCI6ImEyMTk3MmM3LTM5ODEtNDA2MS05ZWYzLTJkNDMxMTBlMDEwNyIsImFpZCI6IjAiLCJmcmFnbWVudCI6IiIsImhlYWRlclR5cGUiOiJub25lIiwicGF0aCI6IiIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInNuaSI6IiIsImZwIjoiIn0=
+trojan://telegram-id-privatevpns@51.45.44.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@51.44.103.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@51.45.25.158:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
