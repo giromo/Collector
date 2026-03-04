@@ -2,8 +2,17 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
-hysteria2://edd0d9b9-d2ef-40a0-af10-0dca357351e3@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#📀6@oneclickvpnkeys
+vless://f0822a2c-04a9-4746-ad13-208815e790ca@freea.glyphara.com:30202?security=reality&type=tcp&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision&sid=10fa499e&pbk=9ahErgB4NKffqiZe3HHRx7Wb5br086fhnI75YuCdN0U#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2001
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.205:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%B6%8A%E5%8D%97%2001
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5py65Zy65o6o6I2QOmRhZmVpLmRlIOaWsOWKoOWdoSAwMyIsImFkZCI6InY0NS5oZGFjZC5jb20iLCJwb3J0IjoiMzA4NDUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5py65Zy65o6o6I2QOmRhZmVpLmRlIOmmmea4ryAwMiIsImFkZCI6ImU4ZmFmMjkxLXRiZHRzMC10Y2RtamMtMWdldmcuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwicG9ydCI6IjgwIiwiaWQiOiJmMDJlZTJiNC1kNzYwLTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii8iLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+vless://5ac6e21d-be89-2f3b-6f88-c7f89ea12ec1@27.50.48.50:2053?security=tls&type=ws&path=%2F&host=123.org.edukg.dpdns.org&sni=123.org.edukg.dpdns.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2005
+hysteria2://78E276B1-40A9-4930-9D73-2A6B67266AC7@us9.dexlos.com:21774?obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&sni=us9.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
+vless://91375e5a-2a0c-45e6-b3cc-3f7adde22965@freea.glyphara.com:30701?security=reality&type=tcp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=e62db878&pbk=cgGav3P_PeaM4grdSECGj4Tt9IsCmSqhGo_EJ0_KdWY#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2003
+hysteria2://8c4dbd29-c793-4ed9-abb6-9fd96535f0b8@jp.sanmaojichang.com:21483?sni=jp.sanmaojichang.com&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2005
+vless://3fed5490-864b-487c-9842-3a526297713c@154.31.114.125:443?security=reality&type=tcp&sni=navi.bankrate.com&fp=chrome&sid=2da72ce6&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
+hysteria2://946bbc43-9652-453e-af55-fa190e150c98@jp.sanmaojichang.com:21264?sni=jp.sanmaojichang.com&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2003
+hysteria2://946bbc43-9652-453e-af55-fa190e150c98@jp.sanmaojichang.com:21678?sni=jp.sanmaojichang.com&mport=21001-21999#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 vless://be70763e-ab0a-4f8d-87aa-b8ae86495cca@165.154.235.194:30001?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0015
 vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0014
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@77.92.145.192:443?allowInsecure=0&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#TR_speednode_0013
@@ -493,12 +502,3 @@ ssr://103.181.165.226:8211:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VTBjN
 ssr://103.181.165.227:8622:origin:chacha20-ietf:http_simplecGFzc3dkremarks=Vms0eDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
 ssr://103.181.165.227:8616:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VkVnMDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
 ssr://103.181.165.227:8619:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VTBNeDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8613:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VWxVejc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8614:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VUVzeDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8604:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VGt3eDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8626:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VGtjeDc3MmM1WldHNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8602:origin:chacha20-ietf:http_simplecGFzc3dkremarks=UzFJeU11KzluT2FjdXVhSXYrKzluT1M5anVtamp1Li4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8624:origin:chacha20-ietf:http_simplecGFzc3dkremarks=U1ZReDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8601:origin:chacha20-ietf:http_simplecGFzc3dkremarks=UjBJMjc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8610:origin:chacha20-ietf:http_simplecGFzc3dkremarks=UmxJeTc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8628:origin:chacha20-ietf:http_simplecGFzc3dkremarks=UlZNeDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
