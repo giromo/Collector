@@ -1,5 +1,36 @@
-vmess://eyJhZGQiOiJ0dXJrMS5uZXQubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tLiIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlXHUwMDNkMjU2MCIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+rtvCfj7siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vless
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
-ss://eyJhZGQiOiJ1azEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI0YjNmN2MxNi1iNTNjLTAyNTQtMTRiNy0yYjEyYzdiYjUyZTEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6zwn4enIENvbmZpZ1YyUmF5TkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
-vmess://eyJhZGQiOiJmcmVlZG9tLnZpcGdzbXRlYW0uaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE3MzU2IiwicHMiOiLwn4e68J+HuEFsbOKBtSB8IEBCaWdTbW9rZV9Db25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzAgNDEuM01CL3MiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzMCJ9
+ss://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV8xIiwicG9ydCI6IjIwODYiLCJpZCI6IjdkOTNlOTkyLTQ4Y2YtNDJkNC04NGY4LTc1NzY4ZTgxNWE0YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImFkbWluLmFyem9uaG9zdC5pciIsInRscyI6IiIsInBhdGgiOiIvIn0=
+ss://eyJhZGQiOiJqb2luLm1lbG9keWZyZWVuZXQyLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1MGVmMGIyMy1mMTRiLTQ1OWYtOTdhYS1kMGYzNDYxODlkMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFpbC8iLCJwb3J0IjoiNDQzIiwicHMiOiJAY29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IkpvaW4uTWVsb2R5RmVlbkV0Mi5zaG9QLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+hy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#@Trick_mobil
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#@Trick_mobil
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#@Trick_mobil
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#@Trick_mobil
+trojan://c1thv9pi-ds6d-1oij-dbeb-lotn88oyjigv@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://g6km2h14-pigb-21uj-bduo-473ip9g3x7ud@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#@Trick_mobil
+trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#🌐 TCP-TLS | @Trick_mobil (14)
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🔘 T.me/V2HUBIR | Join Now ✅️
+trojan://mbrqm5ym-z7mh-ig6o-b12d-ohfx1vk9k1hc@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://mt4y5qwn-7o4b-thrt-jmh8-1teavgmk8l4b@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://nn1458rz-cdlk-9ak3-2cjb-f0xybedrfp0v@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+trojan://telegram-id-directvpn@3.139.145.191:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#@Trick_mobil
+vless://092c0e5e-0677-44a1-ae52-2174f3749d68@teb.parsdownloadco.ir:29294?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality#@Trick_mobil
+vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&encryption=none&headerType=none&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://21d43aa8-3f0e-4c19-88fb-1705885bb2c6@flt.web7ghost.top:2095?security=none&encryption=none&headerType=none&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://44584e3d-900d-450c-b078-f38a9f4bf543@b.login.walkerpubg.ir:8080?path=/wp-admin.php?ed=2052&security=&encryption=none&host=kernal02.ivy-net.ir&type=ws#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://53b6a466-2b4e-4edb-b3f3-f3cfb9d658c4@ultra.jahanover.sbs:80?security=none&encryption=none&headerType=none&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://5ebdea60-0a8d-49cb-8644-99207335060b@ger2.md-teach.com:32075?security=none&allowInsecure=0&encryption=none&type=tcp&host=parsabr.ir&path=/path&headerType=http#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://6e3e76bf-9928-4eec-be2b-f8ea12fcc47d@dash.mobileemdad.top:9560?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🔘 T.me/V2HUBIR | Join Now ✅️  ⭕️ میگن وصله این ای پی ولی باز تست کنید
+vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=&encryption=none&host=skyroom.online, igap.net, gharar.ir&headerType=http&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?type=grpc&security=reality&sni=www.microsoft.com&fp=chrome&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA#@Trick_mobil
+vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://d203ceae-d9a9-45bb-a07c-0eb52baf9130@78.157.37.186:2099?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf@node.zorli.ir:8443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🔘 T.me/V2HUBIR | Join Now ✅️
+vless://fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b@1.iran2.axenet.company:1112?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zaya1.ketabland.org#🔘 T.me/V2HUBIR | Join Now ✅️
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyAxNzIuNjQuMTY2LjgiLCJhZGQiOiIxNzIuNjQuMTY2LjgiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0#@Trick_mobil
+vmess://eyJhZGQiOiJ4MS5hcnZhbmRzZXJ2ZXIuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiJibXcuYXJ2YW5kc2VydmVyLmZ1biIsImlkIjoiOTgwMGY1YzUtZjc3Zi00YjJjLWJjOTAtZDkxZTE5ZGRlMDIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itit2KfZsNis25rduuCjriBAc29zY3ciLCJzY3kiOiJhdXRvIiwic25pIjoiYm13LmFydmFuZHNlcnZlci5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==ایرانسل 🫶😘vmess://eyJhZGQiOiJ4Mi5hcnZhbmRzZXJ2ZXIuZnVuIiwiYWlkIjoiMCIsImhvc3QiOiJibXcuYXJ2YW5kc2VydmVyLmZ1biIsImlkIjoiOTgwMGY1YzUtZjc3Zi00YjJjLWJjOTAtZDkxZTE5ZGRlMDIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itit2KfZsNis25rduuCjriBAc29zY3ciLCJzY3kiOiJhdXRvIiwic25pIjoiYm13LmFydmFuZHNlcnZlci5mdW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==همراه ایرانسل 🙌🥳
+vmess://eyJhZGQiOiI0NS44NS4xMTguODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ3ZzEuYW5vdGhlcnZtZXNzLmxpbmsiLCJpZCI6IjlhZThiNmMxLTc0NGYtNG`FmZS1jMjdkLWYzYjM4ZTc5ZDk3NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoi4pyFIEBTaGFkb3dTb2Nrc19TIiwic2N5IjoiYXV0byIsInNuaSI6IndnMS5hbm90aGVydm1lc3MubGluayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
