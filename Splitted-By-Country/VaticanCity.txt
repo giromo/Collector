@@ -1,4 +1,17 @@
-trojan://telegram-id-privatevpns@13.39.41.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.37.88.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.100.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.61.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.164.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.188.31.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.224.29.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.135.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.44.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.181.164.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.37.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?encryption=none&type=tcp&headerType=http&host=fast.com#VayNora
+vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#VayNora
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#🇻🇦@V2rayng_Fast جوین شید
-vless://ef8e608b-3edc-4235-8963-b6334f44b88e@chatgpt.com:443?encryption=none&security=tls&sni=uk-02p.allhubb.info&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fcheck#%E2%AD%90%F0%9F%87%AC%F0%9F%87%A702%F0%9F%96%A4MajidReza%20Rahnavard-CFCDN-2
+vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#VayNora
+vmess://eyJhZGQiOiIxOTQuNjAuMjI4LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXJhYXppbi5pciIsImlkIjoiM2ZmYjIzMzctN2JlYi00Mjc4LTg3MzYtMDgyM2M3NzRiM2YyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTYxNiIsInBzIjoi8J+Hu/Cfh6ZAQ29uZmlnVjJSYXlORyDYrNmI24zZhiDYtNuM2K8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJwYXRoIjoiIiwiYWxwbiI6IiIsImhlYWRlclR5cGUiOiJub25lIiwiYWlkIjoiMCIsInBvcnQiOiI4MDgwIiwiaWQiOiJlYmE1NTNjMC04ZjNmLTRhYTctZjI2MS1lMWRlNGUyNmRkMmYiLCJhZGQiOiI5NC4xMDEuMTg1LjUzIiwiZnAiOiIiLCJ2IjoiMiIsIm1vZGUiOiIiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwcyI6IlZheU5vcmEiLCJzZWVkIjoiIiwic25pIjoiIiwiZnJhZ21lbnQiOiIiLCJuZXQiOiJ0Y3AiLCJkZXZpY2VJRCI6IiIsImV4dHJhIjoiIiwic2VydmljZU5hbWUiOiJub25lIiwidGxzIjoibm9uZSJ9
