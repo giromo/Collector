@@ -1,32 +1,5 @@
-vmess://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxYjBmZGE4MC01MDZkLTRlMWYtZWI1Zi01ODM5OTRkNDdkNDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI8gQFZpUFZwbl92MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://telegram-id-privatevpns@3.124.229.240:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@51.44.109.231:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@18.199.232.208:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-vless://c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f@gr5.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%C2%A6german%202
-vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L565
-vless://1a921231-3cae-4948-9088-cfb18d0bf87c@50.116.37.78:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L190
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.233.183.136:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L989
-vless://319f08ce-e369-4615-8eed-8c3c47945793@50.116.18.83:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L877
 vless://319f08ce-e369-4615-8eed-8c3c47945793@69.164.207.136:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L741
-vless://4414fd58-952b-4c7e-bb1d-f75f76d1c752@172.236.234.120:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L422
-vless://4ed8fd78-f50a-4dfb-bf88-da2394652ca0@69.164.207.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L789
-vless://573c787d-d549-4171-b05f-29984bc0266c@104.18.32.47:443?type=ws&encryption=none&path=/@AmirGeekTech-@FNET00&host=ipv4.farazteams.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=ipv4.farazteams.ir#CDN-@AmirGeekTech
-vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
-vless://63317fb1-b61a-45f1-a306-007399d2334b@139.144.31.94:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L842
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.233.179.40:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L792
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.235.136.46:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L883
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.192.9:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L258
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@69.164.205.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L982
-vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.114.187:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L988
-vless://81662e2a-0bcb-4024-a787-c7e0552a5139@172.232.164.142:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L195
-vless://8cbec16e-e110-4ebc-8ae4-827258c4fcb2@172.233.151.82:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L53
-vless://a8dff238-bf64-4b59-816d-f7aa8c527636@69.164.202.79:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L136
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.234.221.177:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L835
-vless://d417cebd-ae4f-4555-92bb-1d76570aafc1@172.236.111.246:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L661
-vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L573
-vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.38.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L103
-vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.62.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L29
-vless://f6bcf6b1-4e62-4b6e-bf6b-9d379e13609c@172.235.145.38:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L973
-vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L742
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.230.230:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L323
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.21.224.5:443?&security=tls&fp=chrome&sni=apii.onlineshoppingez.ir&type=ws&headerType=none&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#_%E6%9C%AA%E7%9F%A5%2071
+vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L437
+vless://fd72c8a7-f926-4eeb-aac8-6236dffd79b6@172.236.102.47:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L890
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#%40v2_mod_shop%F0%9F%9A%80%20%F0%9F%87%AC%F0%9F%87%A7
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?&security=tls&fp=chrome&sni=apii.onlineshoppingez.ir&type=ws&headerType=none&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp#_%E6%9C%AA%E7%9F%A5%2014
