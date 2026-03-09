@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.106.39:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#_%E5%BE%B7%E5%9B%BD%2010
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF%209
+vmess://eyJ2IjoiMiIsInBzIjoiX+e+juWbvSA0OCIsImFkZCI6InVzYWFwcDEuamlzdXl1bi50b3AiLCJwb3J0IjoiMjA1MyIsInR5cGUiOiJub25lIiwiaWQiOiI0YjgwYWE4Ni00MzU0LTQwYmItZDJhMy00NzEyNmNmZjBiZWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3VzYXZtIiwiaG9zdCI6InVzYWFwcDEuamlzdXl1bi50b3AiLCJ0bHMiOiJ0bHMifQ==
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.33.238.198:15380?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E9%9F%A9%E5%9B%BD%2088
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#_%E5%BE%B7%E5%9B%BD%209
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@180.66.110.234:14147?&security=tls&fp=chrome&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#_%E9%9F%A9%E5%9B%BD%20122
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@218.155.23.9:12184?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E9%9F%A9%E5%9B%BD%2085
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F#_%E8%A5%BF%E7%8F%AD%E7%89%99%203
@@ -497,8 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjU0ZDk1N2M1ZjYxNjQw@38.54.93.107:11201#KH-38.54.93.107-1184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTY4ZDRiZDAwMjQzN2Fi@149.104.71.134:11201#US-149.104.71.134-1215
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#SA-163.171.207.11-1191
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29461#SA-163.171.207.11-1192
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGJjYzA4NzRkMzljMzkx@38.54.93.205:11201#KH-38.54.93.205-1202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#DE-57.129.35.242-1189
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#TR-154.205.148.202-1942
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#MD-176.123.5.253-0364
