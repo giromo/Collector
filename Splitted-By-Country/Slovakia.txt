@@ -1,19 +1,6 @@
-trojan://telegram-id-directvpn@13.37.140.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram=@SOSkeyNET
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2NXNrZzJsOCIsCiAgImFkZCI6ICI3Ny40Mi43Ny42NiIsCiAgInBvcnQiOiA0MDEwMCwKICAiaWQiOiAiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚡Telegram=@SOSkeyNET
-vless://159f4e4f-06df-4e73-89e8-5fa03d82057a@vip.oneplus2online.com:50063?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚡Telegram=@SOSkeyNET
-vless://bb1f6600-8d98-4884-8f31-ba1217720d7d@5.159.54.144:53?type=tcp&encryption=none&security=none#⚡Telegram=@SOSkeyNET
-vless://3899ada4-de68-4ed9-9fae-8745410e4149@sdl15.shahramv1.site:80?security=none&encryption=none&headerType=none&type=tcp#⚡Telegram=@SOSkeyNET
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@web3.trmas-po.ir:8080?security=none&type=ws&headerType=&path=&host=asli.svnteam-vip-fast.ip-ddns.com#⚡Telegram=@SOSkeyNET
-vless://e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf@node.zorli.ir:8443?security=none&encryption=none&headerType=http&type=tcp#⚡Telegram=@SOSkeyNET
-vless://6a3ad064-be7c-40be-9a48-171885a359b7@mail.tomandjery.eu:1001?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2&fp=chrome&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none#@vmesskhodam
-vless://6c8f2ee5-effd-4601-90d3-8d289b2956ee@5.159.54.151:80?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#@vmesskhodam
-vless://7d49a403-4956-4b05-b70b-98917a79a8ca@sv7.zestifypro.com:7030?encryption=none&type=tcp&headerType=http&path=/#⚡Telegram = @SOSkeyNET
+vless://lImANlXk14fAOETY2x1noenrYQDW+prX+KDmSp2UI894+wBzPGkA9ALV34KYrYuDJoOyH9CCQ4lkX5rbDJWZ4FODSGX4q6jyy+VfZqlKSiUyb2QuzTVSuZy9eY4sWG7t9CadlnWgfAHl7GU5wK7MBKbjFf3KDDX4DtOJjaE7GLgi3VI+WMZ2+ZTaUmu9l+kK0zUAhSMfNSM/6d2FUhpTNRKXP9ec91BoOYGGA7uDHX4JhfRIyZrB7yBG4dnTgCrWEx5wS/jj4k65XE1ynlMe403+LT0C9EQ3xEo8ATrEVqy5P3STJ1eW2nvXCxzmOjjbYRlOKj2B6tkNI8f6YuX7fA56N7AoMMQnX42hdpDbqjskc2ONWjWZM6dYjk4fiCTS
+vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@www.tomandjery.eu:1003?security=reality&encryption=none&pbk=3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#⚡Telegram=@SOSkeyNET
+vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@mail.tomandjery.eu:1001?security=reality&encryption=none&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#⚡Telegram=@SOSkeyNET
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
+vless://9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722@194.145.119.216:8082?security=none&encryption=none&host=virgool.io&headerType=http&type=tcp#⚡Telegram = @SOSkeyNET
 vless://9f00e109-36ba-47a6-8dd5-4487fb93a6ff@rk4no3.cdnhoo.top:80?path=/get&security=none&encryption=none&type=ws#%@vmesskhodam
-vless://ba7444ef-a436-4ad0-8fa8-2cc933b6e96f@31.25.95.10:53571?security=none&encryption=none&host=bale.ai,web.igap.net,igap.net&headerType=http&type=tcp#@vmesskhodam
-vless://c19fb567-74a9-454f-9757-e612fc4be371@62.141.32.238:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#⚡Telegram = @SOSkeyNET
-vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#@vmesskhodam
-vless://ef2588ed-6162-4ee3-a002-39ef1c09e848@emergency5380.carpet-carpet-carped.ir:5380?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@vmesskhodam
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@kingmna.com:443?security=tls&type=xhttp&headerType=&path=/&host=kafie.mazraedaran-datel.ir&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=kafie.mazraedaran-datel.ir&fp=chrome&alpn=h2#⚡Telegram = @SOSkeyNET
-vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:5443?security=reality&encryption=none&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=5cae63084b3281f3#⚡Telegram = @SOSkeyNET
