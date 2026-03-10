@@ -1,7 +1,4 @@
-trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#Hong%20Kong%20Netvigator
-trojan://telegram-id-directvpn@13.37.140.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@15.188.68.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@18.184.163.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@15.188.101.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.124.229.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.181.24:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#OurChannel : @DirectVPN
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#@Nftvici
@@ -13,6 +10,7 @@ vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?s
 vless://74f6348b-bc9a-4175-93f9-080afda56da8@io.market.iran-rom.ir:50330?security=none&encryption=none&headerType=http&type=tcp#@Nftvici
 vless://7c7d2112-89cc-418a-8e45-d874fbc6536f@212.80.8.48:9987?security=none&encryption=none&headerType=none&type=tcp#@Nftvici
 vless://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@Nftvici
+vless://a27d67a1-4ed5-4d06-83e2-f7762e0f5423@haji.arezoni1.ir:666?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@Nftvici 💬 @Nftvici | vasl bash 🚀
 vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#@Nftvici
 vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@demo.fllanagan.shop:443?type=tcp&encryption=none&security=none#@NFTVICI 🚀
 vless://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?type=tcp&encryption=none&security=none#@Nftvici
@@ -22,4 +20,5 @@ vless://d9d163e3-793c-4fd4-8026-690d422bf8ea@s2.fastsnap.info:21113?security=non
 vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:3090?path=/XIXVPN?ed&security=none&encryption=none&host=ebqbi.knedno.kbrgcwq.aqpfmy.utzuryso.infinityofconnectedminds.com&type=ws#@Nftvici
 vmess://eyJhZGQiOiJjaXAuMWlpaTEuZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODNkZjUwMjgtMTYzNy00NzYwLTg1OGUtYmJhY2FhYjRiOWIxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJATmZ0dmljaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJkZXZpY2VJRCI6IiIsImV4dHJhIjoiIiwiaG9zdCI6IiIsInBvcnQiOiIyMDAxIiwidiI6IjIiLCJuZXQiOiJ0Y3AiLCJzbmkiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsImlkIjoiNjRjNzM0ODktZTc0MS05YmQyLTg2Y2EtNWU5MGEyMzc2MGFlIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwiYWRkIjoiODcuMTA3LjE4Ny4yMTAiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJmcCI6IiIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInBzIjoiQE5mdHZpY2kiLCJzZWVkIjoiIiwiZnJhZ21lbnQiOiIiLCJtb2RlIjoiIn0=
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJARGlnaVYycmF5OtqG2YbZhCDZhdinINiv2LEg2KrZhNqv2LHYp9mF8J+HqfCfh6oiLAogICJhZGQiOiAiZnJlZXYycmF5LnYycmF5NC54eXoiLAogICJwb3J0IjogNDQ3MTIsCiAgImlkIjogImVkMmQ4MGMxLTVlN2UtNGExMy04MzI4LThkZmU2ZGFkNWNmYiIsCiAgImFpZCI6IDAsCiA…
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40itv2ray%20%232
+ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#Latvia%20Sia%20Veesp
