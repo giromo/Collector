@@ -1,3 +1,4 @@
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy```
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@203.23.128.33:989#HK-203.23.128.33-0271
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.22:989#PR-185.47.255.22-0267%202
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.22:989#PR-185.47.255.22-0267
+ss://eyJhZGQiOiIxMDQuMjEuNy4xNjIiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV80IiwicG9ydCI6IjIwODciLCJpZCI6IjUyMGE1ZjQ1LWQzNTQtNDJmNC1hNjU4LTE4ZGJjMzc1NDY0NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhY2tlbmQuYXBwLWJyb3dzZXIub3JnIiwidGxzIjoidGxzIiwicGF0aCI6Ii9md3MifQ==
+ss://eyJhZGQiOiJzMS5oYW1pc2hlLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXZhci5pciIsImlkIjoiM2RiOTJjZWYtZWQ3Zi00ZTRhLTg1NGYtMzcyODRhOTM2MmRiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTEwIiwicHMiOiLYqNuM2Kcg2KfbjNmG2KzYpyBDb25maWdWMlJheU5HQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=

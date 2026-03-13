@@ -1,2 +1,2 @@
-vless://0c0f6c6f-d035-4cd1-97b9-fff39287ce04@143.204.111.65:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=d1bezfxa40zhk8.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d1bezfxa40zhk8.cloudfront.net#@FalconPolV2rayNG
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@104.16.209.12:8443?path=/&security=tls&encryption=none&host=nl.cypherpunks.fun&type=ws&sni=nl.cypherpunks.fun#@FalconPolV2rayNG
+vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@FalconPolV2rayNG
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
