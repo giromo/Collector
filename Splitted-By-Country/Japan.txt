@@ -2,10 +2,12 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@202.84.53.85:30816?encryption=none&
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0225
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.214.104:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0822
 trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0245
 trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-1667
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0257
 vmess://ewogICAgImFkZCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00Ny4yNDUuNDIuOTItNDYzMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIKfQ==
+trojan://BxceQaOe@57.180.252.251:16919?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiaG9zdCI6IndlYnNoZWNhbmlyMi5zeW1vZGkubWwiLCJpZCI6IjM3ZTdmY2E0LTg1MTAtNDBhYi04ZDIyLTEzOGEyYTM2NThhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9KU3NpYWRzRXNjU0EiLCJwb3J0IjoiMjA5NiIsInBzIjoiW/Cfh6zwn4enXSDinqAgQHZwbl80NDMiLCJzY3kiOiJhdXRvIiwic25pIjoid2Vic2hlY2FuaXIyLnN5bW9kaS5tbCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9🗿 @vpn_443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-1055
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP-149.22.87.241-1053
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#JP-172.105.199.111-0224
@@ -47,7 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11201#JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11202#JP-154.205.139.9-1069
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0567
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3419?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0565
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.53.146.92:8443?&security=tls&fp=chrome&sni=snippet.fgfw.ndjp.net&type=ws&headerType=none&host=snippet.fgfw.ndjp.net&path=%2Fdanfeng#_%E5%A5%A5%E5%9C%B0%E5%88%A9%202
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP-149.22.87.204-0232%20%7C%2024.761MB
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#JP-172.105.199.111-0230%20%7C%2025.013MB
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4937?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.70.180-0261%20%7C%2015.03MB
@@ -60,6 +61,8 @@ trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=0&sni=
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0262%20%7C%208.682MB
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.72.33-0253%20%7C%208.29MB
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0277%20%7C%208.469MB
-trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDvmess://eyJhZGQiOiJ5aW5nLXVuaWNvbS5nYXRrbnFoLmNuIiwidiI6MiwicHMiOiLwn4eo8J+Hs19DTl/kuK3lm70tPvCfh6fwn4etX0JIX+W3tOaelyIsInBvcnQiOjQwMjI0LCJpZCI6ImZiMTY0NWY3LTA2OGEtM2I0MC1hOWJmLTVjNDliYjFiZjRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==vmess://eyJhZGQiOiJ5aW5nLW1vYmxlLmdhdGtucWguY24iLCJ2IjoyLCJwcyI6IvCfh6jwn4ezX0NOX+S4reWbvS0+8J+HrPCfh6dfR0Jf6Iux5Zu9IiwicG9ydCI6NDAyMjIsImlkIjoiZmIxNjQ1ZjctMDY4YS0zYjQwLWE5YmYtNWM0OWJiMWJmNGUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9ssr://Y25yZWZoazIuc3RhbmR1cmwueHl6OjU2MTphdXRoX2FlczEyOF9tZDU6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpiV0pzWVc1ck1YQnZjblE9Lz9ncm91cD1hSFIwY0hNNkx5OTJNbkpoZVhObExtTnZiUT09JnByb3RvcGFyYW09TlRVNU5UWTZNVEV4TVRFeCZyZW1hcmtzPThKK0hxUENmaDdOZlEwNWY1TGl0NVp1OUxUN3duNGV0OEorSHNGOUlTMS9wcHBubXVLOD0=------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
-ss://eyJhZGQiOiJnc212cG4uZ3NtdnguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIxNzM0NWI5LTYyNjYtNDdmMi1hNDczLThjNTdjYmZlOWVmOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwNiIsInBzIjoiQEVzVHVubmVsIC0gUHNpcGhvbitWMnJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://eyJhZGQiOiIxODguMjEyLjk3LjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2NzQxMjdhYi00NWZmLTRlNzItYjZhMC1jMDJmYzE2NDI2OTYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ3ODU3IiwicHMiOiJAQ29uZmlnVjJSYXlORyB8Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+ss://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+ss://eyJhZGQiOiIxMy4yMzEuMjA4LjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJpZCI6IjFhMTdiMTlkLTQ4OTYtNDUzMS1hZjc5LTZlOTFkOGVmODIyOCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODY4NiIsInBzIjoiQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiJiYWlkdS5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
