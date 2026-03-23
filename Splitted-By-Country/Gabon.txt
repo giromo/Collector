@@ -1,8 +1,21 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#@v2rayconfigamir 4037
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#@v2rayconfigamir 6547
-vless://4f2ca3ab-7cd2-4257-871a-2536c20769a7@178.17.59.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=pl.chunkyvpn.shop&alpn=h2#@v2rayconfigamir 4573
-vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 6795
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201?#@v2rayconfigamir 9546
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201?#@v2rayconfigamir 4424
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjE4MC4xNjEuMTIzOjgxMTk=#@v2rayconfigamir 9470
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&type=tcp&flow=xtls-rprx-vision&encryption=none#@v2rayconfigamir 9477
+vless://0f0f568e-de71-4e08-acdd-0865b6cb116c@ww.sansorchi.net:443?sni=5s51da56a8a9.sansorchi.beauty&host=5s51da56a8a9.sansorchi.beauty&type=ws&security=tls&path=/tel/sansorchi_bezan_gheychi_bot&encryption=none#@v2rayconfigamir 6220
+vless://31e3460d-e200-4ea3-a993-4c45f9a6044d@77.42.67.4:8443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.PDuirO86TI_G0f2I0oJEFrbqYddOTMH9LnYN8RZel1Q&security=reality&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&fp=chrome&sni=www.cloudflare.com&sid=f4fa9f410d7134ea&spx=/&flow=xtls-rprx-vision#@v2rayconfigamir 6564
+vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=plcdn6.dramatorg.net#@v2rayconfigamir 3938
+vless://6053689d-39d6-4005-b1bd-c0dce854f429@103.27.157.202:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=7hzTkQJRlSLjoomGf7FWglp3CfmkJngUYZ3JCSX0NxQ&sid=1d1d8128eb137af3&sni=maps.apple.com&path=&host=#@v2rayconfigamir 4086
+vless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 2039
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 1221
+vless://72c1f977-cd56-4c44-b4ba-4330a339cd6b@cdnirtr87.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 9972
 vless://bbef005b-f4ee-4def-be03-f11c1976d84e@plcdn14.melodramaonline.net:443?type=tcp&security=tls&sni=plcdn14.melodramaonline.net#@v2rayconfigamir 1192
+vless://bf263367-bb63-4663-b4a1-34946107a72e@82.22.40.180:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com#@v2rayconfigamir 6286
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@ch2.fastlanehosting.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#@v2rayconfigamir 1292
 vless://cbc2cda0-36b7-4de7-a11d-e73762366e45@de1-ws.xvless.xyz:80?path=/websocket&security=none&encryption=none&host=de1-ws.xvless.xyz&type=ws#@v2rayconfigamir 3783
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram%40V2ray_Alpha/%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=redfree8mahsang6.redfree8.ir&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#@v2rayconfigamir 2256
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@s725.ccgfw.top:443?security=tls&sni=u710297ua16es725.ccgfw.top&allowInsecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#@v2rayconfigamir 5309
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=est15.frostbot.ru&pbk=3u-RoUuzGFtfVwCbUJ4GxAhNUyR6DcyAzeyaSdNXG0A&sid=8c#@v2rayconfigamir 1662
+vmess://e9c4ce52-9a78-4381-b6f8-23350bc4d606@143.198.219.182:80/?type=ws&encryption=auto&path=/v2ray#hichkas نت#@v2rayconfigamir 5722
+vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%3E%3E%40vip_vpn_2022%3A%3AXX
