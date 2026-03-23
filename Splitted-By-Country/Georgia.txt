@@ -1,1 +1,5 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.68.140:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%98%8897%40oneclickvpnkeystrojan://telegram-id-directvpn@13.37.68.140:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%98%8894%40oneclickvpnkeystrojan://telegram-id-privatevpns@13.37.68.140:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%98%8898%40oneclickvpnkeys
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#Germany%20Hetzner
+ss://eyJhZGQiOiIxMDQuMjEuNy4xNjIiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvV80IiwicG9ydCI6IjIwODciLCJpZCI6IjUyMGE1ZjQ1LWQzNTQtNDJmNC1hNjU4LTE4ZGJjMzc1NDY0NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhY2tlbmQuYXBwLWJyb3dzZXIub3JnIiwidGxzIjoidGxzIiwicGF0aCI6Ii9md3MifQ==
+ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Germany%20Hetzner
+trojan://telegram-id-privatevpns@13.36.80.221:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
