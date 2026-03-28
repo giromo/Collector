@@ -1,12 +1,45 @@
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA4OS40Ni4yMzkuMjMxOjk5MA==#@v2rayconfigamir 8499
-vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@vi-38322.webnama.com.tr:1535?type=tcp&headerType=none&security=reality&fp=chrome&sni=stackoverflow.com&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#@v2rayconfigamir 2330
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80/?type=ws&encryption=none&flow=&host=www.ptnk.sry-vpn.com&path=/vless#@v2rayconfigamir 8586
-vmess://e9c4ce52-9a78-4381-b6f8-23350bc4d606@143.198.219.182:80/?type=ws&encryption=auto&path=/v2ray#hichkas نت#@v2rayconfigamir 8326
-vmess://eyJhZGQiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiYWlkIjoiMCIsImhvc3QiOiJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwiaWQiOiJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEB2cG5nYXRlX2NvbmZpZyAjMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?path=%2F&security=none&encryption=none&host=rubika.ir&type=ws#%5B24032%5D+-+Telegram+%3A+%40ConfigRaygan
-vless://1babf197-af69-406e-aae2-83c411ae979f@185.153.182.225:443?security=reality&encryption=none&pbk=VnhQoB3uqFXcnnv8pgb44T7XD9BYoZQs3MnutC0900c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=3ef8cdbc#%5B24012%5D+-+Telegram+%3A+%40ConfigRaygan
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@109.120.140.221:8443?path=%2Ffaq%2Fdetails%2Flive&security=tls&encryption=none&host=edt2.btxst.eu.cc&type=ws&sni=edt2.btxst.eu.cc#%5B24076%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?path=%2Fvless&security=tls&encryption=none&host=g.sandesh.qzz.io&type=ws&sni=g.sandesh.qzz.io#%5B23993%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://1027b850-de79-4a94-b337-eccdac28e141@172.64.155.209:443?path=%2Fvless&security=tls&encryption=none&host=g.sandesh.qzz.io&type=ws&sni=g.sandesh.qzz.io#%5B24009%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#%5B24037%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?path=%2F&security=none&encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&type=ws#%5B24069%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#%5B24061%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#%5B24082%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?&security=false&fp=chrome&type=ws&headerType=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=%2F#%40v2rayconfigamir%209359
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?path=%2F&security=none&encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&type=ws#%5B24088%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%5B24066%5D+-+Telegram+%3A+%40ConfigRaygan
 vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.159.152.20:443?path=%2Fgames%2Fcb%2Falbums&security=tls&encryption=none&host=edt2.btxst.eu.cc&type=ws&sni=edt2.btxst.eu.cc#%5B24071%5D+-+Telegram+%3A+%40ConfigRaygan
-vless://c5f28348-2cd8-4e98-a819-2d5cbc6b9e53@voip9.divar.mom:55009?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#%5B24029%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@173.245.58.244:443?path=%2Factivity%2Ffriend%2Fchannels&security=tls&encryption=none&host=edt2.btxst.eu.cc&type=ws&sni=edt2.btxst.eu.cc#%5B24078%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@8.39.125.114:443?path=%2Ftv%2Fstars%2Fsettings&security=tls&encryption=none&host=edt2.btxst.eu.cc&type=ws&sni=edt2.btxst.eu.cc#%5B24079%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.31.173.158:443?security=reality&encryption=none&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru#%5B24070%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?path=%2F&security=none&encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&type=ws#%5B24064%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://a4ffb383-a334-4075-b7a9-c291e51f827a@temp.myextraordinary.ir:8080?security=none&encryption=none&headerType=none&type=tcp#%5B24046%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=%2F&security=tls&encryption=none&host=rayan-007.nastaran.dpdns.org&type=ws&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#%5B24073%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://b9653688-1470-f844-f106-a12f10fb3517@porttt4.webchipro2.ir:3040?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%5B24053%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@5.182.5.239:443?security=tls&encryption=none&alpn=http/1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%5B24013%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.12.229:2052?path=%F0%9F%94%92&security=none&encryption=none&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&type=ws#%5B24063%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.149.114.75:8443?security=reality&encryption=none&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#%5B24004%5D+-+Telegram+%3A+%40ConfigRaygan
+trojan://strong-secret-pass-777@84.32.9.60:4443?security=tls&headerType=none&type=tcp#%5B23999%5D+-+Telegram+%3A+%40ConfigRaygan
+trojan://telegram-id-directvpn@52.47.80.167:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%5B24023%5D+-+Telegram+%3A+%40ConfigRaygan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007175dsk.cybervena.com:50099#%5B24019%5D+-+Telegram+%3A+%40ConfigRaygan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#%5B24011%5D+-+Telegram+%3A+%40ConfigRaygan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%5B24091%5D+-+Telegram+%3A+%40ConfigRaygan
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=azizoarjmand.info#Bulgaria%20WorkTitans
+ss://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=azizoarjmand.info#Bulgaria%20WorkTitans
+vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201?#@v2rayconfigamir 7395
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAbjhtcmNnMDA1OTU4c3hoLmN5YmVydmVuYS5jb206NTAwOTk=#@v2rayconfigamir 2924
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAbjhtcmNnMDA1OTg2N2ZoLmN5YmVydmVuYS5jb206NTAwOTk=#@v2rayconfigamir 2785
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjk0Mzd4LmN5YmVydmVuYS5jb206NTAwOTk=#@v2rayconfigamir 5101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 8971
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA4OS40Ni4yMzkuMjMxOjk5MA==#@v2rayconfigamir 8499
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 6342
+trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#@v2rayconfigamir 8945
+vless://6c32c1d3-ac95-4622-86fb-204e3557b777@cdntr213.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1096?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@v2rayconfigamir 2221
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 8726
+vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&fp=chrome&type=ws&sni=pardazesh-tgws.pages.dev#@v2rayconfigamir 7159
+vless://b6c0c044-7329-4b40-b342-133d047bf1e2@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=bff6a88f0127&sni=www.microsoft.com#@v2rayconfigamir 9629
+vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?encryption=none&type=ws&security=none&path=/#@v2rayconfigamir 7054
+vmess://a25881f3-967f-3265-bc7f-9e66857b016b@51.81.202.62:80/?type=ws&encryption=auto&host=51.81.202.62&path=/v47-2023unlimitndxd#hichkasنت#@v2rayconfigamir 7292
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2NXNrZzJsOCIsCiAgImFkZCI6ICI3Ny40Mi43Ny42NiIsCiAgInBvcnQiOiA0MDEwMCwKICAiaWQiOiAiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=##@v2rayconfigamir 3784
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ2aXBfdnBuXzIwMjIiLAogICJhZGQiOiAiYXdlLTY0LmYtc3ViLnh5eiIsCiAgInBvcnQiOiAxNzc1OCwKICAiaWQiOiAiYTkwMWQ1MWMtNWE3Yy00ZmExLWM0NGMtMDA5NWVhMjdhZjJjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsC…»#@v2rayconfigamir 4496
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJARGlnaVYycmF5OtqG2YbZhCDZhdinINiv2LEg2KrZhNqv2LHYp9mF8J+HqfCfh6oiLAogICJhZGQiOiAiZnJlZXYycmF5LnYycmF5NC54eXoiLAogICJwb3J0IjogNDQ3MTAsCiAgImlkIjogImVkMmQ4MGMxLTVlN2UtNGExMy04MzI4LThkZmU2ZGFkNWNmYiIsCiAgImFpZCI6IDAsCiA…#@v2rayconfigamir 4479
