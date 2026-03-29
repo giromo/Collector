@@ -1,4 +1,7 @@
-vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sni=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&fp=chrome&type=ws&path=/?ed%3D2560&host=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20http://telegraph.rayan-config.workers.dev/translate
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus |
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.95.176:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=95ec618532fa065e#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
+vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0210
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-0209
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8291
@@ -6,7 +9,7 @@ ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.70:9037#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.70:9010#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4820
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.76-0325
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.54-0324
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20PlanB%20Proxy
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7Eg5py65Zy65o6o6I2QOmRhZmVpLmRlIOazouWFsCAwMSIsImFkZCI6IjE0Ni41OS4xMTguMTgyIiwicG9ydCI6IjQ0MyIsImlkIjoiMGI3MmY0ZjctNTVmMy00ZDgzLTkyYWUtZTM5MWY2NTIzZjQ0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii8iLCJob3N0IjoiMTQ2LjU5LjExOC4xODIifQ==
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#PL-62.112.222.103-0210
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=0&sni=fluent-stingray.crayfish192.xyz#PL-62.112.222.55-0209
 trojan://WF42809561@funky-platypus.rooster465.autos:443?allowInsecure=0&sni=funky-platypus.rooster465.autos#PL-62.112.222.54-0324
@@ -28,12 +31,3 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?allowInsecure=0&sni=top-gos
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.70:9037#PL-217.30.10.70-4819%202
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.70:9010#PL-217.30.10.70-4820%202
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ@217.30.10.70:9044#PL-217.30.10.70-8291%202
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7Eg5py65Zy65o6o6I2QOmRhZmVpLmRlIOazouWFsCAwMSIsImFkZCI6IjE0Ni41OS4xMTguMTgyIiwicG9ydCI6IjQ0MyIsImlkIjoiMGI3MmY0ZjctNTVmMy00ZDgzLTkyYWUtZTM5MWY2NTIzZjQ0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImZwIjoiY2hyb21lIiwicGF0aCI6Ii8iLCJob3N0IjoiMTQ2LjU5LjExOC4xODIifQ==
-vless://14db8096-7800-4cb8-bb52-1856e3b65785@snt1.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=snt1.shahramv1.site#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://ca6e4902-1e1f-11f1-8d30-2ddfba49052f@jsv-ir2.randino.ir:9624?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://b841859d-b59d-42e3-8282-1fa879ad660e@151.101.2.165:80?security=none&amp;type=ws&amp;host=Aqakheylynamardin.net&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B5%F0%9F%87%B1_PL_%E6%B3%A2%E5%85%B0
-vmess://eyJhZGQiOiJpcmFuLmFpdGVhbXBsdXMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhcnplc2gzLmNvbSIsImlkIjoiOGQwMDA4NzUtZGIyZS00NWE1LThlY2MtYzM3NmZkODQ3MmI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-ss://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@upload.ir:2095?type=ws&amp;path=/
-vless://Telegram-BLuev2rayng@www.speedtest.net:8080?path=/Telgram%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=5.WwW.SpeedTEST.NEt.zULa.IR.shopShirvAn.IR.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kopltall_vpn%20%231
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@185.125.103.147:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bsni=wikihow.com&amp%3Bsid=8bd29483ded126b4#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
