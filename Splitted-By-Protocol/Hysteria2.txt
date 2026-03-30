@@ -1,3 +1,4 @@
+hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
 hysteria2://auth@65.109.178.92:443?insecure=1&alpn=h3&sni=cdn.cloudflare.com#%40Hddify
 hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -5,4 +6,3 @@ hysteria2://dongtaiwang.com@195.154.54.131:40022?insecure=1&sni=www.microsoft.co
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1#130.61.50.75%3A6443
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1#62.210.124.146%3A22000
 hysteria2://dongtaiwang.com@195.154.54.131:40022?insecure=1#195.154.54.131%3A40022
-hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
