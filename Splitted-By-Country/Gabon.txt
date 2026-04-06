@@ -1,15 +1,10 @@
+vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 1373
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 9705
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxNDcuNzguMS4yMzA6OTkw#@v2rayconfigamir 2250
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 7640
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZak5qTg@sg09-ss.sshocean.net:1443?plugin=obfs-local;obfs-uri=/;obfs=tls;obfs-host=IsiBugSendiri#@v2rayconfigamir 4607
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 7304
+ss://YWVzLTI1Ni1nY206QjBMUGo@sg-ss-1.sshstores.vip:1443#@v2rayconfigamir 1925
+ss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#@v2rayconfigamir 3185
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#@v2rayconfigamir 2837
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.121:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#@v2rayconfigamir 2909
-vless://4dde0df3-aa67-417c-882e-28beb3886961@usa.pinkweb.one:443?security=reality&sni=usa.pinkweb.one&fp=chrome&pbk=1KcbQU2qtusi8zaFc0sTu_kjwNkBO1SDBGZ6G95ZuDo&sid=2a4b439db2a0dacf&type=tcp&flow=xtls-rprx-vision&encryption=none#@v2rayconfigamir 7260
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.152.254:80?encryption=none&type=ws&security=none&path=/?ed=2048&host=sss.yaml7.ggff.net#@v2rayconfigamir 8653
-vless://6fb65356-788e-4118-8280-148ec6eca18a@104.17.106.12:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip=proxyip.cmliussss.net#@v2rayconfigamir 5181
-vless://9e299679-d096-4da6-ba51-a1a853782c86@87.239.109.191:443?security=reality&sni=max.ru&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&type=tcp&flow=xtls-rprx-vision&encryption=none#@v2rayconfigamir 7501
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#@v2rayconfigamir 6061
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.18.241.114:2095?path=/l25hqs0onbig&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#@v2rayconfigamir 5098
-vless://f8c6e733-54fe-49bc-a35b-87c466c22274@new.idbedam.com:1000?mode=multi&security=none&encryption=none&type=grpc#@v2rayconfigamir 1234
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/#@v2rayconfigamir 7815
+vless://cfc1d40c-6ef8-4b0a-98d6-8bc420d508fc@ww.iwantmoney.ir:8880?security=none&allowInsecure=0&encryption=none&type=ws&path=/#@v2rayconfigamir 4975
