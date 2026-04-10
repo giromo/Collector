@@ -1,7 +1,3 @@
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy```
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-vless://472b07d2-31e4-41ab-ae47-48914d9b7900@termux.net:443?path=%2FNet3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ai.faloweram.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=ai.faloweram.ir#%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%AC%F0%9D%97%AB
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Moft_Vpn
+trojan://telegram-id-privatevpns@13.38.177.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@35.181.184.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
