@@ -1,4 +1,10 @@
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.223:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#v2ray_dalghak
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#v2ray_dalghak
+vmess://eyJhZGQiOiAicHQtbmdpbngtdGVoLWVjZjM5ZDE4YzktcnJodnAuYXBwcy5pci10aHItYmExLmFydmFuY2Fhcy5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGM3NDhiNWQtMjBhNS00NThmLTgyNTYtNGI3OGJiNWViZGM0IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS9kaXJlY3QiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eGIvQWJSTHpWUWgvcUU0R0VndjVZYkJNT2dXNUtWVTlYTDhXdUk3ZXUxRT06TDBmQlpaVmlManJRamlNdUlvS1lJWjNya0dWNEJlOHRET3Nuelh5TVBncz0@netprivacy.mosti.ir:22583#@ghalagyann
+vless://45fbf29e-a75c-4553-9ee5-68bca66b8570@185.143.234.200:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.abrmahanair.com&fp=chrome&path=/?ed=443&host=alef.ir.oadeflantrogm.abrmahanair.com#@ghalagyann
 vless://acccrd-ffb6d3c1-103d-4168-9b75-e1cb5b7212b9.smarteracloud.com:443?mode=stream-one&path=/&security=tls&encryption=none&host=Tp021Y35zT.tRuStFoRtEaM.cOm&type=xhttp&sni=Tp021Y35zT.tRuStFoRtEaM.cOm#@ghalagyann
-vless://f4736a41-f88d-48ff-8eba-75eae3d3c6e0@snapp.ir:80?path=/&security=none&encryption=none&host=emergency.copy5.ir&type=ws#@ghalagyann
+vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@ghalagyann
+vless://b33e48f6-e6aa-435d-8314-939495269d47@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#@ghalagyann
+vless://b44ae505-c68b-4871-9112-8524bb3fc4f5@185.243.48.218:20210?security=none&encryption=none&headerType=none&type=tcp#@ghalagyann
+vless://bbf5a85a-e565-405a-b5f7-b201f7222d8e@vip.gxnetshop.ir:1131?security=none&encryption=none&headerType=none&type=tcp#@ghalagyann
+vless://fafe7971-b3fb-4f99-a9d7-46374153f64e@a-m.iran-mehrbu.ir:3131?security=none&encryption=none&headerType=none&type=tcp#@ghalagyann
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#v2ray_dalghak

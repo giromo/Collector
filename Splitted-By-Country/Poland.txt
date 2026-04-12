@@ -1,10 +1,4 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B5%F0%9F%87%B1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus |
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4815
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.70:9064#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4817
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4823
-ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4821
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-0223
+vmess://eyJhZGQiOiJpcmFuLmFpdGVhbXBsdXMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhcnplc2gzLmNvbSIsImlkIjoiOGQwMDA4NzUtZGIyZS00NWE1LThlY2MtYzM3NmZkODQ3MmI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064#PL-217.30.10.70-4817
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.70:9010#PL-217.30.10.70-4814
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.70:9025#PL-217.30.10.70-4815
@@ -25,26 +19,33 @@ ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.70:9033#PL-217.30.10.70-06
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#PL-217.30.10.18-1286
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#PL-217.30.10.18-0694
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042#PL-217.30.10.18-1112
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4815
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.70:9064#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4817
+ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@217.30.10.70:9053#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4823
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4821
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-0223
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://0548b0ba-dca2-466a-8bff-faa0b0b90cab@shop.bizinesmezon.xyz:31732?security=none&encryption=none&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://06e27e58-997a-499e-9a19-71d4980aaabf@snapp.ir:8080?path=/&security=none&encryption=none&host=download2erfan.sudoserver.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://4ba9a59a-fd53-4fcd-b206-69ce84abd6f2@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=verso.legion-bot.site&type=ws&allowInsecure=0&sni=verso.legion-bot.site#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://0e3aad48-b46c-4899-9026-5913f222a3d0@myrt7rt8e5w5gfdfEerh8.maral-pc.site:442?security=none&encryption=none&host=91.245.229.1&headerType=http&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://2c432e61-9b1e-44bc-ab13-a5d8e104a32a@37.152.189.74:4431?path=/ek/irinn/live/1080p/&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://58e718a5-7adf-48be-a5d1-a1e308b1309f@188.114.98.0:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dlpkg.org#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://6f8277a2-826a-4262-b818-c88a728d7b54@de1.teenogame.space:26604?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://6a26ac1a-074f-4cfb-8917-e611a9fc93d3@turk-shop.runawaygablo.site:39854?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://852a7161-7240-45e3-86fa-5ee2edb08350@video.ir.temas-lomat.ir:80?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://a579ecd6-8767-422c-87e8-932c4a1af84f@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://b0220369-51bf-45fb-962f-b302634b69d4@snapp.ir:80?path=/&security=none&encryption=none&host=arc.liarashop.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@81.19.141.96:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&type=tcp&headerType=none#
+vless://c3319fd7-627b-4ac2-a883-0bee53d15757@snapp.ir:80?path=/&security=none&encryption=none&host=arc.liarashop.ir&type=ws#⚡Telegram = @prrofile_purple
+vless://c71b2a75-cb1d-452f-b85b-8918c76d5f6a@151.101.192.223:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&type=xhttp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://d21c4967-1d64-4856-9b85-e803bd34460e@outpanel.vipdamdam.ir:3333?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://d2f66ace-8e0e-4cd4-bafe-d6a126bcd127@star.fast-uploader.net:6004?security=none&encryption=none&host=cafeariel.ir&headerType=http&fp=chrome&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
-vless://e5933eb3-2aa8-4f20-b622-92677bf618f8@snapp.ir:443?path=/&security=tls&encryption=none&insecure=0&host=cdn.siilaam.online&fp=chrome&type=ws&allowInsecure=0&sni=info.siilaam.online#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@104.18.12.149:2053?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=1&host=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com&type=xhttp&allowInsecure=1&sni=itfgnf-hkjkhfmhghf-hjmngb.infinitecreativehorizons.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://f08fd73b-6ec6-4bc5-80ec-34d3fa6cc6d5@1.9.reflecion.shop:35116?security=none&encryption=none&headerType=none&type=tcp#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://f8ba32b4-0c40-49ed-a895-f9b07c51114f@104.18.13.149:443?path=t.me/TEAMNETGRATISCOLTXT&security=tls&encryption=none&insecure=0&host=x.mtt1.xyz&type=ws&allowInsecure=0&sni=x.mtt1.xyz#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://fbd73a5f-3ed7-49d3-8649-55af03dc36cb@snapp.ir:80?path=/FIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://Telegram-BLuev2rayng@www.speedtest.net:8080?path=/Telgram%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=5.WwW.SpeedTEST.NEt.zULa.IR.shopShirvAn.IR.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kopltall_vpn%20%231
-vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ3ZWJzaGVjYW5pcjIuc3ltb2RpLm1sIiwiaWQiOiJiYzllOTVhMC0wNWVlLTRiNmQtOWUwNS1jODMwNzU0NTM5M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbnFocHRMYW9QUWVTIiwicG9ydCI6IjIwNTMiLCJwcyI6IuKchSBAU2hhZG93U29ja3NfUyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3ZWJzaGVjYW5pcjIuc3ltb2RpLm1sIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=🔰
+vless://84dc085d-1677-4a74-ad3a-44a731bc6400@varzesh3.com:80?path=/private&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=cas.xo-connection.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmE2YTM3ZC04NzE1LTQ0MGQtOTQyYS1hM2U2YzIzYTkyOTA@xgrr.sdnlv0.cn:42295#%3E%3E%40v2nodes%3A%3APL
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
-vless://5238a315-4427-4915-a1de-4978e3029a1c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%3E%3E%40prrofile_purple%3A%3AUS
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%F0%9F%87%B5%F0%9F%87%B1PL-57.128.214.100-0378
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-8243
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#برای اتصال دائمی جوین شو🗾 prrofile_purple@
+trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://a02f6161-ed4a-4b27-afa8-d2cbf34d69b4@213.165.39.93:44217?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40prrofile_purple%3A%3ADE
