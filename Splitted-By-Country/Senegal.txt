@@ -1,8 +1,5 @@
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%20`
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F#_%E4%BC%8A%E6%9C%97%204
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2#_%E4%BC%8A%E6%9C%97%205
-trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29• برای قطع کردن اتصال کافیه در ترموکس دکمه CTRL و دکمه C در کیبورد گوشیتون رو بزنید و سرور V2ray هم داخل برنامه قطع کنید. برای اتصال مجدد فقط کافیه دستور SNI رو دوباره در ترموکس وارد کنید و اینتر بزنید که اجرا بشه یعنی این دستور:snispf -l 0.0.0.0:40443 -c 104.16.80.73 -s static.cloudflareinsights.comو بعد v2ray رو روشن کنید موفق باشید❤️🔰 @PewezaVPN
-vless://63e7247a-83e8-4149-9c76-46f9703de759@snapp.ir:8080?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#@Moft_Vpn
-trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@13.39.249.232:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@15.224.47.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A5
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A511
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A515
