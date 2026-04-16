@@ -24,8 +24,3 @@ vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=/&security=tls&
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=kamalnet.pages.dev&path=/&sni=kamalnet.pages.dev&fp=chrome#@icv2ray
 vless://ed290a04-7a00-41e0-a410-5cd9888e4f1d@37.152.189.74:4431?path=/ek/irinn/live/1080p/&security=&encryption=none&host=live-azd1102.telewebion.ir&type=ws#@icv2ray
 vless://f41889e1-d40c-4634-9e24-6fc9457b20dc@vip3-nightgemshop.sap-tanbol.ir:80?path=/&security=&encryption=none&host=vip3-nightgemshop.sap-tanbol.ir&type=ws#@icv2ray
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#@icv2ray
-vless://651a858c-2975-4b96-96b7-82745b38714c@172.64.152.23:443?path=/WITH_CHACHA20_POLY1305_SHA256&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=api.frest.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.frest.ir#@icv2ray
-vless://9d9416b4-3cbc-4e45-9885-417b177b9376@snapp.ir:80?path=/&security=none&encryption=none&host=Darxhinteam.bravo-six.ir&type=ws#@icv2ray
-vless://d8df9d97-f195-443d-81c7-78801ec7d091@camp.nahidapp.com:443?path=/verso&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#@icv2ray
-vless://ebdb70b9-155a-419e-8bdf-d2834c3ff9c0@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@icv2ray
