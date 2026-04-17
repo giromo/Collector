@@ -33,8 +33,4 @@ vless://eabbf2d5-20e6-4808-925e-94004522ee88@2.144.2.196:11620?security=none&enc
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=/&security=tls&encryption=none&insecure=0&host=kamalnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kamalnet.pages.dev#@icv2ray
 vless://ecda1365-b701-4a2c-847b-1e6dd1d6d08a@193.151.134.247:42168?type=ws&path=/&security=none#@icv2ray
 vless://eff7f741-5bbd-46ae-bf5d-d49a6d27a682.ir:80?path=/&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#@icv2ray
-vless://7255f5e1-974f-49c6-afd9-85edd616664f@m.1-gamegame.com:2222?security=none&type=tcp&headerType=&path=&host=#@icv2ray
-vless://9dcba3ab-b118-4143-b44b-de00366bdf70@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=cn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=cn.8lack.ir@@powerro#@icv2ray
-vless://9dcba3ab-b118-4143-b44b-de00366bdf70@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=dn.8lack.ir@@powerro#@icv2ray
-vless://9dcba3ab-b118-4143-b44b-de00366bdf70@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=en.8lack.ir@@powerro#@icv2ray
-vless://9e115284-cb15-4386-a408-c2e7da4881e4@185.143.233.235:80?encryption=none&type=ws&path=/&host=vixon.portab.org#@icv2ray
+vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?path=/chat?ed&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@icv2ray
