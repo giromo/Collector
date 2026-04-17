@@ -1,7 +1,10 @@
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A545
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh63wn4e6XSBbdm0tbm8td3NdIFsyNjA0MTYtMTQyMDEzLjcyOV0iLCJhZGQiOiJwcS1odW5nYXJ5MS4wOXZwbi5jb20iLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAzZjcyMmEtNGJkZi00ZTlkLTlhZmQtYTY4MWZkZjg3Yzc0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJob3N0IjoicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwidGxzIjoiIn0=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#@DigiHubAI
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A543
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#telegram: @hupivpn
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=/ @ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#telegram: @hupivpn
+vless://5bcfacea-d69c-4e38-9007-80871db80567@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#telegram: @hupivpn
+vless://5f3e43b0-6678-4c2c-a3b0-77e1e2ed9c28@185.143.234.235:80?path=/&security=none&encryption=none&host=vixon.portab.org&type=ws#telegram: @hupivpn
+vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&type=ws&allowInsecure=0#telegram: @hupivpn
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=/&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#telegram: @hupivpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?path=/?ed=2560&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@DigiHubAI
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AY29uZmlnc2h1YjI6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6Ok5MOjpOTDo6Tkw6OlhYOjpOTDo6TkwiLCJhZGQiOiJ2MzAuaGRhY2QuY29tIiwicG9ydCI6IjMwODMwIiwidHlwZSI6ImF1dG8iLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MzAuaGRhY2QuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=webassets.cafebazaar.ir#telegram: @hupivpn
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#%3E%3E%40configshub2%3A%3AXX
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiI+PkBjb25maWdzaHViMjo6SEs6OkhLOjpISzo6SEs6OkhLOjpISzo6SEs6OkhLOjpISzo6SEsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
