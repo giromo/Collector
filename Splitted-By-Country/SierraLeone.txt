@@ -1,2 +1,1 @@
-vless://c2bf8051-3fce-4e16-b10c-ca15176136b5@fuckrc.enhanzy.com:443?encryption=none&amp;type=tcp#@vasl_bashim
-vless://9a58741b-b9d2-41d6-9910-d5ea4fce6139@185.143.233.5:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=dn.8lack.ir&amp;path=/chat?ed%3D128&amp;sni=dn.8lack.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#@vasl_bashim
+vless://651a858c-2975-4b96-96b7-82745b38714c@8.6.112.0:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2FWITH_CHACHA20_POLY1305_SHA256&amp;host=api.frest.ir&amp;sni=api.frest.ir&amp;alpn=http%2F1.1&amp;fp=chrome&amp;allowInsecure=1#@vasl_bashim
