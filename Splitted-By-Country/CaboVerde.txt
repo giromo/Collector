@@ -33,11 +33,3 @@ vless://f667f7f1-6794-4918-8aca-d3b2401ede5c@snapp.ir:80?path=/?ed=2080&security
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=/&sni=webassets.cafebazaar.ir&allowInsecure=1#@icv2ray
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=webassets.cafebazaar.ir#@icv2ray
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&type=ws&sni=webassets.cafebazaar.ir#@icv2ray
-vless://3163b8fc-de27-48a3-a736-7c117e574ce8@mlh.mynethub99.top:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mlh.mynethub99.top#@icv2ray
-vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=an.8lack.ir&sni=an.8lack.ir&fp=chrome&alpn=h2,http/1.1#@icv2ray
-vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=dn.8lack.ir&sni=dn.8lack.ir&fp=chrome&alpn=h2,http/1.1#@icv2ray
-vless://46144235-a781-49bd-82ce-4ed4c979e863@185.143.233.5:443?encryption=none&security=tls&type=ws&headerType=none&path=/chat?ed=128&host=en.8lack.ir&sni=en.8lack.ir&fp=chrome&alpn=h2,http/1.1#@icv2ray
-vless://4b7ae2ae-0220-4c72-a4e7-fc252415108a@arvan2.un1ty.ir:80?encryption=none&type=ws&path=/&allowInsecure=1#@icv2ray
-vless://5bcfacea-d69c-4e38-9007-80871db80567@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@icv2ray
-vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=webassets.cafebazaar.ir#@icv2ray
