@@ -35,3 +35,6 @@ vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&
 vless://ef5f7313-9505-4c37-a263-06c182846825@188.213.198.239:52420?security=none&encryption=none&headerType=http&type=tcp#@icv2ray
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=/&sni=webassets.cafebazaar.ir&allowInsecure=1#@icv2ray
 vmess://eyJhZGQiOiJwdC1uZ2lueC10ZWgtZWNmMzlkMThjOS1ycmh2cC5hcHBzLmlyLXRoci1iYTEuYXJ2YW5jYWFzLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFiZGRiNWJhLWQ4ZDMtNDQ1Zi1kOGQxLTk1ZWI2ZTUwMWZhNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvZGlyZWN0IiwicG9ydCI6IjQ0MyIsInBzIjoiQGljdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://4bef3438-d590-4d6c-b23c-7ecaaf17b156@127.0.0.1:1010?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
+vless://8fb96bb9-431a-4c42-8175-ce1704edd706@aparatrat1.info:2083?type=tcp&security=none#@icv2ray
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=webassets.cafebazaar.ir#@icv2ray
