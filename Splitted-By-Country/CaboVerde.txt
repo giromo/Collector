@@ -1,3 +1,4 @@
+ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXlNakUlM0QmcHJvdG9wYXJhbT0=
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#@icv2ray
 vless://05c97cf0-698f-4a04-b2a8-8717b3556cec@37.152.189.74:4431?path=/ek/irinn/live/1080p/&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#@icv2ray
 vless://1b3bccff-54cc-4840-9e8a-5bcd42f04553@NullNetwork.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
@@ -31,9 +32,9 @@ vless://d8f0af7a-33e0-47e4-83a3-da4613862cef@arvancloud.ir:80?path=@TunizoNET&se
 vless://e7802e78-4263-406e-b863-193edc132e53@snapp.ir:80?type=ws&security=none&host=fonix.packvps.ir&path=/#@icv2ray
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=/&sni=webassets.cafebazaar.ir&allowInsecure=1#@icv2ray
 vmess://eyJhZGQiOiJwdC1uZ2lueC10ZWgtZWNmMzlkMThjOS1ycmh2cC5hcHBzLmlyLXRoci1iYTEuYXJ2YW5jYWFzLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFiZGRiNWJhLWQ4ZDMtNDQ1Zi1kOGQxLTk1ZWI2ZTUwMWZhNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvZGlyZWN0IiwicG9ydCI6IjQ0MyIsInBzIjoiQGljdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://8e532ded-2216-453b-9281-fe5a45d4236b@185.143.233.5:443?path=/voip&security=tls&encryption=none&insecure=1&host=pishparda.ir&fp=chrome&type=ws&allowInsecure=1&sni=isna.ir#@icv2ray
-vless://9dcba3ab-b118-4143-b44b-de00366bdf70@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@icv2ray
-vless://9dcba3ab-b118-4143-b44b-de00366bdf70@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=en.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=en.8lack.ir@@powerro#@icv2ray
-vless://d5ac69a7-d886-4efd-85cc-39ec67363e94@luna.5on.ir:8880?path=/&security=&encryption=none&host=luna.5on.ir&type=ws#@icv2ray
-vless://e1dc143a-8dfa-4de9-a627-9df1b1282921@pablo.kaktusmarket.ir:80?path=/&security=&encryption=none&type=ws#@icv2ray
-ssr://c3NjYS5pcnVuZG5zLm5ldDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfcG9zdDpKQ1JVZFhKaU1GWlFUaVFrLz9vYmZzcGFyYW09JnJlbWFya3M9OEolMkJIcVBDZmg2WkRRUzAwTlM0eE5UUXVNakEwTGpFekxUQXlNVFklM0QmcHJvdG9wYXJhbT0=
+trojan://telegram-id-v2rayvpnchannel@13.38.210.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@icv2ray
+vless://3f20075c-a1f0-4d4c-b45c-7cdc8332484d@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
+vless://4c0f1ca1-381a-48ca-a805-2063a80e200f@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@icv2ray
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@franklinandwillow.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=/&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#@icv2ray
+vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?encryption=none&type=tcp&security=none#@icv2ray
+vless://afc9ee95-1d3f-4abd-968d-7230a34fdfbd@packetnet.vianabeauty.ir:45359?type=tcp&security=non#@icv2ray
