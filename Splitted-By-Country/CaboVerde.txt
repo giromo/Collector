@@ -27,3 +27,6 @@ vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=/&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#@icv2ray
 vless://f667f7f1-6794-4918-8aca-d3b2401ede5c@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#@icv2ray
 vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&type=ws&security=tls&path=/&sni=webassets.cafebazaar.ir&allowInsecure=1#@icv2ray
+vless://360ae1cc-71f7-4019-9c49-9be6bc812ad6@tr2.masterdadeh.ir:80?type=ws&security=none&path=/#@icv2ray
+vless://420e2e32-95d1-43b1-a971-6a9fe27db106@185.143.233.5:443?encryption=none&type=ws&host=an.8lack.ir&path=/chat?ed=128&security=tls&fp=chrome&sni=an.8lack.ir&alpn=h2,http/1.1#@icv2ray
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@icv2ray
