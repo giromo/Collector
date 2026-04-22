@@ -1,8 +1,4 @@
-vless://1de37726-744b-46e1-9101-c926b3402e82@104.17.72.206:80?security=none&encryption=none&host=v2.v2configlab.workers.dev&type=ws#Psiphon-@V2rayAlpha--12
-vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 19
+vless://22c71398-f576-4608-8b1f-b65badde088b@africa.visa.com:443?security=tls&sni=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&fp=chrome&type=ws&path=/?ed%3D2560&host=rAYAN108-WzqDnd-3.RAyan-108.workERs.DEV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20http://telegraph.rayan-config.workers.dev/translate
 vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#@i10VPN - Psiphon 21
-vless://78925179-4f42-4b0f-ad88-a6c8baecd1dd@87.248.154.8:14774?security=none&encryption=none&headerType=none&type=tcp#Psiphon-@V2rayAlpha--8
-vless://8adf1bd9-c0f9-45e2-ac98-f2d5ed16b439@194.48.198.140:53994?security=none&encryption=none&headerType=none&type=tcp#Psiphon--@V2rayAlpha--39
-vless://Telegram-Parsashonam@dash.cloudflare.com:443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#Psiphon--@V2rayAlpha--21
-vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=/vless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#@i10VPN - Psiphon 22
-vless://fc7132e6-6943-424c-84bc-adbb60398a93@snapp.ir:80?path=/app1&security=none&encryption=none&host=cdn.yeksanstudio.ir&type=ws#@V2rayAlpha-7
+vless://5d5cff09-b646-46f0-8e2b-3e510f660e37@vpn.ulteracrypto.site:34303?security=none&encryption=none&headerType=none&type=tcp#Psiphon-@V2rayAlpha-7
+vless://e139566b-3a6b-4bdc-a106-4bed64e12666@Dot.psdgold.st:51636?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha-5
