@@ -1,8 +1,7 @@
-vless://a2aa9012-57c4-4e7f-9a1d-018ed0292f2b@snapp.ir:80?encryption=none&host=trx.noventa.ir&path=/&security=none&type=ws#@electvpn0
-vmess://eyJhZGQiOiI0NS44NS4xMTguNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ3ZWJzaGVjYW5pcjIuc3ltb2RpLm1sIiwiaWQiOiJiYzllOTVhMC0wNWVlLTRiNmQtOWUwNS1jODMwNzU0NTM5M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbnFocHRMYW9QUWVTIiwicG9ydCI6IjIwNTMiLCJwcyI6IuKchSBAU2hhZG93U29ja3NfUyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3ZWJzaGVjYW5pcjIuc3ltb2RpLm1sIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=🔰
-trojan://telegram-id-directvpn@35.156.70.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@3.72.140.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@15.224.33.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@15.237.12.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@18.193.0.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@15.224.68.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@13.39.190.72:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@18.194.103.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@15.224.52.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@63.182.246.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?encryption=none&type=tcp&headerType=none#@electvpn0
+vless://cf9f1dfb-24c7-417e-b2ad-48580f47590a@dai.wikm.ir:41366?encryption=none&type=tcp&headerType=none#@electvpn0
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAdnBuZmFpbF9uZXdzIHFnaGl0dmJ2IiwKICAiYWRkIjogIjEwNy4xODkuNy4xNzYiLAogICJwb3J0IjogNTM0NjksCiAgImlkIjogIjY1NDI1ZDg3LTRhOWMtNGUwZS1iNThjLTIwY2IwNDI2ZjJiOSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiIiwKICAiZnAiOiAiY2hyb21lIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ==
