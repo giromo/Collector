@@ -1,18 +1,11 @@
-trojan://telegram-id-directvpn@3.75.103.136:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://1234567890@104.20.6.134:443?ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/&sni=kfm-bn0.pages.dev&type=ws#@electvpn0
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#@electvpn0
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#@electvpn0
-vless://3ff87a9a-305d-4723-9c9e-88b8a7796d41@blubank.sb24.ir:8080?security=&encryption=none&host=networkex.onyxshoes.ir&type=ws#@electvpn0
-vless://4d53b169-1265-4f48-8188-fabbee85e8b6@104.20.6.134:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@electvpn0
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=/&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#@electvpn0
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:8443?path=/?Telegram @v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@electvpn0
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&host=y6-3cj.PAgES.DEV&path=/&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#@electvpn0
-vless://ff48a61e-92ed-4402-9921-3640fb9cfcfd@104.20.6.134:8443?mode=auto&path=/data&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#@electvpn0
+trojan://telegram-id-directvpn@13.36.179.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@13.39.77.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@3.72.140.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@35.157.155.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@35.181.84.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@15.237.12.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@15.224.52.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAdnBuZmFpbF9uZXdzIHFnaGl0dmJ2IiwKICAiYWRkIjogIjEwNy4xODkuNy4xNzYiLAogICJwb3J0IjogNTM0NjksCiAgImlkIjogIjY1NDI1ZDg3LTRhOWMtNGUwZS1iNThjLTIwY2IwNDI2ZjJiOSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiIiwKICAiZnAiOiAiY2hyb21lIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ==
+vless://8cccedd4-6b18-4216-8d1d-7fb6b892c109@rfiksma.top:41051?encryption=none&type=tcp#@electvpn0
 vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=electvpn0&security=tls&encryption=none&insecure=0&host=mamadmiagmms-six.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#@electvpn0
 trojan://BxceQaOe@219.79.214.159:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#Hong%20Kong%20Netvigator
-vless://3b56b9f9-b4d5-407a-b0d4-7718dc22a38c@92.42.207.97:8443?encryption=none&type=tcp&headerType=none#@electvpn0
-vless://55e9c531-83cd-4122-8cba-3b9b9e37f1a2@seyyed.nahidapp.com:443?encryption=none&type=ws&security=tls&path=/vless-ws&host=seyyed.nahidapp.com&sni=seyyed.nahidapp.com&fp=chrome&allowInsecure=1#@electvpn0
-vless://7133859b-a56e-4d08-9eeb-c1e8ce641219@arvan.mizbanertebatfarda.ir:8080?path=/&security=&encryption=none&host=arvan.mizbanertebatfarda.ir&type=ws#@electvpn0
-vless://8cccedd4-6b18-4216-8d1d-7fb6b892c109@rfiksma.top:41051?encryption=none&type=tcp#@electvpn0
-vless://df941dbe-97f5-4cc3-9fc2-eedc9306d594@snapp.ir:8880?encryption=none&type=ws&path=/w&host=p.mofidserver.ir#@electvpn0
-vless://e4842be5-e2eb-4782-ade5-8df9efe7872a@snapp.ir:8880?encryption=none&type=ws&path=/razstarlocal&host=p1.razstar.ir#@electvpn0
