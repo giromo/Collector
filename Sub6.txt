@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=dn.8lack.ir#Psiphon--@V2rayAlpha-10
 vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#[41779] - Telegram : @V2All
 vless://7fb5fcb6-c8fa-48e4-8757-f8731a3c3030@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xohiyok250.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xohiyok250.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xohiyok250.workers.dev#4  🇩🇪 @V2ngFast
 vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti
@@ -502,3 +501,4 @@ vless://26524cce-d514-4014-a426-365fb266a14d@188.166.98.106:2096?allowInsecure=0
 vless://26524cce-d514-4014-a426-365fb266a14d@150.230.214.172:16957?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#[41795] - Telegram : @V2All
 vless://26524cce-d514-4014-a426-365fb266a14d@138.124.111.115:443?&security=tls&fp=chrome&sni=mug.support.gfw.hidns.co&type=ws&headerType=none&host=mug.support.gfw.hidns.co&path=/danfeng?ed=2560#[41772] - Telegram : @V2All
 vless://26524cce-d514-4014-a426-365fb266a14d@119.193.103.8:16993?&security=tls&fp=chrome&sni=mug.support.gfw.hidns.co&type=ws&headerType=none&host=mug.support.gfw.hidns.co&path=/danfeng?ed=2560#[41811] - Telegram : @V2All
+vless://26524cce-d514-4014-a426-365fb266a14d@104.20.6.134:443?path=/danfeng&security=tls&encryption=none&insecure=1&host=snippet.danfeng.rr.kg&type=ws&allowInsecure=1&sni=snippet.danfeng.rr.kg#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
