@@ -1,17 +1,5 @@
 trojan://ba62c023f9bce796ae334fecb20ef7cc@54.46.53.46:49559?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://BxceQaOe@43.199.41.19:4203?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://26524cce-d514-4014-a426-365fb266a14d@154.26.180.96:15643?allowInsecure=0&sni=k.3.x.8.p.0.q.m.2.z.a.7.c.v.y.1.b.h.e.5.q.e.1.z.9.gfw.qzz.io&alpn=http/1.1&type=ws&host=k.3.x.8.p.0.q.m.2.z.a.7.c.v.y.1.b.h.e.5.q.e.1.z.9.gfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2003%20TG%3A%20%40nodpai
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@173.245.58.46:2053?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chromesecurity=tls#D%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2027%20TG%3A%20%40nodpai
-vless://26524cce-d514-4014-a426-365fb266a14d@20.191.143.151:8080?sni=snippet.danfeng.com.cfd&type=ws&host=snippet.danfeng.com.cfd&path=/danfeng?ed=2560security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.3MB/s
-vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@sg2-r.link-t7.com:10037?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.2MB/s
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.96:2096?allowInsecure=0&sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.1MB/s
-vless://26524cce-d514-4014-a426-365fb266a14d@146.190.234.20:2053?&security=tls&fp=chrome&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&headerType=none&host=xfxl35a.node-edge.gfw.hidns.co&path=%2Fdanfengfp%3Dchromeflow%3D-udp443#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?&security=tls&fp=chrome&sni=sni.111000.dns.army&type=ws&headerType=none&host=sni.111000.dns.army&path=%2F%3Fed%3D2560#SG_3%7C1.4MB%2Fs
-ss://YWVzLTI1Ni1nY206N0dhUUlNNHE4NHNMbmhxUUo4bUxxYjBLYmREbUJXeEtQYVhhNTl0Rlh0Zw@165.22.111.31:8388#SG-165.22.111.31-0880
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#SG-194.233.94.119-0288
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#SG-194.233.94.119-0931
-trojan://39edcbab-49dd-4326-9f77-305c2e45d45c@svip-sg.xiaobaivpn.icu:28815?security=tls&sni=svip-sg.xiaobaivpn.icu#🇸🇬[openproxylist.com]trojan-SG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%F0%9F%87%B8%F0%9F%87%ACSG-38.89.142.56-0271
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:805#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:810#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0166
@@ -53,13 +41,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:809#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:807#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:801#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0134
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:800#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.138-0133
-vmess://ewogICAgImFkZCI6ICIyMDIuNzkuMTYxLjE4OCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDIuNzkuMTYxLjE4OC0wOTk2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%3E%3E%40v2ray_configs_pool%3A%3ASG
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%3E%3E%40configshub2%3A%3ASG
+vless://26524cce-d514-4014-a426-365fb266a14d@151.242.165.13:443?type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfengsecurity=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@83.229.121.78:8443?sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=/fp=chromefp=chromesecurity=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2004%20TG%3A%20%40nodpai
+vless://26524cce-d514-4014-a426-365fb266a14d@59.10.207.70:23424?allowInsecure=0&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?ed=2560fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2013%20TG%3A%20%40nodpai
+vless://26524cce-d514-4014-a426-365fb266a14d@158.255.208.87:8443?allowInsecure=0&sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?ed=2560fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2015%20TG%3A%20%40nodpai
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.41.175:2087?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2024%20TG%3A%20%40nodpai
+vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@sg2-r.link-t7.com:10037?sni=s0.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C2.1MB/s
+vless://09213C69-2971-449A-8DC6-6C3B738E9D77@sg3-r.link-t7.com:10038?sni=d1.awsstatic.com&type=grpc&serviceName=update&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.8MB/s
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5py65Zy65o6o6I2QOmRhZmVpLmRlIOaWsOWKoOWdoSAwMyIsImFkZCI6InY0NS5oZGFjZC5jb20iLCJwb3J0IjoiMzA4NDUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiY2hyb21lIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?&security=tls&fp=chrome&sni=sni.111000.dns.army&type=ws&headerType=none&host=sni.111000.dns.army&path=%2F%3Fed%3D2560#SG_3%7C1.4MB%2Fs
+ss://YWVzLTI1Ni1nY206N0dhUUlNNHE4NHNMbmhxUUo4bUxxYjBLYmREbUJXeEtQYVhhNTl0Rlh0Zw@165.22.111.31:8388#SG-165.22.111.31-0880
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#SG-194.233.94.119-0288
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#SG-194.233.94.119-0931
 vmess://eyJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJ2IjoyLCJwcyI6IvCfh7jwn4esX1NHX+aWsOWKoOWdoV83IiwicG9ydCI6IjgwODAiLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwicGF0aCI6Ii8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+vmess://ewogICAgImFkZCI6ICIyMDIuNzkuMTYxLjE4OCIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0yMDIuNzkuMTYxLjE4OC0wOTk2IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.237.20:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%3E%3E%40v2ray_configs_pool%3A%3ASG
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVpnOfficial%3A%3ASG
