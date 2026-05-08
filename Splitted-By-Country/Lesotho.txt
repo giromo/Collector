@@ -1,22 +1,18 @@
-vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkBpMTBWUE4g8J+agHwg2KjYpyDZhdinINmF2KrYtdmEINio2YXZiNmG4pqhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy```
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%E2%9A%A1Telegram%20%3D%20%40KIA_NET```
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@cf-cname.xingpingcn.top:2096?&security=tls&fp=chrome&sni=gogo.kmj.qzz.io&type=ws&headerType=none&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088#189
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A533
-ss://YWVzLTI1Ni1nY206YzUzNjI3OGItZGVhOS0zNDBlLTg1YjYtOGE1MmZkYjBmMmE2@125695390159.international-ixp.com:11613?#@Va3lSho
-ss://YWVzLTI1Ni1nY206ZjFiOWYzZjktMmEwYi0yNTFlLWUwYTUtOGE3MGEwZDg4ODk2@227843245158.international-ixp.com:11602#@FastNetTools
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2Line
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&insecure=1&host=apii.onlineshoppingez.ir&type=ws&allowInsecure=1&sni=apii.onlineshoppingez.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
+trojan://telegram-id-privatevpns@35.181.209.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A55
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A534
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A535
 vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=/xray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#@vaslshiiimm
-vless://107210d6-3746-4e48-b785-407f381a0a62@185.143.235.253:443?encryption=none&security=tls&sni=dl2.farsdroid.site&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=grpc#@Va3lSho
-vless://10b2dfb7-6cc3-450b-809c-c4d0ae73d77d@camp.nahidapp.com:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&host=camp.nahidapp.com&path=/IF_VPN_Bot#@Va3lSho
-vless://11bd252f-0221-4d7b-b26f-1849b507251d@trex.nahidapp.com:443?encryption=none&security=tls&sni=trex.nahidapp.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=trex.nahidapp.com&path=/vless-ws#@Va3lSho
-vless://13d012d2-16fd-48c3-92b4-571dacf610f8@snapp.ir:80?encryption=none&security=none&type=ws&host=simorgh.darerio.ir&path=/#@Va3lSho
-vless://19f186ea-47b4-4392-af52-88618ccd9ae8@vip7.freepath.ir:45807?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=vip7.freepath.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=vip7.freepath.ir#@FastNetTools
 vless://1bfba457-f37a-45e6-a7e3-3704b06f71c6@snapp.ir:2087?encryption=none&security=tls&sni=01team.no1plus.ir&fp=chrome&alpn=h2,http/1.1,h3&insecure=0&allowInsecure=0&type=ws&host=01team.no1plus.ir&path=/#@Va3lSho
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?encryption=none&security=none&type=ws&host=sr.novatechsapr.ir&path=/#@Va3lSho
 vless://30ef41bc-4529-430f-bc8e-89b732df3fd3@snapp.ir:80?encryption=none&security=none&type=ws&host=fdcluma-c0a1c-fbc-4c77-60c.lezzalivo.ir&path=/#@Va3lSho
 vless://3eeb1bff-5d48-4697-a48a-b476bf4e5830@snapp.ir:80?encryption=none&security=none&type=ws&host=novin3.deltamarket8.ir&path=/#@Va3lSho
 vless://56b68bf9-c0c3-42bf-b485-5766f431f068@arvancloud.ir:80?encryption=none&security=none&type=ws&host=ri.amirenzohost.ir&path=@TunizoNET#@Va3lSho
-vless://810e5833-e1b4-546b-8332-2368440e63f5@snapp.ir:8880?path=/vless&security=none&encryption=none&host=asal.kalak.ca&type=ws#@FastNetTools
-vless://8b14eb34-523d-4973-b59e-ce6885323983@st.picdev.online:56710?encryption=none&security=none&type=tcp&headerType=none#@Va3lSho
-vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#@FastNetTools
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
-trojan://telegram-id-privatevpns@15.224.94.238:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+vless://724f22d0-e641-4b2e-8518-429be3efcdc2@snapp.ir:443?path=/newbelahbelah&security=tls&encryption=none&alpn=h2,http/1.1&host=nia.ramlike.ir&fp=chrome&type=ws&sni=nia.ramlike.ir🌐 tel : @v2ray_unit
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=/&security=tls&encryption=none&type=ws&sni=webassets.cafebazaar.ir🌐 tel : @v2ray_unit
+trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.19.43.14:2096?&security=tls&fp=chrome&sni=gogo.kmj.qzz.io&type=ws&headerType=none&host=gogo.kmj.qzz.io&path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088#209
