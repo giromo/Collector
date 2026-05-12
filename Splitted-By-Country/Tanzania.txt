@@ -1,3 +1,6 @@
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1#78.159.131.12%3A28259
+vless://3c505667-449e-4ec7-b1f4-617aa68c5454@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@NetZone_ir
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?path=/&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@NetZone_ir
 vless://a864c0ea-a2ab-4328-b1f8-e094f6b1be29@37.202.246.113:443?security=none&encryption=none&headerType=none&type=tcp#@NetZone_ir
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Germany%20Hetzner
+ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#Germany%20Hetzner
+vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=/&security=none&encryption=none&type=ws#@NetZone_ir
