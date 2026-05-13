@@ -26,3 +26,8 @@ vless://d9ae4879-27cf-4fed-90aa-3a606eaab4bc@snapp.ir:80?path=/&security=none&en
 vless://eae003a0-42b9-4e42-96a7-2f1223520ab5@ultranecctestusa.fqservershop.com:51395?type=tcp&security=none#@icv2ray
 vless://f9f57c0b-b473-4fe9-8603-21e42613be04@Sid.ir:80?security=none&type=ws&headerType=&path=/cdn&host=dl4.movizdl.ir#@icv2ray
 vless://f9f57c0b-b473-4fe9-8603-21e42613be04@snappfood.ir:8880?security=none&type=ws&headerType=&path=/cdn&host=dl4.movizdl.ir#@icv2ray
+vless://6bbccb5c-97bb-4856-a0a2-032f632bc66e@org17.okala.click:55017?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.digikala.com&sid=c385#@icv2ray
+vless://8c79b452-cd58-4f35-a1a7-b37fe798c821@185.143.233.5:2083?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#@icv2ray
+vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?mode=stream-one&path=/&security=none&encryption=none&host=zeroemergency.qpax.ir&type=xhttp#@icv2ray
+vless://97aaeab2-f8a7-4ec7-b9e2-c5cac9559083@snapp.ir:80?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
+vless://d13d39a3-277e-4b1f-bc70-660e762564c0@www.varzesh3.com:2095?security=none&allowInsecure=0&encryption=none&type=ws&host=dl2.mizbanertebatfarda.ir&path=/chat?ed=128#@icv2ray
