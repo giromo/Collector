@@ -1,22 +1,16 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTI1IC0gMjM6NDEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&security=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=%2F%3Fed#%3E%3E%40v2rayng_fast%3A%3ANL
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-trojan://8r&lt;[9'l6hAO#8ZQi@104.19.229.21:443?path=/tr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#@v2rayRoom
+vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F138.2.64.229%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
 trojan://8r<[9'l6hAO#8ZQi@104.19.229.21:443?type=ws&security=tls&path=/tr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#@speedtunnel
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
-vless://2d2685f1-22bd-4821-a69b-9a1f8b0ddb0d@hmt.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#V2rayng_Fast
-vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@CUSTOMVPNSERVER
-vless://566cea08-cfbb-4c47-89f7-6cbe0aa15295@snapp.ir:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=cd11.yazdfa.ir&path=/&security=tls&sni=cd11.yazdfa.ir&type=ws#V2rayng_Fast
-vless://5787dc7e-5fe4-4789-bab2-27706c3918ae@94.101.177.166:24567?security=none&type=tcp#V2rayng_Fast
+trojan://humanity@2.144.2.62:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#V2rayng_Fast
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
+vless://36efe01d-e047-48f1-8ec5-39b87d630225@snapp.ir:8080?encryption=none&host=web.maxisupp.ir&path=/&security=none&type=ws#V2rayng_Fast
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&sni=pages.dev#@CUSTOMVPNSERVER
+vless://4dcfef69-8f69-4fcd-97b5-a99fb54407f1@snapp.ir:2086?path=/wp-content?ed=30&security=none&encryption=none&host=cdn.mr-wopi.ir&type=ws#V2rayng_Fast
+vless://6c1ace82-cecf-4a05-b478-b1828aa5b7cf@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#V2rayng_Fast
 vless://715a4b57-b266-47af-a65b-cd49fa1af20b@104.21.57.220:2083?path=/eyJqdW5rIjoiUWxpWlJWblEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.liditkht.workers.dev&fp=chrome&type=ws&sni=V2nGFaSt-v2nGfAST-V2nGfAst-v2NGFAST-V2ngfASt.LIdITkHt.woRkERS.DEv#2 🔥 @V2ngFast
 vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=2560&host=ss2.limitless-cloud.ir#@V2rayng_Fast
-vless://97fdc613-af07-40ef-bfde-7052d1c90c61@varzesh3.com:80?path=/&security=none&encryption=none&host=fr.it-net.top&type=ws#V2rayng_Fast
-vless://a0f0dec2-fa1b-44ff-96ef-880f65e5e902@useredge1.noroozmobarak.com:80?path=/webpanel?ed=2560&security=none&encryption=none&host=jahan3.irbattery123.com&type=ws#V2rayng_Fast
+vless://8d121722-0445-47ff-946e-6b30485cde5f@tamin.ir:8880?path=/stream&security=none&encryption=none&host=test.mashinito.ir&type=ws#V2rayng_Fast
 vless://a0fb59fd-8984-4648-a8dd-ec41ac843c63@snapp.ir:8080?type=ws&encryption=none&path=/&host=sudo1.daltooncloud.ir&security=none#V2rayng_Fast
-vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=/NL?ed=2560&host=console.nonserver.ir#V2rayng_Fast
+vless://ae240767-7f35-4296-b63a-92589d00dbfc@dallas4.premiumzz.shop:2083?type=ws&encryption=none&path=/&host=dallas4.premiumzz.shop&security=tls&fp=chrome&alpn=h2,http/1.1&sni=dallas4.premiumzz.shop#V2rayng_Fast
 vless://b1badb73-e1e5-4846-856c-8ed6450a299e@2.144.19.238:443?encryption=none&security=tls&sni=shopify.tabriz.qzz.io&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=shopify.tabriz.qzz.io&path=/#@Stayle
-vless://VPNCUSTOMIZE@188.114.98.224:2095?path=/V2rayCUSTOMIZE%3Fed%3D1024&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40customizev2ray%20%231
-vmess://eyJhZGQiOiIxMDQuMTYuNjAuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMWMxMS1tdWRkeS1yaWNlLTFjMTEudmV0YW5leDUwMS53b3JrZXJzLmRldiIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dsd2VpZGYuc2JzL2xpbmt3cyIsInBvcnQiOiIyMDg2IiwicHMiOiLwn4e98J+HvSBYWCB8IFZNRVNTIHwgQG1hbnN0ZXJ2cG4gIzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=5c53ca21.vpn-aryoo.pages.dev&amp%3Btype=ws&amp%3Bsni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40mester_v2ray%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUElHSFNlSVpWQlM3aERY@series1.samanehha.co:443#t.me/V2ray_Custom😉 @V2ray_Custom
+vless://be9ba10f-c7b6-4123-bcef-6a70e1114611@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#V2rayng_Fast
+vless://e13d5177-3fac-4ec7-894d-caed09dec1dc@irna.ir:2053?type=ws&security=tls&encryption=none&path=/&host=shahr.fardaamoz.ir&sni=shahr.fardaamoz.ir&alpn=h2,http/1.1&fp=chrome#V2rayng_Fast
