@@ -1,3 +1,3 @@
+vless://226f2e07-3045-4c54-89c4-fc7487ca2180@ip.feydooomain.ir:8443?encryption=none&type=xhttp&security=tls&path=/&host=azure.feydooomain.ir&mode=packet-up&sni=azure.feydooomain.ir&alpn=h3,h2,http/1.1&allowInsecure=1#@electvpn0
 vless://33009a5d-3c59-442a-89e7-0ffe65c091af@ursa3.b762plus.shop:2082?encryption=none&fp=chrome&headerType=http&host=&path=/&pbk=2YhpEqKfKv0118dDsEszQzCALLdNuJ-Z85MnpRgC_yw&security=reality&sid=a9c2&sni=google.com&spx=/LrRdoRO2LULfT1q&type=tcp#@electvpn0
-trojan://telegram-id-directvpn@63.176.15.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
-trojan://telegram-id-directvpn@63.183.106.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.64.105:8443?encryption=none&security=tls&sni=interim.adaspoloandco.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=interim.adaspoloandco.com&path=/RoBeRt#@electvpn0
