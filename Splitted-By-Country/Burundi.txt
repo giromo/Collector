@@ -1,6 +1,8 @@
-vless://3f9c4cf6-2c35-4aec-9ea5-0625ef41a128@snapp.ir:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn1.darafiq.ir&path=/BetForward&security=tls&sni=cdn1.darafiq.ir&type=ws#t.me/SubIO_Config
+vless://22e2febc-b89a-4832-9b84-792011cba4cf@em-2.speedmizban.net:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#t.me/SubIO_Config
 vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://93a7dcd7-9bba-4594-8de8-cc67726f877c@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=hamrah.dgclix.ir#@bird_angry (mci)
-vless://bde89fc6-9068-4b18-934d-5584a87e573d@snapp.ir:80?encryption=none&host=getd.restaurantstudio.ir&path=/&security=none&type=ws#t.me/SubIO_Config
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
-vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
+vless://c9085d5f-1139-4741-ae84-b5a67d2127c9@94.101.178.125:80?type=tcp&encryption=none&security=none#t.me/SubIO_Config
+vless://eeb6c12a-3ed8-4441-8979-e517a6e234bd@api.ittakestwo.com.tr:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=&path=/&security=tls&sni=on.ittakestwo.com.tr&type=httpupgrade#t.me/SubIO_Config
+vmess://eyJ2IjogIjIiLCAicHMiOiAidC5tZS9TdWJJT19Db25maWciLCAiYWRkIjogIjEwMy43NS4xOTYuMTUxIiwgInBvcnQiOiAiMzg3ODkiLCAiaWQiOiAiMGYyNzYxMmUtM2Q4MC00NWIwLWJjMWEtODllODMxZjhiZjNmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vless://358ca5cf-5406-493d-b872-a344988b2e11@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.mojaz-persian-music.ir#t.me/SubIO_Config
+vless://85a84080-efea-49d8-8aab-88ad9d70b907@172.67.158.167:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&host=sub.newpronet.ir&path=/dashfair?ed=2560&security=tls&sni=fdshjfsajk123.newpronet.ir&type=ws#t.me/SubIO_Config
