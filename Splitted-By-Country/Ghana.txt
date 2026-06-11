@@ -1,4 +1,1 @@
-trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#@v2reya88 | @confinghub2
-vless://495317d4-ed11-44c4-8b03-d4f323d06c51@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=chrome&sni=www.cloudflare.com&sid=dbb6ea0b&spx=/&flow=xtls-rprx-vision#@v2reya88 | @confinghub2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&type=tcp&allowInsecure=0#@v2reya88 | @confinghub2
-vless://accc1b01-f960-409c-ba43-7d819226f820@103.31.4.108:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=ftp.singoshop.ir&path=/&security=tls&sni=ftp.singoshop.ir&type=ws#@v2reya88 | @confinghub2
+vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#@v2reya88 | @confinghub2
