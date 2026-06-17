@@ -1,7 +1,8 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1#@NewsDarya
+vless://71152717-dc50-4fee-a13d-c6656b51e341@45.130.125.126:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro3.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro3.postshup.ir.#@NewsDarya﻿
 vless://71152717-dc50-4fee-a13d-c6656b51e341@Cd1.postshup.ir:443?path=/news&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=cdn-pro2.postshup.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-pro2.postshup.ir.#@NewsDarya
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
-vless://bfe7f8db-f380-46cb-99c4-3578f90d8e85@78.17.98.36:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.microsoft.com&sid=d5e7f1a2&fp=chrome&pbk=HA772VN0jk_nXjzMj2O1vxR4Ibr2OyS-rfMb6VJggnU&headerType=none#Newsdarya1
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?encryption=none&type=ws&security=tls&path=/tsghdws&host=octopusss4.com&sni=octopusss4.com&insecure=1&allowInsecure=1#@NewsDarya
-vless://ffc33c26-e5bb-42f5-a04a-b4e939cf3c72@cf9c002bdc7c5373.RaVeNlO.iR:1310?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#@NewsDarya
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.134:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#@NewsDarya
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&insecure=0&allowInsecure=0#@NewsDarya
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@NewsDarya
