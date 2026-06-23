@@ -1,4 +1,1 @@
-trojan://SoftNetConnect@83.228.224.161:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=96a17085678b#
-vless://577581e7-d526-42f1-adb0-6559357b0575@5.75.207.247:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&sid=99c8&fp=chrome&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&spx=/KawBc1lhYo45V8E&headerType=none#@NewsDarya
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#@NewsDarya
-vless://6bb0a8ec-ec08-4358-b53d-7e6193069119@p4.capigodserv.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#10. @NewsDarya
+vless://Telegram:TurboConfigs@45.74.159.218:2035?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#@NewsDarya
