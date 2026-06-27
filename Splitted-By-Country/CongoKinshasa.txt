@@ -1,1 +1,1 @@
-ss://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=
+vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app10https://@freev2configs
