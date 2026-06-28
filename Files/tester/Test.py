@@ -12,9 +12,7 @@ import base64
 import binascii
 import json
 
-# مسیر پوشه پروتکل‌ها
 PROTOCOL_DIR = "Splitted-By-Protocol"
-# فایل‌های پروتکل
 PROTOCOL_FILES = [
     "Hysteria2.txt",
     "ShadowSocks.txt",
@@ -22,41 +20,31 @@ PROTOCOL_FILES = [
     "Vless.txt",
     "Vmess.txt"
 ]
-# پوشه برای ذخیره نتایج
 OUTPUT_DIR = "tested"
-# فایل خروجی
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "config_test.txt")
-# حداکثر تعداد کانفیگ موفق برای هر پروتکل
 MAX_SUCCESSFUL_CONFIGS = 20
-# حداکثر تعداد کانفیگ برای تست (برای کاهش زمان)
 MAX_CONFIGS_TO_TEST = 100
-# Timeout برای تست اتصال
 TIMEOUT = 1
 
-# ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
-# پاک کردن فایل‌های قدیمی در پوشه tested
 if os.path.exists(OUTPUT_DIR):
     for file in os.listdir(OUTPUT_DIR):
         file_path = os.path.join(OUTPUT_DIR, file)
         if os.path.isfile(file_path):
             os.remove(file_path)
 
-# تابع برای پاکسازی لینک کانفیگ (حذف توضیحات اضافی)
 def clean_config_link(config):
-    # استخراج نوع پروتکل
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     if not protocol_match:
         print(f"خطا: پروتکل نامعتبر در لینک: {config[:50]}...")
-        return config  # اگر پروتکل معتبر نبود، لینک بدون تغییر برگردانده شود
+        return config
     
     protocol = protocol_match.group(1)
     
     if protocol == "vmess":
         try:
-            # Decode base64 برای VMess
             vmess_match = re.match(r"vmess://([A-Za-z0-9+/=]+)", config)
             if vmess_match:
                 encoded_data = vmess_match.group(1)
@@ -65,68 +53,61 @@ def clean_config_link(config):
                     encoded_data += '=' * (4 - padding_needed)
                 decoded_json = base64.b64decode(encoded_data).decode('utf-8')
                 vmess_obj = json.loads(decoded_json)
-                # حذف توضیحات اضافی از ps (نام مستعار)
                 vmess_obj['ps'] = f"server-{random.randint(1, 1000)}"
                 cleaned_json = json.dumps(vmess_obj)
                 cleaned_encoded = base64.b64encode(cleaned_json.encode('utf-8')).decode('utf-8')
                 return f"vmess://{cleaned_encoded}"
-        except (binascii.Error, json.JSONDecodeError, ValueError):
+        except Exception:
             print(f"خطا در رمزگشایی VMess: {config[:50]}...")
-            return config.split("#")[0]  # در صورت خطا، فقط بخش قبل از # برگردانده شود
+            return config.split("#")[0]
     else:
-        # برای پروتکل‌های دیگر، بخش قبل از # را نگه می‌داریم
         cleaned = config.split("#")[0]
-        # بررسی اینکه لینک تروجان پارامترهای ضروری را دارد
-        if protocol == "trojan":
-            if not re.search(r"(security|type|sni)=[^&]+", cleaned):
-                print(f"هشدار: لینک تروجان ناقص است: {cleaned[:50]}...")
         return cleaned
 
-# تابع برای استخراج نوع پروتکل از لینک
 def get_protocol(config):
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     return protocol_match.group(1).lower() if protocol_match else "unknown"
 
-# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
-    # الگوهای قبلی برای بقیه پروتکل‌ها (بدون vmess)
-    patterns = [
-        r"(vless|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  # استاندارد
-        r"(vless|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
-    ]
-    for pattern in patterns:
-        match = re.match(pattern, config)
+    try:
+        clean = config.split('?')[0].split('#')[0].strip()
+        
+        match = re.search(r"://(?:[^@]+@)?\[?([^\]:]+)\]?:(\d+)", clean)
         if match:
-            host = match.group(2)  # IP یا دامنه
-            port = int(match.group(3))  # پورت
-            return host, port
-    
-    # الگوی خاص برای VMess
-    vmess_pattern = r"vmess://([A-Za-z0-9+/=]+)"
-    vmess_match = re.match(vmess_pattern, config)
-    if vmess_match:
-        try:
-            # Decode base64
-            encoded_data = vmess_match.group(1)
-            padding_needed = len(encoded_data) % 4
-            if padding_needed:
-                encoded_data += '=' * (4 - padding_needed)
-            decoded_json = base64.b64decode(encoded_data).decode('utf-8')
-            vmess_obj = json.loads(decoded_json)
-            host = vmess_obj.get('add', '')  # host/address
-            port = int(vmess_obj.get('port', 0))
-            if host and port:
+            host = match.group(1).strip('[]')
+            port = int(match.group(2))
+            
+            if 0 <= port <= 65535:
                 return host, port
             else:
-                print(f"خطا: هاست یا پورت در لینک VMess یافت نشد: {config[:50]}...")
-        except (binascii.Error, json.JSONDecodeError, ValueError) as e:
-            print(f"خطا در رمزگشایی لینک VMess: {e} - لینک: {config[:50]}...")
-            return None, None
-    
-    print(f"خطا: لینک نامعتبر یا پروتکل پشتیبانی‌نشده: {config[:50]}...")
-    return None, None
+                print(f"پورت نامعتبر ({port}): {config[:60]}...")
+                return None, None
+                
+        # VMess
+        if config.startswith("vmess://"):
+            vmess_match = re.match(r"vmess://([A-Za-z0-9+/=]+)", config)
+            if vmess_match:
+                try:
+                    encoded = vmess_match.group(1)
+                    padding = len(encoded) % 4
+                    if padding:
+                        encoded += '=' * (4 - padding)
+                    data = json.loads(base64.b64decode(encoded).decode('utf-8'))
+                    host = data.get('add') or data.get('host') or data.get('address')
+                    port = data.get('port')
+                    if host and port:
+                        return str(host).strip('[]'), int(port)
+                except Exception as e:
+                    print(f"خطا در VMess: {e} - {config[:50]}...")
+                    return None, None
+        
+        print(f"خطا: لینک نامعتبر یا پروتکل پشتیبانی‌نشده: {config[:70]}...")
+        return None, None
+        
+    except Exception as e:
+        print(f"خطای ناشناخته در extract_host_port: {e} | {config[:60]}...")
+        return None, None
 
-# تابع تست TCP connection و محاسبه پینگ
 def test_connection_and_ping(config, timeout=TIMEOUT):
     host, port = extract_host_port(config)
     if not host or not port:
@@ -137,69 +118,61 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
         sock.settimeout(timeout)
         result = sock.connect_ex((host, port))
         sock.close()
-        if result == 0:  # اتصال موفق
-            ping_time = (time.time() - start_time) * 1000  # تبدیل به میلی‌ثانیه
+        
+        if result == 0:  # اتصال موف
+            ping_time = (time.time() - start_time) * 1000
             return {
                 "config": config,
                 "host": host,
                 "port": port,
                 "ping": ping_time,
-                "protocol": get_protocol(config)  # پروتکل از لینک استخراج شود
+                "protocol": get_protocol(config)
             }
         return None
-    except (socket.gaierror, socket.timeout):
+    except Exception:
         return None
 
-# تاریخ و زمان برای نام‌گذاری (جلیلی، تهران)
-current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
-current_month = current_date_time.strftime("%b")
-current_day = current_date_time.strftime("%d")
-updated_hour = current_date_time.strftime("%H")
-updated_minute = current_date_time.strftime("%M")
-final_string = f"{current_month}-{current_day} | {updated_hour}:{updated_minute}"
 
-# لیست برای ذخیره تمام کانفیگ‌های موفق
+current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
+final_string = current_date_time.strftime("%b-%d | %H:%M")
+
 all_successful_configs = []
 
-# پردازش هر فایل پروتکل
 for protocol_file in PROTOCOL_FILES:
     file_path = os.path.join(PROTOCOL_DIR, protocol_file)
     
-    # خواندن لینک‌های پروتکل از فایل
-    config_links = []
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            config_links = [line.strip() for line in f if line.strip()]
+    if not os.path.exists(file_path):
+        print(f"فایل {protocol_file} یافت نشد.")
+        continue
+        
+    with open(file_path, 'r', encoding='utf-8') as f:
+        config_links = [line.strip() for line in f if line.strip()]
     
-    # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
         config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
     
-    # تست موازی کانفیگ‌ها
+    print(f"در حال تست {len(config_links)} کانفیگ از {protocol_file} ...")
+    
     configs_with_ping = []
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=15) as executor:   # کاهش به 15 برای پایداری
         future_to_config = {executor.submit(test_connection_and_ping, config): config for config in config_links}
         for future in as_completed(future_to_config):
             result = future.result()
             if result and len(configs_with_ping) < MAX_SUCCESSFUL_CONFIGS:
                 configs_with_ping.append(result)
     
-    # مرتب‌سازی بر اساس پینگ و انتخاب حداکثر 20 کانفیگ
     configs_with_ping.sort(key=lambda x: x["ping"])
     successful_configs = configs_with_ping[:MAX_SUCCESSFUL_CONFIGS]
     
-    # اضافه کردن به لیست کلی
     all_successful_configs.extend(successful_configs)
 
-# ذخیره تمام کانفیگ‌های موفق در یک فایل
 if all_successful_configs:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
         for i, result in enumerate(all_successful_configs, 1):
-            # پاکسازی لینک کانفیگ
             cleaned_config = clean_config_link(result['config'])
             config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
             file.write(f"{cleaned_config}{config_string}\n")
-    print(f"All results saved to {OUTPUT_FILE}")
+    print(f"✅ تمام نتایج با موفقیت در {OUTPUT_FILE} ذخیره شد.")
 else:
-    print("No successful configs found for any protocol")
+    print("❌ هیچ کانفیگ موفقی پیدا نشد.")
