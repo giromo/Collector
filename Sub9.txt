@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://1deea0b5-7ea7-4b40-ae73-81a9d59824a0@198.41.208.172:2083?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=GGMMDDE2.FOLLOWERARZON1.COM&fp=chrome&type=xhttp&allowInsecure=0&sni=GGMMDDE2.FOLLOWERARZON1.COM#[🇩🇪]@NetliVPN
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
 vless://1d693edc-b9c9-4082-59f8-6bedaff1126d@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#@V2ray_confiig
 vless://1d3f06e4-fd94-4293-b557-54c6e282eff7@himo.sanaiehdasti.com:1323?security=none&encryption=none&host=www.icloud.com&headerType=http&type=tcp#@irconfiig
@@ -502,3 +501,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.177.160:22224?type=ws&securi
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#@KAFING_2
 vless://050af581-d35f-495e-e28b-2d562764d01c@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG  ♻️حجم = 5 گیگ  𝗝𝗼𝗶𝗻
+vless://050af581-d35f-495e-e28b-2d562764d01c@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
