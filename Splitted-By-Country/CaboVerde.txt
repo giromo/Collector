@@ -14,10 +14,12 @@ trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@45.130.125.32:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@icv2ray
 trojan://humanity@45.130.125.75:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
+vless://050af581-d35f-495e-e28b-2d562764d01c@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
 vless://050af581-d35f-495e-e28b-2d562764d01c@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&host=cdn.daraflo.ir&fp=chrome&type=ws&sni=cdn.daraflo.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG  ♻️حجم = 5 گیگ  𝗝𝗼𝗶𝗻
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=/HgVq3fBofDu9L36&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=833bc1c51882#@icv2ray
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:4227?security=reality&encryption=none&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&headerType=none&fp=chrome&spx=/iddplozJJWE5hnQ&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d71b53053ec6e4#@icv2ray
 vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=chrome&spx=/uNENw17LQM60xOg&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=1222a4#@icv2ray
+vless://0eb12a7a-b39e-4f7d-8bf6-7cb34b254564@147.90.13.19:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=chrome&sni=yahoo.com&pbk=cqkIQAlIfDD_24qkjRgBD4qA7khDlUmTInGtZVSuzhM&sid=70885dd7&spx=/#ChicVPNBot
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@icv2ray
 vless://175c6db9-4a69-4abc-8736-c3f72748b7a0@104.25.189.214:8880?path=/&security=&encryption=none&host=a.postshup.ir&type=httpupgrade#@icv2ray
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@icv2ray
@@ -51,7 +53,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?mode=gun&security=&encryption=none&type=grpc#@icv2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.speedmeter.shop:8880?mode=gun&security=&encryption=none&authority=BIA_TELEGRAM-ICV2RAY&type=grpc#@icv2ray
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@icv2ray
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#TELEGRAM-ICV2RAY?ed=512&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#@filembad
 vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@icv2ray
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@icv2ray
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#@icv2ray
