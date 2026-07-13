@@ -35,7 +35,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.217-0206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.16-0241
-vless://42455ebe-1c84-479a-9bac-6433c30f8d19@umbr.gconexustun.ru:48932?sni=cdn4-23.yahoo.com&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.0MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#GB-82.38.31.191-0111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#GB-82.38.31.149-0109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#GB-82.38.31.155-0108
@@ -68,9 +67,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:808
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#GB-82.38.31.16-0241
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#GB-82.38.31.214-6280
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#GB-82.38.31.35-04
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6zwn4enXSBbdm0tbm8tcmFdIFsyNjA3MTMtMTM0MDMzLjQ1N10iLCJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwicG9ydCI6IjIyMzI0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6zwn4enXSBbdm0tbm8tcmFdIFsyNjA3MTMtMTM0MDM2LjYwMl0iLCJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwicG9ydCI6IjIyMzI0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#GB%E8%8B%B1%E5%9B%BD%201.0MB%2Fs
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
-vless://+2rVQexR2fMYcjtu63hvqLzjdYQmGkO4AxBps1D9ZzdtljGB001uRWxBBK/RBwUPDESTjk1hFYprbsXg3SOtIK21E1/yfab2CxB4nhXWrUfUBVDpAOO5eWNwlBZNgicXbNbQ6N7Y8vI2jbB/9n5hLR27o8tKGSGzaMLf9cbSG7IynUW/AHHwUh/DraHqmxkJ9jOsLyQC2LEUML2PnMbPng==
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVZTWDluTDFYTlpVb0lYTDhQUGthWWlWN3NSWGlLS2l5MkV3YlJvQ1VvQT06THVuRmZqaklSMmdGOGFYSUROZFdzMldRYmcxcmQ2ZXVPSjRhL2pNRTA1ST0=@134.209.177.114:22277?security=none&amp;type=tcp#ss-63na2ll5a  England
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0=@46.38.143.236:60633?note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🔒 | 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🔒 | 🇬🇧
@@ -84,7 +84,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🔒 | 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🔒 | 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🔒 | 🇬🇧
-trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:1080?encryption=none&security=none#📊 Used: 0.00 GB / Unlimited GB
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#🇬🇧@FreakConfig
@@ -92,7 +91,6 @@ vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&en
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=/au-do&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇬🇧@FreakConfig
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=/au-do&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#🇬🇧@V2rayng_Fast
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl#🇬🇧GB_400_@Surfboardv2ray
-vless://186eb0b0-d18c-4f77-b4de-3a2d72582c6d@snapp.ir:80?encryption=none&security=none&type=ws&host=mhi.mgshoponline.ir&path=/#@MGv2rayOfficial | ViP 50GB📊
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?security=&encryption=none&type=grpc&serviceName=vless#United Kingdom 🇬🇧
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=s1.nakosgol.com&type=xhttp&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=s1.nakosgol.com&path=/pabloping&security=none&note=@FreeOnlineVPN#🇬🇧 - GB - @FreeOnlineVPN
@@ -139,4 +137,4 @@ vless://e004cd21-d55b-a5cf-b0e2-af27acc7ec83@x4g-production-b148.up.railway.app:
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@69.46.46.94:443?path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ffd1.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ffd1.up.railway.app#@MARAMBASHI 🇬🇧
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇬🇧
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@MARAMBASHI 🇬🇧
-vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@199.232.78.159:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
