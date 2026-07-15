@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#@meliproxyy
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#@configprxy
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#@W570W
 vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?security=reality&encryption=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=eaa8#🇩🇪 | @V2boxnetbot | FREE
@@ -502,3 +501,4 @@ trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecu
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Ap_Ir6
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Ap_Ir6
 trojan://humanity@join-telegram-channel.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Ap_Ir6
+trojan://humanity@join-telegram-channel.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Ap_Ir6

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:8085?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=play.google.com#Proxy_Se7en
 vless://4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55@x4g-production-88cb7.up.railway.app:443?path=/ws/4a5151d1-4d9d-e0b2-d2a6-f483ff06cd55&security=tls&alpn=h2&encryption=none&insecure=0&host=x4g-production-88cb7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-88cb7.up.railway.app#🇺🇸@V2rayng_Fast
@@ -502,3 +501,4 @@ vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&t
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&type=xhttp&security=reality&path=/repository&mode=auto&sni=git.xpkg.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018#@meliproxyy
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&type=xhttp&security=reality&path=/repository&mode=auto&sni=git.xpkg.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018#@freenettir
 vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#Telegram: @Daily_Configs
+vless://1f897d22-9b1f-0024-93f4-e4bf1cfc0b28@84.38.187.134:443?encryption=none&security=reality&sni=git.xpkg.ru&fp=chrome&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&sid=2c9431dc7a306018&type=xhttp&path=/repository#@meliproxyy
