@@ -1,2 +1,2 @@
-vless://888ea15b-c1b1-4ce2-8a27-db271fccfd62@3x-ui-upgrade-production-af1e.up.railway.app:443?path=/Ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#NewsDarya
-vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?security=reality&encryption=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@M4DVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ2hYM3JjRzdicVNROEw2@128.251.12.23:443#NewsDarya
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@fetch.anotherok.com:443?mode=gun&security=reality&encryption=none&pbk=U7O4wCUNinuk5M-ADV1e4sJ_iA7-JVBEXB8nev6kzzs&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=fetch.anotherok.com&sid=335555b164619360#NewsDarya
