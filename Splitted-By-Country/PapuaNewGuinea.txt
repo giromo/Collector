@@ -1,1 +1,1 @@
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@M4DVPN
+vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=httpupgrade&host=adambarfi.up.railway.app&path=/adambarfi2#AdamBarfi-httpupgrade
