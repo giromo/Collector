@@ -1,8 +1,4 @@
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi5rOV5ZyL56+A6bueIiwKICAiYWRkIjogIjY5Ljg0LjE4Mi40OSIsCiAgInBvcnQiOiA4MCwKICAiaWQiOiAiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwKICAiYWlkIjogMCwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogbnVsbCwKICAiaG9zdCI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS56dWxhLnVwbGFvZC1tdXNpYy5pci4iLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
-trojan://CF68213490@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AUS
-trojan://CF68213490@polite-coyote.rooster465.autos:443?allowInsecure=0&sni=polite-coyote.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=0&sni=big-bonefish.rooster465.autos#%E6%9C%AA%E7%9F%A520%20621.2KB%2Fs
+trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0182
 trojan://PD07395842@true-pony.rooster465.autos:443?allowInsecure=0#AU-82.117.225.212-0180
 trojan://XG59623478@82.117.225.56:443?allowInsecure=0&sni=stirring-dane.rooster465.autos#AU-82.117.225.56-0181
 trojan://XG59623478@82.117.225.216:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU-82.117.225.216-0182
@@ -11,7 +7,7 @@ trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&sni=sele
 trojan://OD90375861@87.121.33.171:443?allowInsecure=0&sni=selected-bison.rooster465.autos#AU-87.121.33.171-0227
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#AU_1%7C3.1MB%2Fs%7CB007-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#AU_2%7C3.1MB%2Fs%7CA003-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU_3%7C2.6MB%2Fs%7CA003-260618%2001
+trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_6%7C586KB%2Fs%7CF003-260618%2001
 trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_7%7C1.5MB%2Fs%7CC002-260622%2001
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=0&sni=stirring-dane.rooster465.autos#AU_8%7C1.6MB%2Fs%7CC002-260622%2001
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=0&sni=big-bonefish.rooster465.autos#AU_9%7C3.0MB%2Fs%2001
@@ -36,6 +32,7 @@ trojan://PD07395842@fluent-gar.rooster465.autos:443?allowInsecure=0&sni=fluent-g
 trojan://PD07395842@big-bonefish.rooster465.autos:443?allowInsecure=0&sni=big-bonefish.rooster465.autos#AU_30%7C2.6MB%2Fs%7CC002-260622%2001
 trojan://PD07395842@darling-mutt.rooster465.autos:443?allowInsecure=0&sni=darling-mutt.rooster465.autos#AU_31%7C3.1MB%2Fs%7CC002-260622%2001
 trojan://XG59623478@82.117.225.216:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_33%7C2.3MB%2Fs%7CP002-260618%2001
+trojan://XG59623478@82.117.225.216:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_34%7C2.6MB%2Fs%7CA001-260618%2001
 trojan://PD07395842@selected-bison.rooster465.autos:443?allowInsecure=0&sni=selected-bison.rooster465.autos#AU_32%7C2.0MB%2Fs%7CC002-260622%2001
 trojan://ON38567014@fluent-gar.rooster465.autos:443?allowInsecure=0&sni=fluent-gar.rooster465.autos#AU_35%7C3.3MB%2Fs%2001
 trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=0&sni=grown-rhino.rooster465.autos#AU_36%7C2.5MB%2Fs%2001
@@ -46,8 +43,11 @@ trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=0&sni=grown-r
 trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=0&sni=chief-antelope.rooster465.autos#AU_40%7C2.5MB%2Fs%7CC002-260622%2001
 trojan://ON38567014@fluent-gar.rooster465.autos:443?allowInsecure=0&sni=fluent-gar.rooster465.autos#AU_42%7C1.8MB%2Fs%7CC002-260622%2001
 trojan://XG59623478@82.117.225.56:443?allowInsecure=0&sni=stirring-dane.rooster465.autos#AU_43%7C2.7MB%2Fs%7CA004-260618%2001
+trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_45%7C2.5MB%2Fs%7CA004-260618%2001
 trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=0&sni=concise-buck.rooster465.autos#AU_46%7C2.1MB%2Fs%7CA004-260618%2001
+trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=0&sni=stirring-dane.rooster465.autos#AU_47%7C1.7MB%2Fs%7CA004-260618%2001
 trojan://OD90375861@82.117.225.123:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#AU_48%7C1.2MB%2Fs%7CA004-260618%2001
+trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#AU_49%7C2.4MB%2Fs%7CA004-260618%2001
 trojan://ON38567014@national-stingray.rooster465.autos:443?allowInsecure=0&sni=national-stingray.rooster465.autos#AU_50%7C2.9MB%2Fs%2001
 trojan://IQ68037294@neat-whale.rooster465.autos:443?allowInsecure=0&sni=neat-whale.rooster465.autos#AU_53%7C2.5MB%2Fs%2001
 trojan://IQ68037294@fluent-gar.rooster465.autos:443?allowInsecure=0&sni=fluent-gar.rooster465.autos#AU_55%7C1.8MB%2Fs%2001
@@ -74,11 +74,10 @@ trojan://ON38567014@fluent-gar.rooster465.autos:443?allowInsecure=0&sni=fluent-g
 trojan://IQ68037294@wanted-marmoset.rooster465.autos:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#AU_72%7C2.7MB%2Fs%7CC002-260622%2001
 trojan://NQ26071394@87.121.33.201:443?allowInsecure=0&sni=chief-antelope.rooster465.autos#AU_75%7C2.6MB%2Fs%7CA004-260618%2001
 vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Channel id: @ARGO_VPN1  🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Channel id: @ShadowProxy66 🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel id: @ARGO_VPN1 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Channel id: @ShadowProxy66 🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
+trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
+vless://87aa6cd0-91fa-4d56-a864-bca214076735@1.1.1.1:443?encryption=none&security=tls&type=ws&headerType=none&path=/idea&sni=de.mygoldiran.com#🇦🇺119015 | ⚡️Telegram = t.me/SOSkeyNET
+vless://8f5f5150-33e5-41e9-a164-c10d778112ed@1.1.1.1:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇺118974 | ⚡️Telegram = t.me/SOSkeyNET
