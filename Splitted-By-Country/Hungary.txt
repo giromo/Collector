@@ -1,7 +1,10 @@
-vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.41.13:16923?sni=api-maps.yandex.ru&type=grpc&serviceName=neurex&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%BAHU_1%7C3.5MB/s
-hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#@confiig_hub
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@tracker.oneokgames.com:443?mode=gun&security=reality&encryption=none&pbk=VTO26jBMVVnEnnHQON7k8lB3ED46_JHshPorJHHXSRU&fp=chrome&type=grpc&serviceName=push.v2.FeedService&sni=tracker.oneokgames.com&sid=a30b344b5214d62f#@confiig_hub
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.222.178:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@confiig_hub
+trojan://humanity@104.16.174.6:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A528
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/assignment#10
+vless://399f7f1b-0f5e-43a1-b0b5-6f255367d778@199.247.4.254:34274?path=/ws&security=&encryption=none&type=ws#@confiig_hub
+vless://3b42c5de-276f-41db-bd4e-b79038af4b0c@Tamland.ir:2082?path=/&security=&encryption=none&host=FBI.LithiumHost.ir&type=ws#@confiig_hub
+vless://695d21df-7abf-423c-84f8-3a93382e5d46@152.233.41.13:16923?encryption=none&fp=chrome&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&security=reality&serviceName=neurex&sid=10ffb85da1c2d986&sni=api-maps.yandex.ru&type=grpc#🇭🇺HU-🚀@VPNine1
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@45.130.125.11:2087?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ch-de.sdcards.ir#@confiig_hub
+vless://dd149ebc-e0ef-477e-ab2d-58a222fd95ad@Vip.janiva.ir:8880?mode=stream-up&path=/&security=&encryption=none&type=xhttp#@confiig_hub
+vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@188.164.248.185:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
 vless://f40ea80a-7848-4d49-b2ff-19585e4db8de@91.193.58.128:2096?path=/&security=tls&encryption=none&insecure=0&host=sw.captainsparo.ir&type=ws&allowInsecure=0&sni=sw.captainsparo.ir#@Hunnter_vpn|اختصاصی کانال
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#@confiig_hub
 vmess://eyJhZGQiOiIxMDMuMTc5LjE0Mi4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTQ4NzYzYjUtYTA2NC00NTNjLWEwMTUtMTg1Y2IxODNiYmZlIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMjA0NyIsInBzIjoiSHVubnRlcl9WUE5cdTAwM2NURVNUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
