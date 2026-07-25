@@ -1,4 +1,4 @@
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.175.251:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.117.158:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-ss://YWVzLTI1Ni1nY206TGV2aWtvX3YycmF5@0.0.0.0:443#@M4Dvpn
-vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=/&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#@electvpn0
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.173.198:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
