@@ -1,17 +1,12 @@
-trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.14-0168
-trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0195
-trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.183-0196
-trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.48-0205
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDEiLCJhZGQiOiIxMjAuMjMyLjI0MC41NiIsInBvcnQiOiIxNjkyOCIsImlkIjoiNWY2YjNjM2YtYjBhOC0zM2Y1LTk1YzYtMzcxZjhjNmFmOTczIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiU3QiUyMkhvc3QlMjI6JTIyMTkzLjI1LjIxNS4xNjAlMjIlN0QiLCJwYXRoIjoiL3YycmF5IiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDEifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiIxMjAuMjMyLjI0Mi4xMjYiLCJwb3J0IjoiNDE0OTIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzEifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTEiLCJhZGQiOiJjZi4zMzU1NzAueHl6IiwicG9ydCI6IjQ0MyIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dy5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidHcuYXBwbGVpZC5iZiIsInRlc3RfbmFtZSI6IjkxIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgNERCQUM1IiwiYWRkIjoiY2YuMzM1NTcwLnh5eiIsInBvcnQiOiIyMDg2IiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhdXhuYW1kMS50b3BmNi5jb20iLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMjNGREQ1IiwiYWRkIjoiY2YuMzM1NTcwLnh5eiIsInBvcnQiOiIyMDg2IiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJsaW5vZGUuYXBwbGVpZC5iZiIsInBhdGgiOiIvQ0FUIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgMTNBNjlCIiwiYWRkIjoiY2YuMzM1NTcwLnh5eiIsInBvcnQiOiI0NDMiLCJpZCI6IjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InR3LmFwcGxlaWQuYmYiLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0dy5hcHBsZWlkLmJmIn0=
 vmess://eyJhZGQiOiIxNzAuNjQuMTI4LjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4e6X0FVX+a+s+Wkp+WIqeS6ml8xMiIsInBvcnQiOiI4MDgwIiwiaWQiOiJiZGQyMjg0MS1jNGQyLTRhYTgtYWNmMi05NWFhOTEyNWYxNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTgiLCJhZGQiOiIxMjAuMjMyLjE1My43MSIsInBvcnQiOiI0NTk3MiIsImlkIjoiNzcwZWU3MzAtMjQ1MC00ZTNjLWE2YzYtMzkzMmJkMzJhZmJkIiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OCJ9
+trojan://PD07395842@true-pony.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.14-0186
+trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0193
+trojan://PD07395842@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.48-0198
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.93-0218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@95.173.193.201:1080#🇦🇺127109 | ⚡️Telegram = t.me/SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@95.173.193.201:1080#🇦🇺AU-🚀@VPNine1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkVlB2bkp0ZGpZSHgtZjc4UmRxbVdn@panel.dustinet.ir:1080#🇦🇺AU-🚀@VPNine1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺
-vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@Net2ray AU
-vless://544460bb-eca3-41de-b11f-39a24014d110@66.33.22.221:54221?security=reality&encryption=none&pbk=isaU7B36NtlW137jg7HrQ7qNU954w53JdTnbf9qW4QI&headerType=none&fp=chrome&spx=/03143b94839b52d&type=tcp&sni=www.yahoo.com&sid=b9b98d6b7d#🟥𝗝𝗼𝗶𝗻 ➠ @𝙋𝙚𝙚𝙠𝘾𝙤𝙣𝙛𝙞𝙜🌐🟥
-vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#🚀 AnsooyeFilter | CF Auto IP
