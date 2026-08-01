@@ -1,10 +1,3 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAdnBuZmFpbF9uZXdzIHFnaGl0dmJ2IiwKICAiYWRkIjogIjEwNy4xODkuNy4xNzYiLAogICJwb3J0IjogNTM0NjksCiAgImlkIjogIjY1NDI1ZDg3LTRhOWMtNGUwZS1iNThjLTIwY2IwNDI2ZjJiOSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiIiwKICAiZnAiOiAiY2hyb21lIiwKICAiYWxwbiI6ICJoMixodHRwLzEuMSIKfQ==
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.166.241:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.154.254:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.201.20:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?sid=f24c17bb7fc284&encryption=none&security=reality&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&fp=chrome&type=tcp&headerType=none&spx=/2Ffdded5f9698d939&sni=updates.cdn-apple.com#@Napsternetvirani
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?encryption=none&type=tcp&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sni=storage.yandex.net&fp=chrome&security=reality&headerType=none&flow=xtls-rprx-vision#@Napsternetvirani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@fr1.levikogjgfdd.ir:22222?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20directss://YWVzLTI1Ni1nY206TGV2aWtvX3YycmF5@0.0.0.0:443#%E2%8F%B09%20days%20%F0%9F%93%8A%20%E2%88%9E%20GB
+vless://9d96011a-8d7f-42e7-8d57-6f98e57d4b6c@tr1.ferape.shop:57709?path=/&sid=d72916002fc5577a&security=reality&type=xhttp&mode=auto&pbk=k2vGnpvql9ZoTOTq71ftz_KHQMU2-uwSCd_2OcJEKxc&sni=www.yahoo.com&fp=chrome&encryption=none#@Napsternetvirani
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?security=none&encryption=none&type=tcp&headerType=none#@Napsternetvirani
