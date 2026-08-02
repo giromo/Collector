@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://c875b3c0-3896-496a-a355-ab878595d7c2@poland.vpnserverhub.com:443?security=reality&encryption=none&pbk=5vNAgd2gzZUUJAU-njR7Sz542IJHdLdea9TtgwBttl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#EPODONIOS
-vless://c85fa9c8-d3d2-47a4-ae31-ce150e074cdc@157.180.72.116:29591?mode=stream-up&path=/&security=none&encryption=none&extra={"mode":"stream-up","xPaddingBytes":"100-1000"}&type=xhttp#EPODONIOS
-vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#EPODONIOS
-vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN#EPODONIOS
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.167:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=/?proxyip#EPODONIOS
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@135.84.76.105:443?security=tls&sni=vg.ylkszy.eu.org&type=ws&path=/?proxyip#EPODONIOS
 vless://c7e9c591-2764-423a-afca-efbd010fd396@80.209.240.188:2053?encryption=none&fp=chrome&host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws#EPODONIOS
 vless://c7e9c591-2764-423a-afca-efbd010fd396@185.195.69.119:2053?path=/&security=tls&encryption=none&host=forfreeuse.sub-flow.online&fp=chrome&type=ws&sni=forfreeuse.sub-flow.online#EPODONIOS
 vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=/#EPODONIOS
@@ -502,3 +496,9 @@ vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allo
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?path=/?ed=2082&security=none&encryption=none&host=nnnnnnnn.postshup.ir&type=httpupgrade#EPODONIOS
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#EPODONIOS
 vless://968dc676-ef8f-46f1-b854-e21acc7b5bfc@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@www.speedtest.net:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=pl.sinnerrr.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=pl.sinnerrr.fun#EPODONIOS
+vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#EPODONIOS
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#EPODONIOS
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@www1.n.ahmadhamoumi.fun:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-tr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-tr.ipng.site#EPODONIOS
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#EPODONIOS
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
