@@ -1,2 +1,5 @@
 vless://c4b80f6b-0931-4ae4-96fe-6dc844c5c466@64.188.79.222:4443?security=reality&encryption=none&pbk=yIxxpfF8FygAHQvVXCiI5O1o3DrAPlW70JlTrFAv3D8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5af0b7d9#@v2raybaaz[🇩🇰]
 vless://ee5cde73-5e72-4d3f-b95d-e493168e46cb@195.201.224.196:34634?path=/&security=none&encryption=none&host=play.google.com&type=ws#@v2raybaaz[🇩🇰]
+vmess://eyJ2IjoiMiIsInBzIjoiSEszIDE2LjZLQi9zIiwiYWRkIjoidTJmcnhqMGcxM3ZkaTB3by52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJVMkZSeGowRzEzdkRJMFdvLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiVTJGUnhqMEcxM3ZESTBXby52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEszIn0=
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#@OutlineReleasedKey
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#@OutlineReleasedKey
