@@ -1,3 +1,11 @@
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.6MB/s
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRTJFNTMxIiwiYWRkIjoiMTE1Ljg5Ljk4LjIzMSIsInBvcnQiOiIxMDUwOSIsInR5cGUiOiJub25lIiwiaWQiOiI0ZjFjMWNhMS1hNDIyLTQwMTQtOTQyMy0wNGUzOWVkNzNiMDMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kiLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEMxQkJGNyJ9
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEE5OUQ3MyIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6IiIsInRscyI6IiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRUQ1MzQzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgQzQzRTQ1IiwiYWRkIjoic2VsZWN0LXVzLmRkbnNrdW5sdW4uY29tIiwicG9ydCI6OTAyOCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImE4YmNjZTQzLWFiZGEtMzE1Yi04ZTgxLWUzZTY1YmNiM2QwNyJ9
 trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-43.201.103.8-0184
 trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.202.56.122-0189
 trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0187
@@ -24,37 +32,34 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0278
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0231
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0234
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA==#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_10
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@158.179.174.225:36364?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@118.42.204.220:12281?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@119.195.168.105:10973?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
-vmess://eyJ2IjoiMiIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDE2ODExOCJ9
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C1.6MB/s
 vmess://eyJ2IjoiMiIsInBzIjoiS1JfN3wxNjJLQi9zfEMwMDItMjYwNjIyIDAxIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiS1JfMTJ8MTg0S0Ivc3xNMDAyLTI2MDYxOCAwMSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiS1JfMTZ8Mjg2S0Ivc3xDMDAyLTI2MDYyMiAwMSIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?allowInsecure=1&sni=rr2.tube-cat.com#KR_28%7C91KB%2Fs%7CA004-260618%2001
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#KR_22%7C92KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR_30%7C72KB%2Fs%7CS001-260618%2001
 trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=1&sni=saving-octopus.rooster465.autos#KR_29%7C183KB%2Fs%7CS001-260618%2001
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#KR_33%7C140KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#KR_31%7C69KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=1&sni=saving-octopus.rooster465.autos#KR_32%7C155KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR_37%7C118KB%2Fs%7CR002-260618%2001
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#KR_36%7C148KB%2Fs%7CR002-260618%2001
-trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_39%7C103KB%2Fs%7CR002-260618%2001
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#KR_40%7C257KB%2Fs%7CR002-260618%2001
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#KR_41%7C126KB%2Fs%2001
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#KR_42%7C185KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#KR_43%7C160KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#KR_44%7C166KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#KR_45%7C71KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_49%7C182KB%2Fs%7CA001-260618%2001
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR_48%7C97KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#KR_47%7C162KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#KR_50%7C111KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR_51%7C226KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@upward-puma.rooster465.autos:443?allowInsecure=1&sni=upward-puma.rooster465.autos#KR_52%7C174KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#KR_54%7C224KB%2Fs%7CP002-260618%2001
 trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#KR_53%7C108KB%2Fs%7CP002-260618%2001
 trojan://ND91608427@43.203.244.203:443?allowInsecure=0&sni=grateful-owl.rooster465.autos#KR_55%7C172KB%2Fs%7CS001-260618%2001
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#KR_56%7C65KB%2Fs%7CB007-260618%2001
 trojan://ND91608427@43.203.119.20:443?allowInsecure=0&sni=uncommon-feline.rooster465.autos#KR_57%7C125KB%2Fs%7CA003-260618%2001
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR_58%7C426KB%2Fs%7CA004-260618%2001
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#KR_59%7C137KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#KR_61%7C115KB%2Fs%7CA004-260618%2001
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#KR_62%7C136KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#KR_63%7C93KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_65%7C76KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=0#KR-43.201.103.8-0184
@@ -81,23 +86,17 @@ trojan://ND91608427@43.203.247.197:443?allowInsecure=0&sni=definite-malamute.roo
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTMyLjE0NS44MC4yMzAtMDYwMiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMjE3LjE0Mi4xMzguNjEtMDc0OSIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=0&sni=communal-sunbird.rooster465.autos#KR-3.38.106.2-6067
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40mtmvpn%208ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VkREK3ZERmRxOGFkNFloMmY5aEI3Y0VheVdJS21aa1RhVXh4QzJ1Qy9jOD06d0UwQ0ErcUZ5NkhwWEVZRGNrRWcxU2xocUwzN0JQdEphQ1BvdGt6WWpFMD0@91.107.157.137:56352#%40mtmvpn%209
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7Dwn4e3XSBbdm0tbm8tcmFdIFsyNjA4MDctMTE0MTU2LjIzNV0iLCJhZGQiOiIxNDAuMjM4LjIuMjUwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA==#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD_10
+trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@1------------------------------------------------2.poki-pakipon.ir:21122?type=grpc&security=reality&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=0lvMgmUD3hF_mUKoVyUC4JJUKpdffxvkrzqeQOEK9EI&sid=b34e21b58ecc6362#vip%2011
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@158.179.174.225:36364?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@118.42.204.220:12281?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@119.195.168.105:10973?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#KR🇰🇷
+vmess://eyJ2IjoiMiIsInBzIjoiQG9yYW5nZXZwbnNfYm90IFx1MDYyYVx1MDYzM1x1MDYyYSBcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYiLCJhZGQiOiJmajI2MDIwNS5mcmVlY2hhdHVwLmNvbSIsInBvcnQiOiIyNzcyNiIsImlkIjoiOThlMmJlM2MtOGY4NC00Yjg1LTk5NmItYjY4ZGNjMmZiY2I2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmajI2MDIwNS5mcmVlY2hhdHVwLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?encryption=none&security=none&type=ws&host=fangbinxingnmsl.pusytroller.gq&path=%2F#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&security=none&type=ws&host=download.pusytroller.gq&path=%2F#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://2181d0c8-448a-4f75-b848-1718029baef9@89.125.13.67:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=-Dg4mGAAM5Lwe9ri7Bx5WlYdPBsyYJy-Pai2Z0FGlyc&sid=afee962d&type=tcp&headerType=none#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://3a55aed6-4756-4b41-9dfa-116d32aeb8e5@bonus.ahora-65.ir:43971?encryption=none&security=none&type=tcp&headerType=none#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://mahanvpn-mahanvpn@92.42.96.240:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A🔴hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=127.0.0.1#🇰🇷KR
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=hg1.yuanbaojc.site#🇰🇷 KR
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#韩国
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@rr2.tube-cat.com:9450?allowInsecure=1#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:21101/?type=tcp&security=tls&sni=261.yuanul.com&allowInsecure=1#🇰🇷 KR
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.101:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇰🇷
