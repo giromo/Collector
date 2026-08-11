@@ -1,6 +1,10 @@
 ss://cmM0LW1kNTphZDgwZjc2NzExZWM3MjEz@38.54.93.66:49692#KH_1%7C264KB%2Fs%7CA004-260618%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#@vmesskhodam
-vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.161.19:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#@vmesskhodam
-vless://6e459027-aa75-a3c2-31ca-fd324f1b0351@de2.natnetspeed.com:443?security=reality&encryption=none&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-apple.com&sid=6ea3daaac3d6bede#@vmesskhodam
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#@vmesskhodam
-vless://d2a8066a-1e0e-4098-8941-4acb50e9417a@89.23.116.82:1293?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vmess://eyJ2IjoiMiIsInBzIjoiSEsiLCJhZGQiOiIxODIuMTYwLjE0LjE0NSIsInBvcnQiOiIxMzA4MCIsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwMS5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoiMDEuYXBwbGVpZC5iZiIsInRlc3RfbmFtZSI6IkhLIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
+vless://0fdee718-bf74-48d3-967d-ab7a0801a5c1@159.223.65.190:9090?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?security=reality&encryption=none&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&host=&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=69d4#@vmesskhodam
+vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#@vmesskhodam
+vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@custom_config?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#🩵+@Azarakhsh_Proxy+🩷
+vless://9866995e-7225-4919-8de8-19a3f941c4d4@www.speedtest.net:443?path=/@azarakhsh_proxy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
+vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#@vmesskhodam
