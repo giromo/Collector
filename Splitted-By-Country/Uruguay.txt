@@ -1,11 +1,6 @@
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E8%8D%B7%E5%85%B0%20%235
-vless://3dbaa6d3-52a8-4602-ae3c-bf495356878c@185.204.171.178:42693?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.45.6:80?encryption=none&security=none&type=ws&host=free-server.techsonic.dev&path=/free-server.techsonic.dev#🔵@chillguy_vpn
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#🔵@chillguy_vpn
+vmess://eyJ2IjoiMiIsInBzIjoiSEszIDU2LjdLQi9zIiwiYWRkIjoiNDMuMTMyLjE5Mi4xNiIsInBvcnQiOiI5NTI3IiwiaWQiOiJhZTg2MmUxZC0zYjhjLTQ0M2EtMDI3Yi0zN2M2YzY5ZWY0M2MiLCJhaWQiOiIwIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiSEszIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTQiLCJhZGQiOiIxODMuMjQwLjIzNS4xNjYiLCJwb3J0IjoiMzE3NzgiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNTQifQ==
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22222?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22223?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22224?encryption=none&security=none&type=tcp#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22222?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22223?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22224?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
 vmess://eyJ2IjogbnVsbCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAiYWRkIjogIjEwNC4yMS43LjEwMSIsICJwb3J0IjogODAsICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJnYm5oLjBubi5jY3d1LmNjIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInRscyI6ICIiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE3NiJ9
+ss://eyJhZGQiOiIxMjUuMTI0LjI1NC41IiwidiI6MiwicHMiOiLwn4eo8J+HsyBDTiDkuK3lm70gMiIsInBvcnQiOiIxMDgwIiwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
