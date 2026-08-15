@@ -1,3 +1,4 @@
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgMS43TUIvcyIsImFkZCI6ImRlYXBwLmppc3V5dW4udG9wIiwicG9ydCI6IjIwNTMiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWExYTA1ZDktNjliZS00NWQzLWUzMjYtYzY2MjFlZGY3YjMxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9kZXZtIiwiaG9zdCI6ImRlYXBwLmppc3V5dW4udG9wIiwidGxzIjoidGxzIn0=
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
-vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://bbc62372-5e9e-4144-de1d-0bda3b9bd2be@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
