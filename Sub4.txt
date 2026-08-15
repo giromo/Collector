@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://bd89f922-50d5-323e-4f6e-7e03e5e5e636@69.46.46.40:443?path=/ws/bd89f922-50d5-323e-4f6e-7e03e5e5e636&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-69bf.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-69bf.up.railway.app#🇳🇱@FreakConfig
-vless://bd89f922-50d5-323e-4f6e-7e03e5e5e636@69.46.46.40:443?path=/ws/bd89f922-50d5-323e-4f6e-7e03e5e5e636&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-69bf.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-69bf.up.railway.app#Channel : @Daily_Configs
 vless://bd89f922-50d5-323e-4f6e-7e03e5e5e636@69.46.46.40:443?encryption=none&type=ws&security=tls&path=/ws/bd89f922-50d5-323e-4f6e-7e03e5e5e636&host=rvg-production-69bf.up.railway.app&sni=rvg-production-69bf.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@meliproxyy
 vless://bd89f922-50d5-323e-4f6e-7e03e5e5e636@69.46.46.40:443?encryption=none&type=ws&security=tls&path=/ws/bd89f922-50d5-323e-4f6e-7e03e5e5e636&host=rvg-production-69bf.up.railway.app&sni=rvg-production-69bf.up.railway.app&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@irconfiig
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#🚀t.me/iProxyChannel
@@ -502,3 +500,5 @@ vless://Telegram:@Free_VPN_CH@204.77.1.55:443?encryption=none&security=tls&sni=t
 vless://Telegram:@Free_VPN_CH@203.18.98.197:2053?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@194.53.54.30:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
 vless://Telegram:@Free_VPN_CH@194.164.235.8:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@193.53.40.219:8443?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#کانال تلگرام : Free_VPN_CH@
+vless://Telegram:@Free_VPN_CH@193.233.23.204:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#کانال تلگرام : Free_VPN_CH@

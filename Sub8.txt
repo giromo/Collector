@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303@69.46.46.123:443?path=/ws/4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-e6ae.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-e6ae.up.railway.app#@MDvpnSEC
-vless://4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303@69.46.46.123:443?path=/ws/4469b81d-2b6f-1f89-3d0b-3cd4fbcbd303&security=tls&alpn=http/1.1&encryption=none&host=x4g-production-e6ae.up.railway.app&fp=chrome&type=ws&sni=x4g-production-e6ae.up.railway.app#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 vless://444f3779-cc79-4289-b22b-f75bc84be25e@d7e209882c98f0ecd7e209882c98f0ec.ssdhdd.org:443?security=reality&encryption=none&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&headerType=none&fp=chrome&type=tcp&sni=tasnimnews.ir&sid=3b225391611b29e5#چنل عضو شو @v2ra_config
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?security=none&encryption=none&headerType=none&type=tcp#@configprxy
 vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:36980?encryption=none&packetEncoding=xudp#• 🇹🇷 | 𝗧𝘂𝗿𝗸𝗲𝘆 - @HesarWeb
@@ -502,3 +500,5 @@ vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc#🇪🇪 Join+Telegram:@Farah_VPN 🇪🇪
 vless://1f216ab5-b0bb-44f4-8222-a05eb8c8cc7c@194.36.174.160:15300?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#@appsooner کانال تلگرام 🕊️
+vless://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@45.131.212.22:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#@v2rayng3
