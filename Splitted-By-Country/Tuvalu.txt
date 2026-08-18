@@ -1,8 +1,8 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.122.2:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.19.137:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.137.63:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.0.55:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=/iTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY @iTV2RAY @iTV2RAY @iTV2RAY&fp=chrome&spx=/iTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@iTV2RAY+/+All+oprator+/+iOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
+vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.36.201:22222?headerType=none&security=none&type=tcp&encryption=none#@Napsternetvirani
+vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://d662d09d-61e8-42ba-bc17-a40121589b26@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI
+vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MCI  همراه و مودم  9999GB ➖➖➖➖➖➖➖➖➖➖➖
