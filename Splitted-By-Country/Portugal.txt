@@ -1,18 +1,10 @@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-vless://beca67c2-e0a8-43fe-aaff-fecc842de3d9@ipcf.prx11game.ir:443?path=%2Fprx11&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=mlkem768x25519plus.native.0rtt.ZYNiy9qf0MbtAc…
-vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#
-ss://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.69.99.40:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-ss://12815cc0-a632-4b17-ab47-26ac2b16730f@185.8.172.140:443?encryption=none&amp;security=none&amp;type=tcp#
-ss://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-PROXY_MTM?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#mehrosaboran?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
-vless://45172ad2-bfb4-4403-a525-2b60b4e75985@185.126.236.181:2053?path=/&security=&encryption=none&host=www.icloud.com&type=ws#@v2ray313 کانالمون ❤️
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#@v2ray313 کانالمون 💛
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@81.95.4.189:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#@v2ray313 کانالمون 💦
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@Iran_v2ray1
-vless://d171491a-9995-46ce-8719-f64463ca3a45@172.67.74.10:443?path=/download.php#TELEGRAM-mehrosaboran ?ed=512&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#@mehrosaboran
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?mode=auto&path=/G3EEoH63&security=reality&encryption=none&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&fp=chrome&type=xhttp&sni=www.amazon.com&sid=f57d8f26#@v2ray313 کانالمون 😇
+vless://85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2@subgift.up.railway.app:443?path=/ws/85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift.up.railway.app#114
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@v2ray313 کانالمون 🔥
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.163.238:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.58.64:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.135.89:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
