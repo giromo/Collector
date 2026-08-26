@@ -1,9 +1,3 @@
-hysteria2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443?sni=quic.tyr-agentstvo.tech#%E8%8A%AC%E5%85%B0
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.195.83.74:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.219.171:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.35.132:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.21.202:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.181.91.194:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.166.114:22223?encryption=none&security=none&type=tcp#OurChannel:@DirectVPN
-vless://15b154c3-b4f9-435d-9b46-bd096dec4be1@141.0.184.113:443?encryption=none&security=none&type=grpc&serviceName=vless&mode=gun#@Napsternetvirani
-vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@194.93.61.95:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=58fbcddfaae3ade9#@Napsternetvirani
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@Cnetvn?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#Telegram 🆔@cnetvpn
