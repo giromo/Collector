@@ -1,7 +1,2 @@
-trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
-vless://414b2c7f-26e8-4c08-a357-a4f00043804e@192.166.82.74:8443?security=reality&encryption=none&pbk=vmfswX2VwSAGOSd9gleiWLfZK8BVyMI7D6oMDPUjpCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f15240e5244c7ba8#@vmesskhodam
-vless://54f3d606-f92f-462c-8c63-0718943c9ac5@66.33.22.220:18333?path=/&security=none&encryption=none&type=ws#@vmesskhodam
-vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#@vmesskhodam
-vless://c63d2c0f-786d-49ff-9891-f63bd1ac58d7@45.59.126.91:8080?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.176.1:22224?security=none&encryption=none&host=&headerType=none&type=tcp#@vmesskhodam
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#@vmesskhodam
