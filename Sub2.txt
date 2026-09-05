@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-ch.upd-media.com&fp=chrome&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&sid=b3c1d918e7c4f767&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI#@Daily_Configs
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@217.177.75.93:443?security=reality&encryption=none&pbk=T5Dj3GB5C8gtZ4H8x_eS0aZXik-8Yqzyi3F1AEmM4zE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-us.upd-media.com&sid=f3a9d24f68#@tootffarangi🍓-14
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@217.177.75.93:443?security=reality&encryption=none&pbk=T5Dj3GB5C8gtZ4H8x_eS0aZXik-8Yqzyi3F1AEmM4zE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-us.upd-media.com&sid=f3a9d24f68#@B2Hub
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@130.17.6.235:443?security=reality&encryption=none&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&sid=f3c4d918e7c4f744#[🇩🇪]t.me/ConfigV2RayNG
@@ -501,4 +502,3 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=/
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ICV2RAY
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=/uploader.php&security=tls&encryption=none&fp=chrome&type=ws&sni=maple.adaspoloandco.com#@v2ray_phoenix
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&type=ws&path=/uploader.php#@Daily_Configs
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/uploader.php#🇺🇳 UN
