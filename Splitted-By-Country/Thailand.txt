@@ -1,25 +1,21 @@
-vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwb3J0IjoiNDk2NjciLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDEyRTcyQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmV0Ijoibm9uZSIsInBhdGgiOiIiLCJwb3J0IjoiMzc1MTUiLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D9%87%D9%84%D9%86%D8%AF%29
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#TH-103.169.67.34-0128
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH-103.169.67.34-0135
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
-ss://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=milan.adaspoloandco.com#%40%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%9F%96%20%F0%9F%A4%8D%F0%9F%95%8A%EF%B8%8F
-ss://0691b704-7742-4248-8787-e72b98ec8c0c@104.17.19.159:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=nova-comet-core-8e95.nova-58d622.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=nova…
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTYiLCJhZGQiOiIxODUuMjA0LjE2OS4xMjciLCJwb3J0IjoiNDQzIiwiaWQiOiI1ZmQwYzQzMy1lZmU4LTQ2NmEtOWZkNy0yMzNhNDQ4ZThiNTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIxODUuMjA0LjE2OS4xMjciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjE4NS4yMDQuMTY5LjEyNyIsInRlc3RfbmFtZSI6Ijk2In0=
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#TH-103.169.67.34-0128
+hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52050?alpn=h3&fp=chrome&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#dc-udp-%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-Amsterda...
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#
+ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#TH
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#泰国
-trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#3
-vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@188.114.97.3:2082?path=/tfufdfute5wydh&security=none&encryption=none&host=www.chatgpt.com.3.hiphonemobile.top&type=httpupgrade#@v2ray313 کانالمون 🌝
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@66.81.247.155:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#TEL;Father_vpn
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&fp=chrome&type=ws&host=ov-italy1.09vpn.com&path=/vless/#🇺🇳 UN
-vless://53ffd172-de4c-002f-aa77-1a6830a36cf8@84.38.187.134:443?mode=auto&path=/repository&security=reality&encryption=none&pbk=QSAIpsE696lDqkumfo7dyBt92XzrVDPTF6KogbeKhGc&fp=chrome&type=xhttp&sni=git.xpkg.ru&sid=2c9431dc7a306018#@i10VPN🍓
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#TEL;Father_vpn
-vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
-vless://95b5d1d0-a878-4a52-bf2a-c8e323457b02@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 💚
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&host=google.com&type=ws#@Lent_Gc🔋🍷
-vless://XpnTeam-50@140.248.75.254:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@v2ray313 کانالمون 🥶
+trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
+vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@188.114.97.3:2052?path=/tfuffute5wydh&security=none&encryption=none&host=www.chatgpt.com.3.hiphonemobile.top&type=httpupgrade#@v2ray313 کانالمون 🥶
+vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?path=/stream&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fr.connfull.org&fp=chrome&type=ws&allowInsecure=0#TEL;Father_vpn
+vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=/29c8fed7ca22&security=&encryption=none&type=ws#@v2ray313 کانالمون 🥀
+vless://6abbc9ed-209e-94d7-98e2-e315b5ff3aa9@69.46.46.124:443?path=/ws/6abbc9ed-209e-94d7-98e2-e315b5ff3aa9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=norl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=norl-production.up.railway.app#@𝐕𝟐𝐗𝐍𝐄𝐓
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@tai.helper-internet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tai.helper-internet.com&fp=chrome&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#泰国
 vless://a83b52bd-8a99-4df5-a4c9-c82c043c1f8d@frad.webshecan.cloud:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=france.webshecan.cloud#@WebShecan-With❤️
-vless://b9fc97f4-222b-1863-083c-3e37eabcd155@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b9fc97f4-222b-1863-083c-3e37eabcd155#110
-vless://c09795c8-ee61-4c2a-980b-5946d66c80ec@VARZESH3.COM:2096?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lol6.artarona.ir&type=ws&allowInsecure=0&sni=lol6.artarona.ir#TEL;Father_vpn
+vless://c8541f02-4efd-401d-beb7-dc017b12ee94@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#TEL;Father_vpn
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@v2ray313 کانالمون 🤍
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🇹🇭 Join+Telegram:@Farah_VPN 🇹🇭
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🇹🇭🟧 TH
