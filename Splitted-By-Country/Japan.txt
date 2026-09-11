@@ -1,49 +1,45 @@
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvdm1lc3MvIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA3QjRFRDgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNDUyODVGIiwiYWRkIjoiY2MyOC5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNjMjguZ29pbmdzaWRlLnNpdGUiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%F0%9F%87%AF%F0%9F%87%B5JP-45.32.16.53-0081
-ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y=@64.83.33.45:443#%F0%9F%87%AF%F0%9F%87%B5JP-64.83.33.45-0231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#JP-45.32.16.53-0081
+vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoianAwMi5hMGEueHl6IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiMjU2ODYiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEQ1OUM3RiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidm1lc3MiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIyMTAuMTM4LjM3LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRERBM0UzIiwic2N5IjoiYXV0byIsInNuaSI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI0NS4xOTIuMjA2LjYiLCJhaWQiOjAsImhvc3QiOiJpbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tIiwiaWQiOiI5ZWJlY2Y1ZS1iMTYwLTQzYmQtODA2ZS01NGNkOTk0ZmM0YzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW1hZ2UiLCJwb3J0IjoiODA4MCIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQUI0MDY1Iiwic25pIjoiaW1hZ2VzLW5hLnNzbC1pbWFnZXMtYW1hem9uLmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDE0NEEyIiwiYWRkIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIxYWJlNDlkZWRiNmU0ZjY1YTBmMGE1ZWE3OWRkZWZhZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwidGxzIjoidGxzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDQ4REUyIiwiYWRkIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjFhYmU0OWRlZGI2ZTRmNjVhMGYwYTVlYTc5ZGRlZmFkIiwic25pIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwiaG9zdCI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRjg2QTJCIiwiYWRkIjoib2MuaW1mdW4uZnVuIiwicG9ydCI6IjE4MTEyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFkNDVmOGY2LTBmMGEtNGNjNC1iOTA3LWM0NTgyNDA3ZGM5NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJvYy5pbWZ1bi5mdW4iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRUYwOUE2IiwiYWRkIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInBvcnQiOiIyODc4NyIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3IiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP-149.22.87.241-1053
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-1055
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.62.176:2096?&security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#%EF%B8%8F_%E6%9C%AA%E7%9F%A5_27
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP-149.22.87.204-0099
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-0101
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP-149.22.87.241-0100
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.101:8388#HK-103.141.221.101-4790
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-0101
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP-84.247.155.196-4937
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6/wn4e1XSBbdm0tbm8td3NdIFsyNjA5MTEtMTUyMDE3LjY4NV0iLCJhZGQiOiIxNzIuMTExLjE0Ni42NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsImhvc3QiOiIxNzIuMTExLjE0Ni42NCIsInRscyI6IiJ9
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#JP_3%7C610KB%2Fs%7CA004-260618%2001
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP_4%7C693KB%2Fs%7CA004-260618%2001
 vmess://eyJ2IjoiMiIsInBzIjoiSlBfMjR8MzQ5S0Ivc3xBMDA0LTI2MDYxOCAwMSIsImFkZCI6IjE1NS4yNDguMTc2LjQ0IiwicG9ydCI6IjU1MjE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE1NGRiYzM5LTA5MjEtY2YxMS0yOWJkLTE1NmM1MDAwZDc2MyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlBfMjV8NDc4S0Ivc3xLMDAxLTI2MDYxOCAwMSIsImFkZCI6IjE1NS4yNDguMTc2LjQ0IiwicG9ydCI6IjU1MjE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjE1NGRiYzM5LTA5MjEtY2YxMS0yOWJkLTE1NmM1MDAwZDc2MyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#JP_21%7C601KB%2Fs%7CA004-260618%2001
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_23%7C234KB%2Fs%7CA004-260618%2001
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_22%7C169KB%2Fs%7CA004-260618%2001
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#JP_62%7C637KB%2Fs%7CA004-260618%2001
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_66%7C174KB%2Fs%7CA004-260618%2001
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.222.193.153:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=white-forest-2c01.alvlirm222.workers.dev&type=ws&headerType=none&host=white-forest-2c01.alvlirm222.workers.dev&path=%2F#JP_67%7C544KB%2Fs%7CB007-260618%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#JP_69%7C741KB%2Fs%7CA004-260618%2001
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_68%7C65KB%2Fs%7CA004-260618%2001
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?&security=false&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&path=%2F#JP_71%7C281KB%2Fs%7CB007-260618%2001
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_78%7C111KB%2Fs%7CA004-260618%2001
 vmess://eyJ2IjoiMiIsInBzIjoiSlBfODB8NzIwS0Ivc3xBMDA0LTI2MDYxOCAwMSIsImFkZCI6IjQ1LjMyLjU3LjExOCIsInBvcnQiOiI0NDMzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM1Yjg5ODMyLTBhN2MtNDhkZC04ZDFjLWEyODkxYjUyMjE5NSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#JP-149.22.87.241-1053
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#JP-149.22.87.240-1055
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjEiLCJhZGQiOiIxMjguMTQwLjEwOS4yMzIiLCJwb3J0IjoiODAiLCJpZCI6IjA1YTE3OGY5LWU2YmEtNDAwNi05M2Q3LTNkOTgwY2RjM2E3NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2MSJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI5IiwiYWRkIjoiOTUuODEuMTI2LjExOSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInRlc3RfbmFtZSI6IjEyOSJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
-ss://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#JP_83%7C209KB%2Fs%7CA004-260618%2001
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-4937
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@202.84.53.85:30816?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
 hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#日本
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#日本
 hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#日本
-hysteria2://mdq80x0xv9wt7520@giftcard.gateway-stream.com:52046?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇯🇵 Japan-Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#[047676] - 🇯🇵 Japan | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.96:804#[047678] - 🇯🇵 Japan | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.171:805#[047679] - 🇯🇵 Japan | @freenettir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@89.31.126.171:807#[047680] - 🇯🇵 Japan | @freenettir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.83:800#[047980] - 🇯🇵 Japan | @freenettir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.84:802#[047981] - 🇯🇵 Japan | @freenettir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@5.183.176.91:804#[047982] - 🇯🇵 Japan | @freenettir
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#日本
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵168459 | ⚡️Telegram = t.me/SOSkeyNET
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵JP-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#Japan 🇯🇵
 ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y=@64.83.33.45:443#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
@@ -62,7 +58,8 @@ vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.125:443/?type=tcp&encryption=none&flow=&sni=localhost&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=&packetEncoding=xudp#JP
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#JP
 vless://7460547d-e83c-4843-b404-9142b22261a7@3.112.47.207:29860?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=g7I81MzpM7J6K9WLbZdaMPS9We6GYeeNY3EKRvyiKW4&sid=c992a34f288be189&type=tcp&headerType=none#🇯🇵 JP
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.214.172:36734?security=tls&sni=vd.ylks.link&type=ws&path=/#🇯🇵168469 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://babf64f8-f9ee-4564-a097-16433f2ebd46@13.230.66.70:23607?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=liATkHCbR_IPjdgOhHK5nZO6fgCO091bTab3v2G8Lm4&sid=701b0c5c9dee514d&type=tcp&headerType=none#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
 vless://cde73ad2-1a4f-4521-8c31-bd498cdacd73@soskeynets-k11-6kq4f2.jp.y-tun.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=auth.deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#🇯🇵139871 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
