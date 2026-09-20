@@ -1,4 +1,3 @@
-vless://XpnTeam-4@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%204ms
-vless://240a0e79-8efd-e51f-bd08-93c5a6579ea2@popinu-production.up.railway.app:443?path=%2Fws%2F240a0e79-8efd-e51f-bd08-93c5a6579ea2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=popinu-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=popinu-production.up.railway.app#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%2050ms
-vless://029fc301-ac31-4aae-9fd8-5d0bff6ec5c0@k2.cloud--vpn.site:443?encryption=none&type=ws&security=tls&path=%2F&host=c12.com&sni=ssl.fastly.com&alpn=h2&fp=firefox&insecure=0&allowInsecure=0#🆔lrnbymaa%20🔒%20VL-WS-N/A%20❔%20XX%2017ms
-vless://4865927f-15be-4e19-a692-32f256982df5@80.93.217.193:8443?encryption=mlkem768x25519plus.native.0rtt.ZUTZMHXq1r54CU4ePSlr7ALSXSKWzXxyZrQs-4CGiWQ&security=none&type=tcp&headerType=http&host=play.google.com#🆔lrnbymaa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?type=ws&host=vms.lifetime37.workers.dev#🆔lrnbymaa%20🔓%20VL-WS-N/A%20❔%20XX%2012ms
+vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#🆔lrnbymaa%20🔓%20VL-TCP-N/A%20❔%20XX%20176ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.153:22222?encryption=none&security=none&type=tcp&headerType=none#🆔lrnbymaa%20🔓%20VL-TCP-N/A%20❔%20XX%20down
