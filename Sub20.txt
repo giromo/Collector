@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://9913a211-19e0-4c7f-b813-841d30d28168@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#EPODONIOS
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@x9k-7m.se.auragg.org:8444?encryption=none&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&security=reality&serviceName=auragrpc&sid=d6b2e9f1a4c8d3f5&sni=cloudflare.com&type=grpc#EPODONIOS
-vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#EPODONIOS
 vless://98c3f329-2996-4024-b445-917f9cee1b66@109.122.246.91:35233?path=/&security=&encryption=none&type=ws#EPODONIOS
 vless://98bc431a-2963-4faa-a712-cc83798a2edb@109.169.85.139:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#EPODONIOS
 vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?encryption=none&fp=chrome&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=/eyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&sni=holy-glitter-39f9.wwewee2dasdds.workers.dev&type=ws#EPODONIOS
@@ -502,3 +499,6 @@ vless://74a025dd-c287-4acf-a5fb-e573e10feef9@cdn-cloudflare455.korvexe.ir:2095?p
 vless://746fb893-5df4-42b2-92f0-842c370dcd6f@91.107.176.128:443?security=reality&encryption=none&pbk=-cQ1dKmc1JBTfQTXJM1WVOPtm76TFDSFSxPYZ2eGXx4&headerType=none&fp=chrome&spx=/n0Wi8LmuRGyRQ2D&type=tcp&sni=storage.googleapis.com&sid=576cc5f8#EPODONIOS
 vless://7451a133-ca03-0012-b783-36449767dc13@82.40.62.92:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#EPODONIOS
 vless://744110a3-7a13-46f3-9bfb-a49bc73f3fbd@147.45.152.37:443?security=reality&encryption=none&pbk=AQ1gO_yhp9sAX3tfQZt7e2fg4wH05o4ZX9Lubi6Ncys&headerType=none&fp=chrome&type=tcp&sni=sso.passport.yandex.ru&sid=b11ed029fdb70187#EPODONIOS
+vless://742f9654-0888-4c2c-9672-0e206dcefa25@87.228.33.67:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vlgrpc&allowInsecure=0&sni=cdn13.global-cdn.org#EPODONIOS
+vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&type=tcp&sni=www.github.com&sid=3f080f861d7f#EPODONIOS
+vless://73f8aad3-9f94-4264-a6ad-3238c3662d74@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS

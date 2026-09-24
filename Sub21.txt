@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://742f9654-0888-4c2c-9672-0e206dcefa25@87.228.33.67:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vlgrpc&allowInsecure=0&sni=cdn13.global-cdn.org#EPODONIOS
-vless://7412605e-18de-4b34-af4e-82e9f544cc24@95.85.231.231:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&type=tcp&sni=www.github.com&sid=3f080f861d7f#EPODONIOS
-vless://73f8aad3-9f94-4264-a6ad-3238c3662d74@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://73f8aad3-9f94-4264-a6ad-3238c3662d74@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://73e08fcb-a0c7-45d0-b55d-f78c903c64a6@dl4.gooniforoshi.fun:443?path=/download.php&security=tls&encryption=none&insecure=0&host=dl4.gooniforoshi.fun&type=ws&allowInsecure=0&sni=dl4.gooniforoshi.fun#EPODONIOS
@@ -502,3 +499,6 @@ vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.62:443?security=reality&en
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.61:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#EPODONIOS
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.59:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#EPODONIOS
 vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.58:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#EPODONIOS
+vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.56:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#EPODONIOS
+vless://4f8a1d19-4d21-47f5-816e-a8f475fbd3f7@31.57.18.55:443?security=reality&encryption=none&pbk=qPgl3LmKAKs5K-KzGNRJyr5KTO0KoRNN5m2PTCMscXU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv-waw.kintecolas.com&sid=22f534c530d37170#EPODONIOS
+vless://4f6ae50d-c6e0-43e2-87e7-4a4217618a4c@66.33.22.219:32544?path=/&security=none&encryption=none&type=ws#EPODONIOS
