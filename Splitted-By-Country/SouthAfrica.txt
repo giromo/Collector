@@ -1,27 +1,24 @@
-vmess://eyJhZGQiOiIxNjAuMTE1LjE5My45OSIsInYiOiIyIiwicG9ydCI6NjAyMjIsImlkIjoiODQxMzRkOTAtZTRmZS00YTg2LWM4ZDYtNGQ3YmVkYjNjMzMzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoiIiwicHMiOiJaQSDwn4e/8J+HpiB8IEBSYXlkaWthbHggfCAyRTBCNkYifQ==
-vmess://eyJhZGQiOiJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fib3V0Lzc2NzgiLCJwb3J0IjoiNDQzIiwicHMiOiJaQSDwn4e/8J+HpiB8IEBSYXlkaWthbHggfCA5M0REQzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiWkEg8J+Hv/Cfh6YgfCBAUmF5ZGlrYWx4IHwgNTFFMzQ3IiwiYWRkIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwic25pIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicGF0aCI6Ii9hYm91dC83Njc4In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiIxOTQuMjI2LjE0Mi4xMjAiLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJ0ZXN0X25hbWUiOiI1MCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODUiLCJhZGQiOiJjdS44Nzc3NzQueHl6IiwicG9ydCI6IjQ0MyIsImlkIjoiZjMyNDRlMjgtMTU3Yi00OWU5LTk3MzAtODk4MzJmODllYmNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJhbGFuY2VkLW1pbmRzLWNhcnJpZXItZGVtYW5kaW5nLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii92bWVzcy1hcmdvIiwidGxzIjoidGxzIiwic25pIjoiYmFsYW5jZWQtbWluZHMtY2Fycmllci1kZW1hbmRpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0ZXN0X25hbWUiOiI4NSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI1IiwiYWRkIjoiMTkyLjcxLjI0OS4xODYiLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJ0ZXN0X25hbWUiOiIxMjUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYwIiwiYWRkIjoiY29ubmVjdG8xLmtvbG1hbi5jb20uZGUiLCJwb3J0IjoiODA4MCIsImlkIjoiNTE5MDgxM2UtMzVlMS00NWRjLWI5MTUtMTg5YWI0YmY0NmJmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiItLS0iLCJob3N0IjoiNS5zaWRpbi5jb20uZGUiLCJwYXRoIjoiL2Y5YkdiRzdaTnk1TDB0elhLWk54U1g0cSIsInRscyI6IiIsInNuaSI6IjUuc2lkaW4uY29tLmRlIiwidGVzdF9uYW1lIjoiMTYwIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#%F0%9F%87%BF%F0%9F%87%A6ZA-139.84.247.164-0216
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA_1%7C802KB%2Fs%7CA004-260618%2001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#ZA_3%7C717KB%2Fs%7CX001-260618%2001
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#%5Bwww.v2nodes.com%5D%20vless-ZA-1...%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#ZA-102.133.165.160-0166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#ZA-102.37.156.224-0167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#ZA-139.84.247.164-0224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🩵+@Azarakhsh_Proxy+🩷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#2🇿🇦 @JKVPN 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#2🇿🇦 @MainV2ray 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#2🇿🇦 @RK_VPS 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUnJhRTF5TEM4TFJxbWVi@20.164.42.112:443#🇿🇦@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#🇿🇦 Join+Telegram:@Farah_VPN 🇿🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#🇿🇦 V2RayyNGvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#1🇿🇦 @JKVPN 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#1🇿🇦 @MainV2ray 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#1🇿🇦 @RK_VPS 👈کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYkhCSHpPd1VDSGFkTHd0@20.164.42.112:443#🇿🇦@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#@v2RayyNGvpn 🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🩵+@Azarakhsh_Proxy+🩷
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
-trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
-vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#🩵+@Azarakhsh_Proxy+🩷
-vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@ddnl0.zazazuza.ru:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#@i10VPN⁵
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome&security=tls&alpn=http/1.1&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=edgetunnel-4uw.pages.dev&type=ws&allowInsecure=0&sni=edgetunnel-4uw.pages.dev# @AZARBAYJAB1
