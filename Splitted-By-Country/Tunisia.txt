@@ -1,8 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzYgNDI4LjdLQi9zIiwiYWRkIjoiMTcyLjY2LjIwMy42NyIsInBvcnQiOiI0NDMiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRlc3RfbmFtZSI6IjM2In0=
-vmess://eyJ2IjoiMiIsInBzIjoiSEs0IiwiYWRkIjoiaGswMS42NTNlYmVlYi01ZjYwLTRiZTUtOTU4ZC03YmY0ODM5Y2RjY2QuZWY2NjE2ZmQtNWIwNi00ODJmLTlkNjQtMTgzNzQ1NjU5Y2JmLmJ5dGVwcml2YXRlbGluay5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiJmMDE4MzYxYy0zZDY2LTQ2MzUtODBjOS0yMmJlMzZiNzBhYzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIxMjMwNiIsInRscyI6InRscyIsInNuaSI6Ind3dy4xMjMwNi5jbiIsInRlc3RfbmFtZSI6IkhLNCJ9
-ss://eyJhZGQiOiIxMDcuMTQ5LjExOS40MyIsInYiOjIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9XzEiLCJwb3J0IjoiMzcwMDAiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvcGF0aC8wNDAzMTgxNDI1MDcifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@
+vmess://eyJ2IjoiMiIsInBzIjoiSEs2IiwiYWRkIjoiNDcuNzYuNDQuMzIiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLNiJ9
 vless://--DIGiV2RAY---@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-DIGiV2RAY@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
+vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
+vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(   @iTV2RAY   )&sni=tm.iTV2RAY.fun#@iTV2RAY+/+MTN
 vless://DIGiV2RAY-@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
