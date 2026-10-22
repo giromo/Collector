@@ -1,10 +1,7 @@
-vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiQFYycmF5X0FscGhh8J+bju+4jyA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🆔spotify_porteghali%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.89:9889?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=00000000#🆔spotify_porteghali%20🔒%20VL-GRPC-%20❔%20XX%20down
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hr.convert-flow.net&sid=00a61d55a07de885#🆔spotify_porteghali%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=firefox&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#🆔spotify_porteghali%20🔒%20VL-GRPC-%20❔%20XX%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#@ghand_sheken
+vmess://eyJhZGQiOiJzdXBlcnZwbi5hcm1hbnNwZWVkLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzdXBlcnZwbi5hcm1hbnNwZWVkLmlyIiwiaWQiOiI5ZTMxNmQyYy0zZjQ2LTRmNDctYTNiZC1jYWQ0MjliOGViMmEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5X0FscGhh8J+NuyAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#@ghand_sheken
 ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#@ghand_sheken
-vless://915773aa-b54f-43b7-8206-456bb4dff914@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-27Mordad-Night
-vless://b7f8a470-e576-48ed-a5d5-d56d9605d307@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-26Mordad-Night
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080?path=/sg-melbi?ed#Telegram---@GHOFLSHCAN---@GHOFLSHCAN---@GHOFLSHCAN---@GHOFLSHCAN&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#@v2ray_phoenix
