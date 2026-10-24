@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=/fp=chrome&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#@v2ray_phoenix
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=/fp#TELEGRAM---ICV2RAY-?ed=2560&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#@v2ray_phoenix
 vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?type=ws&encryption=none&flow=&host=ccc.010304.xyz&path=/fp=chrome&security=tls&sni=ccc.010304.xyz#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
@@ -502,3 +500,5 @@ vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?encryption=non
 vless://b625622c-e693-4023-3eee-11a49b0aafca@agemalmebashi-production.up.railway.app:443?path=/ws/b625622c-e693-4023-3eee-11a49b0aafca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=agemalmebashi-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=agemalmebashi-production.up.railway.app#@Shh_Proxy-New²
 vless://b613a1d8-964d-478a-85d3-c0267f6d6016@94.139.180.136:3320?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.GlHO7I5YcDd4ZRZWTCVj72KkiyeRn4_rOiU_89JSZG4&pbk=Gs-M8cDFoAgQK2KrucEbVhPxzIWE5fXZM1ePrMRbiA8&fp=chrome&type=xhttp&sni=play.google.com&sid=421790c0c489a6ac#✅ t.me/bigAVPN ایران آزاد 👑
 vless://b5e0b41e-b491-42bb-8f75-cfe6e700cb76@188.212.97.239:3333?type=tcp&encryption=none&path=/&host=cloudflare.com&headerType=http&security=none#🇮🇷199351 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b5cbeffe-d7d0-49dd-a279-6b5a6a1aad0d@72.56.241.75:18443?mode=gun&security=reality&encryption=none&pbk=YvhcuqXRqPigT7_rp9vsV5LAdxXHN8eWB_17SchS_S8&fp=chrome&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#YFZ 85 @Outline_Vpn
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=chrome&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#@confiig_hun

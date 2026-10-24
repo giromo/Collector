@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/giromo/Collector
 #profile-web-page-url: https://github.com/giromo/Collector
-vless://9e6836f1-846e-4617-ab08-579141d612e6@223.254.131.145:443?security=reality&encryption=none&pbk=2IIpJJfhPvtjCi3EJEOm_kkcmfzNExbM8Tl0QZWsGzo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cp.cloudflare.com&sid=a3b454e8#11011@proxy_online_net
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@64.188.118.137:443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@141.253.194.63:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=/#🇪🇸 Join+Telegram:@Farah_VPN 🇪🇸
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@109.122.198.83:8443?path=/&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@109.122.198.83:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=/&security=tls&sni=shephe.dpdns.org&type=ws#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
@@ -502,3 +500,5 @@ vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&f
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59#vpnsal
 vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=7q4eiwcseu-193708596-direct.rahbarii.com#@v2ray313 کانالمون 🙀
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.121:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none@soskeynets#🇨🇭139764 | ⚡️Telegram = t.me/SOSkeyNET
