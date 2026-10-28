@@ -1,2 +1,4 @@
-vless://%40awlix_ir@213.163.207.91:443?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#%40awlix_ir-bogszwn8
-ss://%40awlix_ir@213.163.207.91:443?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#%40awlix_ir-bogszwn8
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU1IiwiYWRkIjoiY2RuLWFwaS5tcm10bi54eXoiLCJwb3J0IjoiMjAyMCIsImlkIjoiMjljNGEzYmQtOWQ4Yy00YWMzLWIyNzktOGIyMDE1NjBjMjI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwbGF5Lmdvb2dsZS5jb20iLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTU1In0=
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06MnRGcXlrR3FaMTAxWFcxMWY2aVJpRVJuUHljRkFqallxMHkyelVZaEtobz0@51.38.71.51:2083#@i10VPN²
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#@i10VPN¹⁰
+vless://@awlix_ir@213.163.207.91:443?type=tcp&encryption=none&path=/&headerType=http&security=none#@awlix_ir-bogszwn8
