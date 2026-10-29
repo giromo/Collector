@@ -1,8 +1,2 @@
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@150.40.126.28:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rs.convert-flow.net&sid=00a61d55a07de885#🆔spotify_porteghali%20🔒%20VL-TCP-%20❔%20XX%20down
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#🆔spotify_porteghali%20🔒%20VL-TCP-%20❔%20XX%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTQnc1YjZFOW5vSG9sQmRB@4.168.234.190:443#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYmt5ckt2T3RmU2QyeFFi@20.164.220.189:443#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#@ghand_sheken
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#@ghand_sheken
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#@ghand_sheken
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#🆔spotify_porteghali%20🔒%20VL-TCP-N/A%20❔%20XX%20down
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@212.92.101.89:9889?mode=gun&security=reality&encryption=none&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=00000000#🆔spotify_porteghali%20🔒%20VL-GRPC-%20❔%20XX%20down
